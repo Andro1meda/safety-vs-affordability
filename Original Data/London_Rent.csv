@@ -1,0 +1,4033 @@
+Time period,Area code,Area name,Region or country name,Annual change (%),Rental price (£)
+Jan-15,E09000002,Barking and Dagenham,London,[x],964
+Jan-15,E09000003,Barnet,London,[x],1332
+Jan-15,E09000004,Bexley,London,[x],903
+Jan-15,E09000005,Brent,London,[x],1334
+Jan-15,E09000006,Bromley,London,[x],1140
+Jan-15,E09000007,Camden,London,[x],2070
+Jan-15,E09000008,Croydon,London,[x],1028
+Jan-15,E09000009,Ealing,London,[x],1381
+Jan-15,E09000010,Enfield,London,[x],1155
+Jan-15,E09000011,Greenwich,London,[x],1261
+Jan-15,E09000012,Hackney,London,[x],1808
+Jan-15,E09000013,Hammersmith and Fulham,London,[x],1900
+Jan-15,E09000014,Haringey,London,[x],1445
+Jan-15,E09000015,Harrow,London,[x],1190
+Jan-15,E09000016,Havering,London,[x],918
+Jan-15,E09000017,Hillingdon,London,[x],1047
+Jan-15,E09000018,Hounslow,London,[x],1295
+Jan-15,E09000019,Islington,London,[x],1960
+Jan-15,E09000020,Kensington and Chelsea,London,[x],2673
+Jan-15,E09000021,Kingston upon Thames,London,[x],1306
+Jan-15,E09000022,Lambeth,London,[x],1657
+Jan-15,E09000023,Lewisham,London,[x],1204
+Jan-15,E09000024,Merton,London,[x],1443
+Jan-15,E09000025,Newham,London,[x],1227
+Jan-15,E09000026,Redbridge,London,[x],1043
+Jan-15,E09000027,Richmond upon Thames,London,[x],1616
+Jan-15,E09000028,Southwark,London,[x],1643
+Jan-15,E09000029,Sutton,London,[x],1003
+Jan-15,E09000030,Tower Hamlets,London,[x],1677
+Jan-15,E09000031,Waltham Forest,London,[x],1136
+Jan-15,E09000032,Wandsworth,London,[x],1753
+Jan-15,E09000033,Westminster,London,[x],2419
+Feb-15,E09000002,Barking and Dagenham,London,[x],975
+Feb-15,E09000003,Barnet,London,[x],1337
+Feb-15,E09000004,Bexley,London,[x],908
+Feb-15,E09000005,Brent,London,[x],1335
+Feb-15,E09000006,Bromley,London,[x],1144
+Feb-15,E09000007,Camden,London,[x],2105
+Feb-15,E09000008,Croydon,London,[x],1035
+Feb-15,E09000009,Ealing,London,[x],1390
+Feb-15,E09000010,Enfield,London,[x],1163
+Feb-15,E09000011,Greenwich,London,[x],1270
+Feb-15,E09000012,Hackney,London,[x],1817
+Feb-15,E09000013,Hammersmith and Fulham,London,[x],1892
+Feb-15,E09000014,Haringey,London,[x],1453
+Feb-15,E09000015,Harrow,London,[x],1196
+Feb-15,E09000016,Havering,London,[x],923
+Feb-15,E09000017,Hillingdon,London,[x],1053
+Feb-15,E09000018,Hounslow,London,[x],1293
+Feb-15,E09000019,Islington,London,[x],1961
+Feb-15,E09000020,Kensington and Chelsea,London,[x],2661
+Feb-15,E09000021,Kingston upon Thames,London,[x],1310
+Feb-15,E09000022,Lambeth,London,[x],1664
+Feb-15,E09000023,Lewisham,London,[x],1213
+Feb-15,E09000024,Merton,London,[x],1453
+Feb-15,E09000025,Newham,London,[x],1223
+Feb-15,E09000026,Redbridge,London,[x],1050
+Feb-15,E09000027,Richmond upon Thames,London,[x],1623
+Feb-15,E09000028,Southwark,London,[x],1641
+Feb-15,E09000029,Sutton,London,[x],1006
+Feb-15,E09000030,Tower Hamlets,London,[x],1691
+Feb-15,E09000031,Waltham Forest,London,[x],1139
+Feb-15,E09000032,Wandsworth,London,[x],1761
+Feb-15,E09000033,Westminster,London,[x],2416
+Mar-15,E09000002,Barking and Dagenham,London,[x],988
+Mar-15,E09000003,Barnet,London,[x],1345
+Mar-15,E09000004,Bexley,London,[x],912
+Mar-15,E09000005,Brent,London,[x],1346
+Mar-15,E09000006,Bromley,London,[x],1148
+Mar-15,E09000007,Camden,London,[x],2120
+Mar-15,E09000008,Croydon,London,[x],1043
+Mar-15,E09000009,Ealing,London,[x],1396
+Mar-15,E09000010,Enfield,London,[x],1170
+Mar-15,E09000011,Greenwich,London,[x],1278
+Mar-15,E09000012,Hackney,London,[x],1827
+Mar-15,E09000013,Hammersmith and Fulham,London,[x],1891
+Mar-15,E09000014,Haringey,London,[x],1463
+Mar-15,E09000015,Harrow,London,[x],1206
+Mar-15,E09000016,Havering,London,[x],930
+Mar-15,E09000017,Hillingdon,London,[x],1060
+Mar-15,E09000018,Hounslow,London,[x],1289
+Mar-15,E09000019,Islington,London,[x],1955
+Mar-15,E09000020,Kensington and Chelsea,London,[x],2666
+Mar-15,E09000021,Kingston upon Thames,London,[x],1311
+Mar-15,E09000022,Lambeth,London,[x],1669
+Mar-15,E09000023,Lewisham,London,[x],1219
+Mar-15,E09000024,Merton,London,[x],1459
+Mar-15,E09000025,Newham,London,[x],1224
+Mar-15,E09000026,Redbridge,London,[x],1055
+Mar-15,E09000027,Richmond upon Thames,London,[x],1632
+Mar-15,E09000028,Southwark,London,[x],1648
+Mar-15,E09000029,Sutton,London,[x],1012
+Mar-15,E09000030,Tower Hamlets,London,[x],1701
+Mar-15,E09000031,Waltham Forest,London,[x],1144
+Mar-15,E09000032,Wandsworth,London,[x],1769
+Mar-15,E09000033,Westminster,London,[x],2417
+Apr-15,E09000002,Barking and Dagenham,London,[x],999
+Apr-15,E09000003,Barnet,London,[x],1353
+Apr-15,E09000004,Bexley,London,[x],918
+Apr-15,E09000005,Brent,London,[x],1361
+Apr-15,E09000006,Bromley,London,[x],1153
+Apr-15,E09000007,Camden,London,[x],2110
+Apr-15,E09000008,Croydon,London,[x],1054
+Apr-15,E09000009,Ealing,London,[x],1401
+Apr-15,E09000010,Enfield,London,[x],1179
+Apr-15,E09000011,Greenwich,London,[x],1281
+Apr-15,E09000012,Hackney,London,[x],1831
+Apr-15,E09000013,Hammersmith and Fulham,London,[x],1892
+Apr-15,E09000014,Haringey,London,[x],1482
+Apr-15,E09000015,Harrow,London,[x],1217
+Apr-15,E09000016,Havering,London,[x],934
+Apr-15,E09000017,Hillingdon,London,[x],1069
+Apr-15,E09000018,Hounslow,London,[x],1290
+Apr-15,E09000019,Islington,London,[x],1939
+Apr-15,E09000020,Kensington and Chelsea,London,[x],2682
+Apr-15,E09000021,Kingston upon Thames,London,[x],1318
+Apr-15,E09000022,Lambeth,London,[x],1671
+Apr-15,E09000023,Lewisham,London,[x],1224
+Apr-15,E09000024,Merton,London,[x],1462
+Apr-15,E09000025,Newham,London,[x],1232
+Apr-15,E09000026,Redbridge,London,[x],1070
+Apr-15,E09000027,Richmond upon Thames,London,[x],1647
+Apr-15,E09000028,Southwark,London,[x],1651
+Apr-15,E09000029,Sutton,London,[x],1016
+Apr-15,E09000030,Tower Hamlets,London,[x],1708
+Apr-15,E09000031,Waltham Forest,London,[x],1155
+Apr-15,E09000032,Wandsworth,London,[x],1775
+Apr-15,E09000033,Westminster,London,[x],2440
+May-15,E09000002,Barking and Dagenham,London,[x],1001
+May-15,E09000003,Barnet,London,[x],1369
+May-15,E09000004,Bexley,London,[x],922
+May-15,E09000005,Brent,London,[x],1379
+May-15,E09000006,Bromley,London,[x],1154
+May-15,E09000007,Camden,London,[x],2106
+May-15,E09000008,Croydon,London,[x],1062
+May-15,E09000009,Ealing,London,[x],1406
+May-15,E09000010,Enfield,London,[x],1186
+May-15,E09000011,Greenwich,London,[x],1280
+May-15,E09000012,Hackney,London,[x],1841
+May-15,E09000013,Hammersmith and Fulham,London,[x],1904
+May-15,E09000014,Haringey,London,[x],1502
+May-15,E09000015,Harrow,London,[x],1226
+May-15,E09000016,Havering,London,[x],938
+May-15,E09000017,Hillingdon,London,[x],1075
+May-15,E09000018,Hounslow,London,[x],1300
+May-15,E09000019,Islington,London,[x],1935
+May-15,E09000020,Kensington and Chelsea,London,[x],2697
+May-15,E09000021,Kingston upon Thames,London,[x],1324
+May-15,E09000022,Lambeth,London,[x],1679
+May-15,E09000023,Lewisham,London,[x],1231
+May-15,E09000024,Merton,London,[x],1460
+May-15,E09000025,Newham,London,[x],1248
+May-15,E09000026,Redbridge,London,[x],1083
+May-15,E09000027,Richmond upon Thames,London,[x],1658
+May-15,E09000028,Southwark,London,[x],1655
+May-15,E09000029,Sutton,London,[x],1021
+May-15,E09000030,Tower Hamlets,London,[x],1721
+May-15,E09000031,Waltham Forest,London,[x],1174
+May-15,E09000032,Wandsworth,London,[x],1783
+May-15,E09000033,Westminster,London,[x],2478
+Jun-15,E09000002,Barking and Dagenham,London,[x],1004
+Jun-15,E09000003,Barnet,London,[x],1381
+Jun-15,E09000004,Bexley,London,[x],925
+Jun-15,E09000005,Brent,London,[x],1395
+Jun-15,E09000006,Bromley,London,[x],1157
+Jun-15,E09000007,Camden,London,[x],2112
+Jun-15,E09000008,Croydon,London,[x],1068
+Jun-15,E09000009,Ealing,London,[x],1410
+Jun-15,E09000010,Enfield,London,[x],1194
+Jun-15,E09000011,Greenwich,London,[x],1279
+Jun-15,E09000012,Hackney,London,[x],1848
+Jun-15,E09000013,Hammersmith and Fulham,London,[x],1910
+Jun-15,E09000014,Haringey,London,[x],1516
+Jun-15,E09000015,Harrow,London,[x],1234
+Jun-15,E09000016,Havering,London,[x],944
+Jun-15,E09000017,Hillingdon,London,[x],1081
+Jun-15,E09000018,Hounslow,London,[x],1308
+Jun-15,E09000019,Islington,London,[x],1938
+Jun-15,E09000020,Kensington and Chelsea,London,[x],2713
+Jun-15,E09000021,Kingston upon Thames,London,[x],1329
+Jun-15,E09000022,Lambeth,London,[x],1688
+Jun-15,E09000023,Lewisham,London,[x],1239
+Jun-15,E09000024,Merton,London,[x],1460
+Jun-15,E09000025,Newham,London,[x],1264
+Jun-15,E09000026,Redbridge,London,[x],1094
+Jun-15,E09000027,Richmond upon Thames,London,[x],1664
+Jun-15,E09000028,Southwark,London,[x],1663
+Jun-15,E09000029,Sutton,London,[x],1025
+Jun-15,E09000030,Tower Hamlets,London,[x],1731
+Jun-15,E09000031,Waltham Forest,London,[x],1191
+Jun-15,E09000032,Wandsworth,London,[x],1794
+Jun-15,E09000033,Westminster,London,[x],2503
+Jul-15,E09000002,Barking and Dagenham,London,[x],1007
+Jul-15,E09000003,Barnet,London,[x],1393
+Jul-15,E09000004,Bexley,London,[x],926
+Jul-15,E09000005,Brent,London,[x],1411
+Jul-15,E09000006,Bromley,London,[x],1160
+Jul-15,E09000007,Camden,London,[x],2133
+Jul-15,E09000008,Croydon,London,[x],1071
+Jul-15,E09000009,Ealing,London,[x],1413
+Jul-15,E09000010,Enfield,London,[x],1201
+Jul-15,E09000011,Greenwich,London,[x],1279
+Jul-15,E09000012,Hackney,London,[x],1853
+Jul-15,E09000013,Hammersmith and Fulham,London,[x],1917
+Jul-15,E09000014,Haringey,London,[x],1523
+Jul-15,E09000015,Harrow,London,[x],1239
+Jul-15,E09000016,Havering,London,[x],950
+Jul-15,E09000017,Hillingdon,London,[x],1084
+Jul-15,E09000018,Hounslow,London,[x],1316
+Jul-15,E09000019,Islington,London,[x],1945
+Jul-15,E09000020,Kensington and Chelsea,London,[x],2713
+Jul-15,E09000021,Kingston upon Thames,London,[x],1337
+Jul-15,E09000022,Lambeth,London,[x],1698
+Jul-15,E09000023,Lewisham,London,[x],1243
+Jul-15,E09000024,Merton,London,[x],1467
+Jul-15,E09000025,Newham,London,[x],1278
+Jul-15,E09000026,Redbridge,London,[x],1098
+Jul-15,E09000027,Richmond upon Thames,London,[x],1675
+Jul-15,E09000028,Southwark,London,[x],1672
+Jul-15,E09000029,Sutton,London,[x],1027
+Jul-15,E09000030,Tower Hamlets,London,[x],1736
+Jul-15,E09000031,Waltham Forest,London,[x],1200
+Jul-15,E09000032,Wandsworth,London,[x],1802
+Jul-15,E09000033,Westminster,London,[x],2506
+Aug-15,E09000002,Barking and Dagenham,London,[x],1010
+Aug-15,E09000003,Barnet,London,[x],1400
+Aug-15,E09000004,Bexley,London,[x],929
+Aug-15,E09000005,Brent,London,[x],1417
+Aug-15,E09000006,Bromley,London,[x],1167
+Aug-15,E09000007,Camden,London,[x],2152
+Aug-15,E09000008,Croydon,London,[x],1073
+Aug-15,E09000009,Ealing,London,[x],1418
+Aug-15,E09000010,Enfield,London,[x],1215
+Aug-15,E09000011,Greenwich,London,[x],1291
+Aug-15,E09000012,Hackney,London,[x],1861
+Aug-15,E09000013,Hammersmith and Fulham,London,[x],1924
+Aug-15,E09000014,Haringey,London,[x],1527
+Aug-15,E09000015,Harrow,London,[x],1245
+Aug-15,E09000016,Havering,London,[x],957
+Aug-15,E09000017,Hillingdon,London,[x],1088
+Aug-15,E09000018,Hounslow,London,[x],1327
+Aug-15,E09000019,Islington,London,[x],1966
+Aug-15,E09000020,Kensington and Chelsea,London,[x],2706
+Aug-15,E09000021,Kingston upon Thames,London,[x],1346
+Aug-15,E09000022,Lambeth,London,[x],1708
+Aug-15,E09000023,Lewisham,London,[x],1251
+Aug-15,E09000024,Merton,London,[x],1481
+Aug-15,E09000025,Newham,London,[x],1286
+Aug-15,E09000026,Redbridge,London,[x],1107
+Aug-15,E09000027,Richmond upon Thames,London,[x],1682
+Aug-15,E09000028,Southwark,London,[x],1679
+Aug-15,E09000029,Sutton,London,[x],1035
+Aug-15,E09000030,Tower Hamlets,London,[x],1743
+Aug-15,E09000031,Waltham Forest,London,[x],1198
+Aug-15,E09000032,Wandsworth,London,[x],1814
+Aug-15,E09000033,Westminster,London,[x],2493
+Sep-15,E09000002,Barking and Dagenham,London,[x],1020
+Sep-15,E09000003,Barnet,London,[x],1405
+Sep-15,E09000004,Bexley,London,[x],933
+Sep-15,E09000005,Brent,London,[x],1420
+Sep-15,E09000006,Bromley,London,[x],1176
+Sep-15,E09000007,Camden,London,[x],2181
+Sep-15,E09000008,Croydon,London,[x],1075
+Sep-15,E09000009,Ealing,London,[x],1427
+Sep-15,E09000010,Enfield,London,[x],1227
+Sep-15,E09000011,Greenwich,London,[x],1296
+Sep-15,E09000012,Hackney,London,[x],1871
+Sep-15,E09000013,Hammersmith and Fulham,London,[x],1931
+Sep-15,E09000014,Haringey,London,[x],1533
+Sep-15,E09000015,Harrow,London,[x],1248
+Sep-15,E09000016,Havering,London,[x],961
+Sep-15,E09000017,Hillingdon,London,[x],1096
+Sep-15,E09000018,Hounslow,London,[x],1343
+Sep-15,E09000019,Islington,London,[x],1979
+Sep-15,E09000020,Kensington and Chelsea,London,[x],2719
+Sep-15,E09000021,Kingston upon Thames,London,[x],1359
+Sep-15,E09000022,Lambeth,London,[x],1720
+Sep-15,E09000023,Lewisham,London,[x],1257
+Sep-15,E09000024,Merton,London,[x],1499
+Sep-15,E09000025,Newham,London,[x],1293
+Sep-15,E09000026,Redbridge,London,[x],1116
+Sep-15,E09000027,Richmond upon Thames,London,[x],1686
+Sep-15,E09000028,Southwark,London,[x],1683
+Sep-15,E09000029,Sutton,London,[x],1041
+Sep-15,E09000030,Tower Hamlets,London,[x],1750
+Sep-15,E09000031,Waltham Forest,London,[x],1201
+Sep-15,E09000032,Wandsworth,London,[x],1820
+Sep-15,E09000033,Westminster,London,[x],2483
+Oct-15,E09000002,Barking and Dagenham,London,[x],1033
+Oct-15,E09000003,Barnet,London,[x],1411
+Oct-15,E09000004,Bexley,London,[x],938
+Oct-15,E09000005,Brent,London,[x],1423
+Oct-15,E09000006,Bromley,London,[x],1185
+Oct-15,E09000007,Camden,London,[x],2195
+Oct-15,E09000008,Croydon,London,[x],1079
+Oct-15,E09000009,Ealing,London,[x],1435
+Oct-15,E09000010,Enfield,London,[x],1237
+Oct-15,E09000011,Greenwich,London,[x],1307
+Oct-15,E09000012,Hackney,London,[x],1885
+Oct-15,E09000013,Hammersmith and Fulham,London,[x],1930
+Oct-15,E09000014,Haringey,London,[x],1537
+Oct-15,E09000015,Harrow,London,[x],1254
+Oct-15,E09000016,Havering,London,[x],969
+Oct-15,E09000017,Hillingdon,London,[x],1105
+Oct-15,E09000018,Hounslow,London,[x],1363
+Oct-15,E09000019,Islington,London,[x],1992
+Oct-15,E09000020,Kensington and Chelsea,London,[x],2745
+Oct-15,E09000021,Kingston upon Thames,London,[x],1364
+Oct-15,E09000022,Lambeth,London,[x],1731
+Oct-15,E09000023,Lewisham,London,[x],1266
+Oct-15,E09000024,Merton,London,[x],1506
+Oct-15,E09000025,Newham,London,[x],1300
+Oct-15,E09000026,Redbridge,London,[x],1126
+Oct-15,E09000027,Richmond upon Thames,London,[x],1681
+Oct-15,E09000028,Southwark,London,[x],1684
+Oct-15,E09000029,Sutton,London,[x],1053
+Oct-15,E09000030,Tower Hamlets,London,[x],1759
+Oct-15,E09000031,Waltham Forest,London,[x],1206
+Oct-15,E09000032,Wandsworth,London,[x],1826
+Oct-15,E09000033,Westminster,London,[x],2464
+Nov-15,E09000002,Barking and Dagenham,London,[x],1045
+Nov-15,E09000003,Barnet,London,[x],1413
+Nov-15,E09000004,Bexley,London,[x],945
+Nov-15,E09000005,Brent,London,[x],1424
+Nov-15,E09000006,Bromley,London,[x],1187
+Nov-15,E09000007,Camden,London,[x],2176
+Nov-15,E09000008,Croydon,London,[x],1084
+Nov-15,E09000009,Ealing,London,[x],1438
+Nov-15,E09000010,Enfield,London,[x],1238
+Nov-15,E09000011,Greenwich,London,[x],1304
+Nov-15,E09000012,Hackney,London,[x],1882
+Nov-15,E09000013,Hammersmith and Fulham,London,[x],1915
+Nov-15,E09000014,Haringey,London,[x],1538
+Nov-15,E09000015,Harrow,London,[x],1255
+Nov-15,E09000016,Havering,London,[x],974
+Nov-15,E09000017,Hillingdon,London,[x],1109
+Nov-15,E09000018,Hounslow,London,[x],1374
+Nov-15,E09000019,Islington,London,[x],1981
+Nov-15,E09000020,Kensington and Chelsea,London,[x],2781
+Nov-15,E09000021,Kingston upon Thames,London,[x],1367
+Nov-15,E09000022,Lambeth,London,[x],1742
+Nov-15,E09000023,Lewisham,London,[x],1272
+Nov-15,E09000024,Merton,London,[x],1517
+Nov-15,E09000025,Newham,London,[x],1305
+Nov-15,E09000026,Redbridge,London,[x],1132
+Nov-15,E09000027,Richmond upon Thames,London,[x],1677
+Nov-15,E09000028,Southwark,London,[x],1689
+Nov-15,E09000029,Sutton,London,[x],1059
+Nov-15,E09000030,Tower Hamlets,London,[x],1762
+Nov-15,E09000031,Waltham Forest,London,[x],1215
+Nov-15,E09000032,Wandsworth,London,[x],1834
+Nov-15,E09000033,Westminster,London,[x],2463
+Dec-15,E09000002,Barking and Dagenham,London,[x],1051
+Dec-15,E09000003,Barnet,London,[x],1417
+Dec-15,E09000004,Bexley,London,[x],952
+Dec-15,E09000005,Brent,London,[x],1423
+Dec-15,E09000006,Bromley,London,[x],1190
+Dec-15,E09000007,Camden,London,[x],2145
+Dec-15,E09000008,Croydon,London,[x],1088
+Dec-15,E09000009,Ealing,London,[x],1441
+Dec-15,E09000010,Enfield,London,[x],1241
+Dec-15,E09000011,Greenwich,London,[x],1306
+Dec-15,E09000012,Hackney,London,[x],1878
+Dec-15,E09000013,Hammersmith and Fulham,London,[x],1902
+Dec-15,E09000014,Haringey,London,[x],1539
+Dec-15,E09000015,Harrow,London,[x],1259
+Dec-15,E09000016,Havering,London,[x],980
+Dec-15,E09000017,Hillingdon,London,[x],1107
+Dec-15,E09000018,Hounslow,London,[x],1383
+Dec-15,E09000019,Islington,London,[x],1964
+Dec-15,E09000020,Kensington and Chelsea,London,[x],2798
+Dec-15,E09000021,Kingston upon Thames,London,[x],1370
+Dec-15,E09000022,Lambeth,London,[x],1746
+Dec-15,E09000023,Lewisham,London,[x],1279
+Dec-15,E09000024,Merton,London,[x],1525
+Dec-15,E09000025,Newham,London,[x],1310
+Dec-15,E09000026,Redbridge,London,[x],1138
+Dec-15,E09000027,Richmond upon Thames,London,[x],1679
+Dec-15,E09000028,Southwark,London,[x],1700
+Dec-15,E09000029,Sutton,London,[x],1064
+Dec-15,E09000030,Tower Hamlets,London,[x],1773
+Dec-15,E09000031,Waltham Forest,London,[x],1221
+Dec-15,E09000032,Wandsworth,London,[x],1843
+Dec-15,E09000033,Westminster,London,[x],2465
+Jan-16,E09000002,Barking and Dagenham,London,9.4,1055
+Jan-16,E09000003,Barnet,London,6.8,1422
+Jan-16,E09000004,Bexley,London,6.1,958
+Jan-16,E09000005,Brent,London,7.1,1429
+Jan-16,E09000006,Bromley,London,4.5,1191
+Jan-16,E09000007,Camden,London,3.1,2133
+Jan-16,E09000008,Croydon,London,6.2,1092
+Jan-16,E09000009,Ealing,London,4.6,1444
+Jan-16,E09000010,Enfield,London,7.7,1244
+Jan-16,E09000011,Greenwich,London,3.9,1310
+Jan-16,E09000012,Hackney,London,3.5,1871
+Jan-16,E09000013,Hammersmith and Fulham,London,-0.7,1887
+Jan-16,E09000014,Haringey,London,6.6,1541
+Jan-16,E09000015,Harrow,London,6,1261
+Jan-16,E09000016,Havering,London,7.3,984
+Jan-16,E09000017,Hillingdon,London,5.5,1105
+Jan-16,E09000018,Hounslow,London,7.5,1392
+Jan-16,E09000019,Islington,London,-0.4,1953
+Jan-16,E09000020,Kensington and Chelsea,London,5.3,2813
+Jan-16,E09000021,Kingston upon Thames,London,5.3,1375
+Jan-16,E09000022,Lambeth,London,5.6,1750
+Jan-16,E09000023,Lewisham,London,6.6,1285
+Jan-16,E09000024,Merton,London,6.8,1541
+Jan-16,E09000025,Newham,London,7.5,1319
+Jan-16,E09000026,Redbridge,London,9.7,1144
+Jan-16,E09000027,Richmond upon Thames,London,3.6,1674
+Jan-16,E09000028,Southwark,London,3.9,1708
+Jan-16,E09000029,Sutton,London,6.3,1066
+Jan-16,E09000030,Tower Hamlets,London,6.4,1784
+Jan-16,E09000031,Waltham Forest,London,8.1,1227
+Jan-16,E09000032,Wandsworth,London,5.6,1851
+Jan-16,E09000033,Westminster,London,2.1,2469
+Feb-16,E09000002,Barking and Dagenham,London,8.6,1059
+Feb-16,E09000003,Barnet,London,7,1431
+Feb-16,E09000004,Bexley,London,5.9,961
+Feb-16,E09000005,Brent,London,8,1442
+Feb-16,E09000006,Bromley,London,4.4,1194
+Feb-16,E09000007,Camden,London,1.1,2129
+Feb-16,E09000008,Croydon,London,5.7,1093
+Feb-16,E09000009,Ealing,London,4.1,1447
+Feb-16,E09000010,Enfield,London,7.3,1247
+Feb-16,E09000011,Greenwich,London,3.8,1318
+Feb-16,E09000012,Hackney,London,3.3,1877
+Feb-16,E09000013,Hammersmith and Fulham,London,-0.7,1878
+Feb-16,E09000014,Haringey,London,6.3,1544
+Feb-16,E09000015,Harrow,London,5.8,1264
+Feb-16,E09000016,Havering,London,7.2,990
+Feb-16,E09000017,Hillingdon,London,5,1105
+Feb-16,E09000018,Hounslow,London,8.3,1400
+Feb-16,E09000019,Islington,London,-1,1942
+Feb-16,E09000020,Kensington and Chelsea,London,6.5,2834
+Feb-16,E09000021,Kingston upon Thames,London,5.5,1381
+Feb-16,E09000022,Lambeth,London,5.3,1752
+Feb-16,E09000023,Lewisham,London,6.2,1288
+Feb-16,E09000024,Merton,London,6.5,1548
+Feb-16,E09000025,Newham,London,8.8,1330
+Feb-16,E09000026,Redbridge,London,9.1,1146
+Feb-16,E09000027,Richmond upon Thames,London,2.9,1670
+Feb-16,E09000028,Southwark,London,4.7,1718
+Feb-16,E09000029,Sutton,London,6.4,1070
+Feb-16,E09000030,Tower Hamlets,London,6.1,1793
+Feb-16,E09000031,Waltham Forest,London,8,1231
+Feb-16,E09000032,Wandsworth,London,5.1,1851
+Feb-16,E09000033,Westminster,London,2.1,2466
+Mar-16,E09000002,Barking and Dagenham,London,8.1,1068
+Mar-16,E09000003,Barnet,London,6.9,1439
+Mar-16,E09000004,Bexley,London,5.9,966
+Mar-16,E09000005,Brent,London,8.2,1457
+Mar-16,E09000006,Bromley,London,4.3,1197
+Mar-16,E09000007,Camden,London,0.4,2129
+Mar-16,E09000008,Croydon,London,5,1095
+Mar-16,E09000009,Ealing,London,3.9,1450
+Mar-16,E09000010,Enfield,London,6.7,1249
+Mar-16,E09000011,Greenwich,London,3.8,1326
+Mar-16,E09000012,Hackney,London,3.2,1885
+Mar-16,E09000013,Hammersmith and Fulham,London,-0.9,1873
+Mar-16,E09000014,Haringey,London,5.9,1549
+Mar-16,E09000015,Harrow,London,5.2,1268
+Mar-16,E09000016,Havering,London,7.2,998
+Mar-16,E09000017,Hillingdon,London,4.3,1106
+Mar-16,E09000018,Hounslow,London,9.9,1416
+Mar-16,E09000019,Islington,London,-0.3,1949
+Mar-16,E09000020,Kensington and Chelsea,London,6.8,2846
+Mar-16,E09000021,Kingston upon Thames,London,5.5,1383
+Mar-16,E09000022,Lambeth,London,5.4,1758
+Mar-16,E09000023,Lewisham,London,6.1,1293
+Mar-16,E09000024,Merton,London,6.1,1549
+Mar-16,E09000025,Newham,London,9.6,1341
+Mar-16,E09000026,Redbridge,London,8.8,1148
+Mar-16,E09000027,Richmond upon Thames,London,2.1,1666
+Mar-16,E09000028,Southwark,London,4.1,1715
+Mar-16,E09000029,Sutton,London,6.2,1075
+Mar-16,E09000030,Tower Hamlets,London,5.5,1793
+Mar-16,E09000031,Waltham Forest,London,8,1235
+Mar-16,E09000032,Wandsworth,London,4.8,1854
+Mar-16,E09000033,Westminster,London,2.5,2477
+Apr-16,E09000002,Barking and Dagenham,London,8.7,1085
+Apr-16,E09000003,Barnet,London,6.5,1441
+Apr-16,E09000004,Bexley,London,5.6,969
+Apr-16,E09000005,Brent,London,7.4,1462
+Apr-16,E09000006,Bromley,London,4.2,1201
+Apr-16,E09000007,Camden,London,0.3,2116
+Apr-16,E09000008,Croydon,London,4.4,1100
+Apr-16,E09000009,Ealing,London,3.6,1452
+Apr-16,E09000010,Enfield,London,6.1,1251
+Apr-16,E09000011,Greenwich,London,3.3,1324
+Apr-16,E09000012,Hackney,London,3.2,1889
+Apr-16,E09000013,Hammersmith and Fulham,London,-0.7,1879
+Apr-16,E09000014,Haringey,London,4.7,1551
+Apr-16,E09000015,Harrow,London,4.6,1273
+Apr-16,E09000016,Havering,London,7.4,1003
+Apr-16,E09000017,Hillingdon,London,3.4,1105
+Apr-16,E09000018,Hounslow,London,11.1,1433
+Apr-16,E09000019,Islington,London,0.6,1950
+Apr-16,E09000020,Kensington and Chelsea,London,6.8,2865
+Apr-16,E09000021,Kingston upon Thames,London,4.8,1382
+Apr-16,E09000022,Lambeth,London,5.5,1763
+Apr-16,E09000023,Lewisham,London,6,1297
+Apr-16,E09000024,Merton,London,5.6,1543
+Apr-16,E09000025,Newham,London,9.5,1349
+Apr-16,E09000026,Redbridge,London,8.4,1159
+Apr-16,E09000027,Richmond upon Thames,London,1,1664
+Apr-16,E09000028,Southwark,London,4.1,1719
+Apr-16,E09000029,Sutton,London,6.6,1083
+Apr-16,E09000030,Tower Hamlets,London,5.3,1799
+Apr-16,E09000031,Waltham Forest,London,7.6,1242
+Apr-16,E09000032,Wandsworth,London,4.3,1851
+Apr-16,E09000033,Westminster,London,1.9,2488
+May-16,E09000002,Barking and Dagenham,London,10.1,1102
+May-16,E09000003,Barnet,London,5.5,1444
+May-16,E09000004,Bexley,London,5.4,972
+May-16,E09000005,Brent,London,6,1461
+May-16,E09000006,Bromley,London,4.4,1206
+May-16,E09000007,Camden,London,0.6,2119
+May-16,E09000008,Croydon,London,4,1105
+May-16,E09000009,Ealing,London,3.6,1456
+May-16,E09000010,Enfield,London,5.7,1253
+May-16,E09000011,Greenwich,London,3.5,1325
+May-16,E09000012,Hackney,London,3.3,1902
+May-16,E09000013,Hammersmith and Fulham,London,0.1,1907
+May-16,E09000014,Haringey,London,3.6,1556
+May-16,E09000015,Harrow,London,4.2,1278
+May-16,E09000016,Havering,London,7.3,1006
+May-16,E09000017,Hillingdon,London,2.5,1102
+May-16,E09000018,Hounslow,London,11.8,1453
+May-16,E09000019,Islington,London,1.6,1966
+May-16,E09000020,Kensington and Chelsea,London,6.2,2864
+May-16,E09000021,Kingston upon Thames,London,4.2,1380
+May-16,E09000022,Lambeth,London,5.3,1768
+May-16,E09000023,Lewisham,London,5.9,1303
+May-16,E09000024,Merton,London,5.7,1543
+May-16,E09000025,Newham,London,9,1360
+May-16,E09000026,Redbridge,London,8.5,1175
+May-16,E09000027,Richmond upon Thames,London,0.2,1662
+May-16,E09000028,Southwark,London,4,1720
+May-16,E09000029,Sutton,London,6.9,1091
+May-16,E09000030,Tower Hamlets,London,5.4,1814
+May-16,E09000031,Waltham Forest,London,6.6,1251
+May-16,E09000032,Wandsworth,London,4,1854
+May-16,E09000033,Westminster,London,0.7,2494
+Jun-16,E09000002,Barking and Dagenham,London,10.6,1110
+Jun-16,E09000003,Barnet,London,4.8,1447
+Jun-16,E09000004,Bexley,London,5.4,975
+Jun-16,E09000005,Brent,London,5,1465
+Jun-16,E09000006,Bromley,London,4.7,1211
+Jun-16,E09000007,Camden,London,0.6,2125
+Jun-16,E09000008,Croydon,London,4,1111
+Jun-16,E09000009,Ealing,London,3.6,1460
+Jun-16,E09000010,Enfield,London,5.2,1256
+Jun-16,E09000011,Greenwich,London,4.4,1335
+Jun-16,E09000012,Hackney,London,3.4,1910
+Jun-16,E09000013,Hammersmith and Fulham,London,0.9,1927
+Jun-16,E09000014,Haringey,London,2.7,1557
+Jun-16,E09000015,Harrow,London,3.9,1281
+Jun-16,E09000016,Havering,London,6.9,1009
+Jun-16,E09000017,Hillingdon,London,1.6,1098
+Jun-16,E09000018,Hounslow,London,11.5,1459
+Jun-16,E09000019,Islington,London,2,1977
+Jun-16,E09000020,Kensington and Chelsea,London,5.8,2870
+Jun-16,E09000021,Kingston upon Thames,London,4,1382
+Jun-16,E09000022,Lambeth,London,4.8,1769
+Jun-16,E09000023,Lewisham,London,5.6,1308
+Jun-16,E09000024,Merton,London,6,1548
+Jun-16,E09000025,Newham,London,8.4,1370
+Jun-16,E09000026,Redbridge,London,8.6,1189
+Jun-16,E09000027,Richmond upon Thames,London,-0.4,1657
+Jun-16,E09000028,Southwark,London,3.9,1728
+Jun-16,E09000029,Sutton,London,7.2,1098
+Jun-16,E09000030,Tower Hamlets,London,5.8,1831
+Jun-16,E09000031,Waltham Forest,London,5.9,1261
+Jun-16,E09000032,Wandsworth,London,3.5,1856
+Jun-16,E09000033,Westminster,London,-0.7,2484
+Jul-16,E09000002,Barking and Dagenham,London,10.3,1111
+Jul-16,E09000003,Barnet,London,4.3,1453
+Jul-16,E09000004,Bexley,London,5.9,981
+Jul-16,E09000005,Brent,London,4.5,1474
+Jul-16,E09000006,Bromley,London,5.1,1218
+Jul-16,E09000007,Camden,London,0,2133
+Jul-16,E09000008,Croydon,London,3.9,1113
+Jul-16,E09000009,Ealing,London,3.8,1466
+Jul-16,E09000010,Enfield,London,5.1,1263
+Jul-16,E09000011,Greenwich,London,5.6,1352
+Jul-16,E09000012,Hackney,London,3.8,1923
+Jul-16,E09000013,Hammersmith and Fulham,London,1.6,1949
+Jul-16,E09000014,Haringey,London,2.3,1558
+Jul-16,E09000015,Harrow,London,3.9,1287
+Jul-16,E09000016,Havering,London,6.5,1012
+Jul-16,E09000017,Hillingdon,London,0.9,1094
+Jul-16,E09000018,Hounslow,London,10.6,1456
+Jul-16,E09000019,Islington,London,2.1,1986
+Jul-16,E09000020,Kensington and Chelsea,London,6.2,2881
+Jul-16,E09000021,Kingston upon Thames,London,3.7,1387
+Jul-16,E09000022,Lambeth,London,4.2,1769
+Jul-16,E09000023,Lewisham,London,5.8,1315
+Jul-16,E09000024,Merton,London,6,1555
+Jul-16,E09000025,Newham,London,7.9,1379
+Jul-16,E09000026,Redbridge,London,8.7,1194
+Jul-16,E09000027,Richmond upon Thames,London,-1.3,1654
+Jul-16,E09000028,Southwark,London,3.9,1737
+Jul-16,E09000029,Sutton,London,7.5,1104
+Jul-16,E09000030,Tower Hamlets,London,6.2,1844
+Jul-16,E09000031,Waltham Forest,London,5.7,1268
+Jul-16,E09000032,Wandsworth,London,3.5,1865
+Jul-16,E09000033,Westminster,London,-0.6,2492
+Aug-16,E09000002,Barking and Dagenham,London,10.1,1112
+Aug-16,E09000003,Barnet,London,4.3,1460
+Aug-16,E09000004,Bexley,London,6.1,986
+Aug-16,E09000005,Brent,London,4.8,1485
+Aug-16,E09000006,Bromley,London,4.9,1225
+Aug-16,E09000007,Camden,London,-0.6,2140
+Aug-16,E09000008,Croydon,London,3.9,1114
+Aug-16,E09000009,Ealing,London,3.8,1473
+Aug-16,E09000010,Enfield,London,4.5,1269
+Aug-16,E09000011,Greenwich,London,5.5,1362
+Aug-16,E09000012,Hackney,London,3.7,1929
+Aug-16,E09000013,Hammersmith and Fulham,London,1.7,1958
+Aug-16,E09000014,Haringey,London,2.1,1560
+Aug-16,E09000015,Harrow,London,4,1294
+Aug-16,E09000016,Havering,London,6,1014
+Aug-16,E09000017,Hillingdon,London,0.2,1090
+Aug-16,E09000018,Hounslow,London,9.3,1451
+Aug-16,E09000019,Islington,London,1.4,1993
+Aug-16,E09000020,Kensington and Chelsea,London,7.4,2906
+Aug-16,E09000021,Kingston upon Thames,London,3.3,1390
+Aug-16,E09000022,Lambeth,London,3.7,1770
+Aug-16,E09000023,Lewisham,London,5.5,1320
+Aug-16,E09000024,Merton,London,5.1,1556
+Aug-16,E09000025,Newham,London,7.6,1384
+Aug-16,E09000026,Redbridge,London,8.2,1198
+Aug-16,E09000027,Richmond upon Thames,London,-1.6,1655
+Aug-16,E09000028,Southwark,London,3.9,1744
+Aug-16,E09000029,Sutton,London,7.3,1110
+Aug-16,E09000030,Tower Hamlets,London,6.3,1853
+Aug-16,E09000031,Waltham Forest,London,6.2,1272
+Aug-16,E09000032,Wandsworth,London,2.9,1867
+Aug-16,E09000033,Westminster,London,0.1,2495
+Sep-16,E09000002,Barking and Dagenham,London,9.4,1116
+Sep-16,E09000003,Barnet,London,4.2,1464
+Sep-16,E09000004,Bexley,London,6.2,990
+Sep-16,E09000005,Brent,London,5.1,1493
+Sep-16,E09000006,Bromley,London,4.6,1230
+Sep-16,E09000007,Camden,London,-1.6,2146
+Sep-16,E09000008,Croydon,London,3.9,1116
+Sep-16,E09000009,Ealing,London,3.8,1481
+Sep-16,E09000010,Enfield,London,4,1276
+Sep-16,E09000011,Greenwich,London,5.4,1366
+Sep-16,E09000012,Hackney,London,3.4,1935
+Sep-16,E09000013,Hammersmith and Fulham,London,1.9,1967
+Sep-16,E09000014,Haringey,London,2.2,1566
+Sep-16,E09000015,Harrow,London,4.2,1300
+Sep-16,E09000016,Havering,London,5.9,1018
+Sep-16,E09000017,Hillingdon,London,-0.5,1091
+Sep-16,E09000018,Hounslow,London,7.8,1448
+Sep-16,E09000019,Islington,London,1.2,2003
+Sep-16,E09000020,Kensington and Chelsea,London,7.8,2931
+Sep-16,E09000021,Kingston upon Thames,London,2.4,1391
+Sep-16,E09000022,Lambeth,London,3.2,1774
+Sep-16,E09000023,Lewisham,London,5.5,1326
+Sep-16,E09000024,Merton,London,3.7,1555
+Sep-16,E09000025,Newham,London,7.3,1387
+Sep-16,E09000026,Redbridge,London,7.8,1203
+Sep-16,E09000027,Richmond upon Thames,London,-1.9,1653
+Sep-16,E09000028,Southwark,London,4,1750
+Sep-16,E09000029,Sutton,London,7.1,1115
+Sep-16,E09000030,Tower Hamlets,London,6.4,1863
+Sep-16,E09000031,Waltham Forest,London,6.2,1276
+Sep-16,E09000032,Wandsworth,London,2.7,1869
+Sep-16,E09000033,Westminster,London,0.7,2499
+Oct-16,E09000002,Barking and Dagenham,London,8.6,1122
+Oct-16,E09000003,Barnet,London,4.2,1470
+Oct-16,E09000004,Bexley,London,5.6,991
+Oct-16,E09000005,Brent,London,5.2,1497
+Oct-16,E09000006,Bromley,London,3.8,1230
+Oct-16,E09000007,Camden,London,-1.9,2154
+Oct-16,E09000008,Croydon,London,3.6,1119
+Oct-16,E09000009,Ealing,London,3.5,1486
+Oct-16,E09000010,Enfield,London,3.5,1280
+Oct-16,E09000011,Greenwich,London,4.3,1363
+Oct-16,E09000012,Hackney,London,2.7,1936
+Oct-16,E09000013,Hammersmith and Fulham,London,2,1969
+Oct-16,E09000014,Haringey,London,2.3,1571
+Oct-16,E09000015,Harrow,London,4,1304
+Oct-16,E09000016,Havering,London,5.6,1023
+Oct-16,E09000017,Hillingdon,London,-1,1094
+Oct-16,E09000018,Hounslow,London,5.9,1444
+Oct-16,E09000019,Islington,London,0.5,2002
+Oct-16,E09000020,Kensington and Chelsea,London,7.1,2940
+Oct-16,E09000021,Kingston upon Thames,London,1.9,1390
+Oct-16,E09000022,Lambeth,London,3.2,1786
+Oct-16,E09000023,Lewisham,London,5.1,1330
+Oct-16,E09000024,Merton,London,3.4,1556
+Oct-16,E09000025,Newham,London,6.9,1389
+Oct-16,E09000026,Redbridge,London,7.2,1207
+Oct-16,E09000027,Richmond upon Thames,London,-1.5,1656
+Oct-16,E09000028,Southwark,London,4.3,1757
+Oct-16,E09000029,Sutton,London,6.1,1118
+Oct-16,E09000030,Tower Hamlets,London,6.1,1865
+Oct-16,E09000031,Waltham Forest,London,6,1278
+Oct-16,E09000032,Wandsworth,London,2.4,1869
+Oct-16,E09000033,Westminster,London,1.2,2494
+Nov-16,E09000002,Barking and Dagenham,London,7.7,1126
+Nov-16,E09000003,Barnet,London,4.2,1473
+Nov-16,E09000004,Bexley,London,5.1,993
+Nov-16,E09000005,Brent,London,5.3,1499
+Nov-16,E09000006,Bromley,London,3.6,1230
+Nov-16,E09000007,Camden,London,-0.6,2163
+Nov-16,E09000008,Croydon,London,3.4,1121
+Nov-16,E09000009,Ealing,London,3.4,1487
+Nov-16,E09000010,Enfield,London,3.8,1284
+Nov-16,E09000011,Greenwich,London,4.6,1364
+Nov-16,E09000012,Hackney,London,3,1938
+Nov-16,E09000013,Hammersmith and Fulham,London,2.8,1969
+Nov-16,E09000014,Haringey,London,2.4,1575
+Nov-16,E09000015,Harrow,London,4.1,1307
+Nov-16,E09000016,Havering,London,5.5,1028
+Nov-16,E09000017,Hillingdon,London,-1,1098
+Nov-16,E09000018,Hounslow,London,4.7,1439
+Nov-16,E09000019,Islington,London,0.9,1999
+Nov-16,E09000020,Kensington and Chelsea,London,5.8,2943
+Nov-16,E09000021,Kingston upon Thames,London,1.4,1386
+Nov-16,E09000022,Lambeth,London,3.1,1795
+Nov-16,E09000023,Lewisham,London,4.9,1334
+Nov-16,E09000024,Merton,London,2.9,1561
+Nov-16,E09000025,Newham,London,6.6,1391
+Nov-16,E09000026,Redbridge,London,7,1212
+Nov-16,E09000027,Richmond upon Thames,London,-1.2,1657
+Nov-16,E09000028,Southwark,London,4.5,1765
+Nov-16,E09000029,Sutton,London,5.6,1118
+Nov-16,E09000030,Tower Hamlets,London,5.7,1863
+Nov-16,E09000031,Waltham Forest,London,5.5,1282
+Nov-16,E09000032,Wandsworth,London,2,1871
+Nov-16,E09000033,Westminster,London,1.5,2498
+Dec-16,E09000002,Barking and Dagenham,London,7.6,1131
+Dec-16,E09000003,Barnet,London,3.9,1473
+Dec-16,E09000004,Bexley,London,4.6,996
+Dec-16,E09000005,Brent,London,5.4,1501
+Dec-16,E09000006,Bromley,London,3.3,1229
+Dec-16,E09000007,Camden,London,0.9,2164
+Dec-16,E09000008,Croydon,London,3.1,1122
+Dec-16,E09000009,Ealing,London,3.2,1487
+Dec-16,E09000010,Enfield,London,3.7,1287
+Dec-16,E09000011,Greenwich,London,4.6,1366
+Dec-16,E09000012,Hackney,London,3.3,1940
+Dec-16,E09000013,Hammersmith and Fulham,London,3.7,1972
+Dec-16,E09000014,Haringey,London,2.6,1579
+Dec-16,E09000015,Harrow,London,4,1309
+Dec-16,E09000016,Havering,London,5.2,1031
+Dec-16,E09000017,Hillingdon,London,-0.4,1102
+Dec-16,E09000018,Hounslow,London,4.1,1440
+Dec-16,E09000019,Islington,London,1.6,1995
+Dec-16,E09000020,Kensington and Chelsea,London,5.4,2948
+Dec-16,E09000021,Kingston upon Thames,London,1,1384
+Dec-16,E09000022,Lambeth,London,3.1,1800
+Dec-16,E09000023,Lewisham,London,4.5,1336
+Dec-16,E09000024,Merton,London,2.7,1567
+Dec-16,E09000025,Newham,London,6.5,1395
+Dec-16,E09000026,Redbridge,London,6.7,1214
+Dec-16,E09000027,Richmond upon Thames,London,-1.7,1651
+Dec-16,E09000028,Southwark,London,4.1,1770
+Dec-16,E09000029,Sutton,London,5,1117
+Dec-16,E09000030,Tower Hamlets,London,5,1861
+Dec-16,E09000031,Waltham Forest,London,5.3,1286
+Dec-16,E09000032,Wandsworth,London,1.6,1874
+Dec-16,E09000033,Westminster,London,1.7,2506
+Jan-17,E09000002,Barking and Dagenham,London,7.5,1134
+Jan-17,E09000003,Barnet,London,3.6,1473
+Jan-17,E09000004,Bexley,London,4.4,1000
+Jan-17,E09000005,Brent,London,5.6,1508
+Jan-17,E09000006,Bromley,London,3.4,1232
+Jan-17,E09000007,Camden,London,1.5,2165
+Jan-17,E09000008,Croydon,London,2.8,1122
+Jan-17,E09000009,Ealing,London,3.1,1489
+Jan-17,E09000010,Enfield,London,3.8,1291
+Jan-17,E09000011,Greenwich,London,4.9,1374
+Jan-17,E09000012,Hackney,London,4.5,1956
+Jan-17,E09000013,Hammersmith and Fulham,London,5.3,1987
+Jan-17,E09000014,Haringey,London,2.9,1586
+Jan-17,E09000015,Harrow,London,4.1,1313
+Jan-17,E09000016,Havering,London,4.7,1031
+Jan-17,E09000017,Hillingdon,London,0.2,1107
+Jan-17,E09000018,Hounslow,London,3.6,1442
+Jan-17,E09000019,Islington,London,2.4,2001
+Jan-17,E09000020,Kensington and Chelsea,London,4.9,2951
+Jan-17,E09000021,Kingston upon Thames,London,0.7,1385
+Jan-17,E09000022,Lambeth,London,2.6,1796
+Jan-17,E09000023,Lewisham,London,4.1,1337
+Jan-17,E09000024,Merton,London,1.8,1569
+Jan-17,E09000025,Newham,London,6.2,1401
+Jan-17,E09000026,Redbridge,London,6.4,1217
+Jan-17,E09000027,Richmond upon Thames,London,-1.7,1645
+Jan-17,E09000028,Southwark,London,4,1777
+Jan-17,E09000029,Sutton,London,4.8,1117
+Jan-17,E09000030,Tower Hamlets,London,4.4,1863
+Jan-17,E09000031,Waltham Forest,London,5.1,1290
+Jan-17,E09000032,Wandsworth,London,1.2,1873
+Jan-17,E09000033,Westminster,London,1.3,2502
+Feb-17,E09000002,Barking and Dagenham,London,7.4,1138
+Feb-17,E09000003,Barnet,London,2.8,1470
+Feb-17,E09000004,Bexley,London,4.4,1004
+Feb-17,E09000005,Brent,London,5.2,1517
+Feb-17,E09000006,Bromley,London,3.4,1234
+Feb-17,E09000007,Camden,London,1.5,2161
+Feb-17,E09000008,Croydon,London,2.7,1122
+Feb-17,E09000009,Ealing,London,3,1490
+Feb-17,E09000010,Enfield,London,4,1297
+Feb-17,E09000011,Greenwich,London,4.6,1378
+Feb-17,E09000012,Hackney,London,4.7,1965
+Feb-17,E09000013,Hammersmith and Fulham,London,6.3,1995
+Feb-17,E09000014,Haringey,London,2.9,1589
+Feb-17,E09000015,Harrow,London,4.1,1316
+Feb-17,E09000016,Havering,London,4.1,1030
+Feb-17,E09000017,Hillingdon,London,0.7,1113
+Feb-17,E09000018,Hounslow,London,2.5,1435
+Feb-17,E09000019,Islington,London,3.4,2008
+Feb-17,E09000020,Kensington and Chelsea,London,4.3,2956
+Feb-17,E09000021,Kingston upon Thames,London,0.4,1387
+Feb-17,E09000022,Lambeth,London,2.4,1795
+Feb-17,E09000023,Lewisham,London,4,1339
+Feb-17,E09000024,Merton,London,1.2,1566
+Feb-17,E09000025,Newham,London,6,1410
+Feb-17,E09000026,Redbridge,London,6.6,1221
+Feb-17,E09000027,Richmond upon Thames,London,-1.9,1638
+Feb-17,E09000028,Southwark,London,3.7,1782
+Feb-17,E09000029,Sutton,London,4.3,1117
+Feb-17,E09000030,Tower Hamlets,London,4,1864
+Feb-17,E09000031,Waltham Forest,London,5.3,1295
+Feb-17,E09000032,Wandsworth,London,1.1,1871
+Feb-17,E09000033,Westminster,London,0.8,2487
+Mar-17,E09000002,Barking and Dagenham,London,6.7,1140
+Mar-17,E09000003,Barnet,London,2.2,1471
+Mar-17,E09000004,Bexley,London,4.1,1006
+Mar-17,E09000005,Brent,London,4.4,1520
+Mar-17,E09000006,Bromley,London,3.4,1238
+Mar-17,E09000007,Camden,London,0.9,2148
+Mar-17,E09000008,Croydon,London,2.5,1122
+Mar-17,E09000009,Ealing,London,2.8,1490
+Mar-17,E09000010,Enfield,London,4.3,1302
+Mar-17,E09000011,Greenwich,London,4,1379
+Mar-17,E09000012,Hackney,London,4.5,1969
+Mar-17,E09000013,Hammersmith and Fulham,London,6.9,2003
+Mar-17,E09000014,Haringey,London,2.9,1594
+Mar-17,E09000015,Harrow,London,4.1,1321
+Mar-17,E09000016,Havering,London,3.3,1030
+Mar-17,E09000017,Hillingdon,London,0.9,1116
+Mar-17,E09000018,Hounslow,London,0.5,1423
+Mar-17,E09000019,Islington,London,2.8,2003
+Mar-17,E09000020,Kensington and Chelsea,London,4.3,2968
+Mar-17,E09000021,Kingston upon Thames,London,0.6,1392
+Mar-17,E09000022,Lambeth,London,2.1,1795
+Mar-17,E09000023,Lewisham,London,3.9,1344
+Mar-17,E09000024,Merton,London,0.9,1563
+Mar-17,E09000025,Newham,London,5.4,1413
+Mar-17,E09000026,Redbridge,London,6.7,1225
+Mar-17,E09000027,Richmond upon Thames,London,-1.5,1642
+Mar-17,E09000028,Southwark,London,4.5,1791
+Mar-17,E09000029,Sutton,London,3.9,1117
+Mar-17,E09000030,Tower Hamlets,London,4.1,1867
+Mar-17,E09000031,Waltham Forest,London,5.1,1299
+Mar-17,E09000032,Wandsworth,London,0.8,1868
+Mar-17,E09000033,Westminster,London,-0.1,2474
+Apr-17,E09000002,Barking and Dagenham,London,6,1150
+Apr-17,E09000003,Barnet,London,1.9,1469
+Apr-17,E09000004,Bexley,London,4.1,1009
+Apr-17,E09000005,Brent,London,3.5,1513
+Apr-17,E09000006,Bromley,London,3.3,1241
+Apr-17,E09000007,Camden,London,0.9,2135
+Apr-17,E09000008,Croydon,London,2.1,1123
+Apr-17,E09000009,Ealing,London,2.7,1491
+Apr-17,E09000010,Enfield,London,4.3,1305
+Apr-17,E09000011,Greenwich,London,4.1,1377
+Apr-17,E09000012,Hackney,London,3.7,1960
+Apr-17,E09000013,Hammersmith and Fulham,London,6.4,2000
+Apr-17,E09000014,Haringey,London,2.8,1594
+Apr-17,E09000015,Harrow,London,4.1,1325
+Apr-17,E09000016,Havering,London,3.7,1040
+Apr-17,E09000017,Hillingdon,London,1.1,1116
+Apr-17,E09000018,Hounslow,London,-1.5,1412
+Apr-17,E09000019,Islington,London,2.9,2008
+Apr-17,E09000020,Kensington and Chelsea,London,4,2981
+Apr-17,E09000021,Kingston upon Thames,London,0.8,1392
+Apr-17,E09000022,Lambeth,London,2,1798
+Apr-17,E09000023,Lewisham,London,4,1350
+Apr-17,E09000024,Merton,London,0.9,1557
+Apr-17,E09000025,Newham,London,5.3,1420
+Apr-17,E09000026,Redbridge,London,6.4,1234
+Apr-17,E09000027,Richmond upon Thames,London,-1.5,1638
+Apr-17,E09000028,Southwark,London,4.4,1795
+Apr-17,E09000029,Sutton,London,3.3,1119
+Apr-17,E09000030,Tower Hamlets,London,3.9,1868
+Apr-17,E09000031,Waltham Forest,London,5.1,1306
+Apr-17,E09000032,Wandsworth,London,1.1,1871
+Apr-17,E09000033,Westminster,London,-0.7,2469
+May-17,E09000002,Barking and Dagenham,London,5.3,1160
+May-17,E09000003,Barnet,London,1.7,1469
+May-17,E09000004,Bexley,London,4,1011
+May-17,E09000005,Brent,London,3.2,1507
+May-17,E09000006,Bromley,London,3.1,1243
+May-17,E09000007,Camden,London,0.1,2120
+May-17,E09000008,Croydon,London,1.8,1125
+May-17,E09000009,Ealing,London,2.3,1490
+May-17,E09000010,Enfield,London,4.3,1307
+May-17,E09000011,Greenwich,London,4,1378
+May-17,E09000012,Hackney,London,2.9,1957
+May-17,E09000013,Hammersmith and Fulham,London,5,2003
+May-17,E09000014,Haringey,London,2.6,1596
+May-17,E09000015,Harrow,London,4,1329
+May-17,E09000016,Havering,London,4.5,1052
+May-17,E09000017,Hillingdon,London,1.4,1118
+May-17,E09000018,Hounslow,London,-3.1,1408
+May-17,E09000019,Islington,London,2.3,2011
+May-17,E09000020,Kensington and Chelsea,London,4.2,2986
+May-17,E09000021,Kingston upon Thames,London,1.2,1396
+May-17,E09000022,Lambeth,London,1.2,1790
+May-17,E09000023,Lewisham,London,4,1356
+May-17,E09000024,Merton,London,0.7,1554
+May-17,E09000025,Newham,London,5,1428
+May-17,E09000026,Redbridge,London,5.8,1243
+May-17,E09000027,Richmond upon Thames,London,-1.6,1635
+May-17,E09000028,Southwark,London,3.9,1788
+May-17,E09000029,Sutton,London,2.6,1120
+May-17,E09000030,Tower Hamlets,London,3.5,1878
+May-17,E09000031,Waltham Forest,London,4.8,1312
+May-17,E09000032,Wandsworth,London,0.9,1871
+May-17,E09000033,Westminster,London,-1.6,2455
+Jun-17,E09000002,Barking and Dagenham,London,5.3,1169
+Jun-17,E09000003,Barnet,London,1.3,1466
+Jun-17,E09000004,Bexley,London,4.1,1014
+Jun-17,E09000005,Brent,London,2.8,1506
+Jun-17,E09000006,Bromley,London,2.5,1242
+Jun-17,E09000007,Camden,London,0,2124
+Jun-17,E09000008,Croydon,London,1.4,1127
+Jun-17,E09000009,Ealing,London,2.2,1492
+Jun-17,E09000010,Enfield,London,4.2,1310
+Jun-17,E09000011,Greenwich,London,3.5,1382
+Jun-17,E09000012,Hackney,London,2.5,1959
+Jun-17,E09000013,Hammersmith and Fulham,London,4.1,2007
+Jun-17,E09000014,Haringey,London,2.5,1595
+Jun-17,E09000015,Harrow,London,3.9,1331
+Jun-17,E09000016,Havering,London,5.5,1065
+Jun-17,E09000017,Hillingdon,London,2.2,1122
+Jun-17,E09000018,Hounslow,London,-3.9,1402
+Jun-17,E09000019,Islington,London,2.1,2018
+Jun-17,E09000020,Kensington and Chelsea,London,3.5,2971
+Jun-17,E09000021,Kingston upon Thames,London,1.2,1399
+Jun-17,E09000022,Lambeth,London,1,1788
+Jun-17,E09000023,Lewisham,London,3.9,1359
+Jun-17,E09000024,Merton,London,0.2,1550
+Jun-17,E09000025,Newham,London,4.9,1437
+Jun-17,E09000026,Redbridge,London,5.2,1250
+Jun-17,E09000027,Richmond upon Thames,London,-1.8,1628
+Jun-17,E09000028,Southwark,London,3.2,1782
+Jun-17,E09000029,Sutton,London,2,1120
+Jun-17,E09000030,Tower Hamlets,London,3,1885
+Jun-17,E09000031,Waltham Forest,London,4.4,1317
+Jun-17,E09000032,Wandsworth,London,1,1874
+Jun-17,E09000033,Westminster,London,-1.6,2445
+Jul-17,E09000002,Barking and Dagenham,London,5.6,1173
+Jul-17,E09000003,Barnet,London,0.8,1465
+Jul-17,E09000004,Bexley,London,3.6,1016
+Jul-17,E09000005,Brent,London,2.4,1510
+Jul-17,E09000006,Bromley,London,1.9,1241
+Jul-17,E09000007,Camden,London,0,2133
+Jul-17,E09000008,Croydon,London,1.5,1130
+Jul-17,E09000009,Ealing,London,1.6,1490
+Jul-17,E09000010,Enfield,London,3.9,1312
+Jul-17,E09000011,Greenwich,London,2.5,1386
+Jul-17,E09000012,Hackney,London,1.6,1955
+Jul-17,E09000013,Hammersmith and Fulham,London,2.9,2005
+Jul-17,E09000014,Haringey,London,2.2,1591
+Jul-17,E09000015,Harrow,London,3.4,1331
+Jul-17,E09000016,Havering,London,5.5,1068
+Jul-17,E09000017,Hillingdon,London,3.2,1129
+Jul-17,E09000018,Hounslow,London,-4.1,1396
+Jul-17,E09000019,Islington,London,1.4,2015
+Jul-17,E09000020,Kensington and Chelsea,London,4.1,2998
+Jul-17,E09000021,Kingston upon Thames,London,1.3,1405
+Jul-17,E09000022,Lambeth,London,0.8,1784
+Jul-17,E09000023,Lewisham,London,3.6,1363
+Jul-17,E09000024,Merton,London,-0.7,1544
+Jul-17,E09000025,Newham,London,4.6,1441
+Jul-17,E09000026,Redbridge,London,4.8,1252
+Jul-17,E09000027,Richmond upon Thames,London,-1.8,1624
+Jul-17,E09000028,Southwark,London,2.4,1778
+Jul-17,E09000029,Sutton,London,1.3,1118
+Jul-17,E09000030,Tower Hamlets,London,2.7,1893
+Jul-17,E09000031,Waltham Forest,London,4,1318
+Jul-17,E09000032,Wandsworth,London,0.6,1877
+Jul-17,E09000033,Westminster,London,-2,2443
+Aug-17,E09000002,Barking and Dagenham,London,6.1,1180
+Aug-17,E09000003,Barnet,London,0.2,1462
+Aug-17,E09000004,Bexley,London,3.3,1018
+Aug-17,E09000005,Brent,London,1.4,1506
+Aug-17,E09000006,Bromley,London,1.2,1240
+Aug-17,E09000007,Camden,London,0.6,2153
+Aug-17,E09000008,Croydon,London,1.7,1133
+Aug-17,E09000009,Ealing,London,1.1,1489
+Aug-17,E09000010,Enfield,London,3.7,1317
+Aug-17,E09000011,Greenwich,London,1.7,1384
+Aug-17,E09000012,Hackney,London,0.9,1946
+Aug-17,E09000013,Hammersmith and Fulham,London,1.7,1990
+Aug-17,E09000014,Haringey,London,2.1,1592
+Aug-17,E09000015,Harrow,London,2.9,1331
+Aug-17,E09000016,Havering,London,5.8,1073
+Aug-17,E09000017,Hillingdon,London,4.2,1136
+Aug-17,E09000018,Hounslow,London,-4.1,1392
+Aug-17,E09000019,Islington,London,0.8,2009
+Aug-17,E09000020,Kensington and Chelsea,London,3.7,3015
+Aug-17,E09000021,Kingston upon Thames,London,1.2,1408
+Aug-17,E09000022,Lambeth,London,1.2,1791
+Aug-17,E09000023,Lewisham,London,3.4,1365
+Aug-17,E09000024,Merton,London,-1,1541
+Aug-17,E09000025,Newham,London,4.3,1443
+Aug-17,E09000026,Redbridge,London,4.5,1251
+Aug-17,E09000027,Richmond upon Thames,London,-2.1,1621
+Aug-17,E09000028,Southwark,London,2.1,1781
+Aug-17,E09000029,Sutton,London,0.8,1118
+Aug-17,E09000030,Tower Hamlets,London,2,1890
+Aug-17,E09000031,Waltham Forest,London,3.6,1318
+Aug-17,E09000032,Wandsworth,London,0.6,1879
+Aug-17,E09000033,Westminster,London,-2,2447
+Sep-17,E09000002,Barking and Dagenham,London,6.4,1187
+Sep-17,E09000003,Barnet,London,-0.5,1456
+Sep-17,E09000004,Bexley,London,2.9,1019
+Sep-17,E09000005,Brent,London,0.2,1496
+Sep-17,E09000006,Bromley,London,0.7,1238
+Sep-17,E09000007,Camden,London,0.5,2158
+Sep-17,E09000008,Croydon,London,1.8,1137
+Sep-17,E09000009,Ealing,London,0.3,1486
+Sep-17,E09000010,Enfield,London,3.2,1318
+Sep-17,E09000011,Greenwich,London,0.9,1378
+Sep-17,E09000012,Hackney,London,-0.2,1932
+Sep-17,E09000013,Hammersmith and Fulham,London,0.3,1972
+Sep-17,E09000014,Haringey,London,1.4,1588
+Sep-17,E09000015,Harrow,London,2.4,1331
+Sep-17,E09000016,Havering,London,6.1,1079
+Sep-17,E09000017,Hillingdon,London,4.4,1139
+Sep-17,E09000018,Hounslow,London,-4,1390
+Sep-17,E09000019,Islington,London,-0.1,2001
+Sep-17,E09000020,Kensington and Chelsea,London,3.5,3035
+Sep-17,E09000021,Kingston upon Thames,London,1.1,1406
+Sep-17,E09000022,Lambeth,London,1.1,1793
+Sep-17,E09000023,Lewisham,London,2.9,1365
+Sep-17,E09000024,Merton,London,-0.8,1542
+Sep-17,E09000025,Newham,London,4.1,1445
+Sep-17,E09000026,Redbridge,London,4.2,1253
+Sep-17,E09000027,Richmond upon Thames,London,-2.2,1617
+Sep-17,E09000028,Southwark,London,1.5,1776
+Sep-17,E09000029,Sutton,London,0.4,1119
+Sep-17,E09000030,Tower Hamlets,London,1,1882
+Sep-17,E09000031,Waltham Forest,London,3.4,1319
+Sep-17,E09000032,Wandsworth,London,0.5,1879
+Sep-17,E09000033,Westminster,London,-2.7,2432
+Oct-17,E09000002,Barking and Dagenham,London,6.1,1190
+Oct-17,E09000003,Barnet,London,-1.4,1450
+Oct-17,E09000004,Bexley,London,2.9,1020
+Oct-17,E09000005,Brent,London,-0.5,1489
+Oct-17,E09000006,Bromley,London,0.6,1237
+Oct-17,E09000007,Camden,London,-0.3,2147
+Oct-17,E09000008,Croydon,London,1.8,1139
+Oct-17,E09000009,Ealing,London,-0.1,1485
+Oct-17,E09000010,Enfield,London,2.8,1316
+Oct-17,E09000011,Greenwich,London,1.1,1378
+Oct-17,E09000012,Hackney,London,-0.2,1933
+Oct-17,E09000013,Hammersmith and Fulham,London,-0.5,1959
+Oct-17,E09000014,Haringey,London,0.9,1586
+Oct-17,E09000015,Harrow,London,2.3,1334
+Oct-17,E09000016,Havering,London,6.1,1085
+Oct-17,E09000017,Hillingdon,London,4.3,1140
+Oct-17,E09000018,Hounslow,London,-4.4,1381
+Oct-17,E09000019,Islington,London,-0.1,1999
+Oct-17,E09000020,Kensington and Chelsea,London,2.4,3009
+Oct-17,E09000021,Kingston upon Thames,London,1.2,1406
+Oct-17,E09000022,Lambeth,London,0.6,1796
+Oct-17,E09000023,Lewisham,London,2.6,1364
+Oct-17,E09000024,Merton,London,-0.6,1547
+Oct-17,E09000025,Newham,London,4.3,1449
+Oct-17,E09000026,Redbridge,London,4,1255
+Oct-17,E09000027,Richmond upon Thames,London,-2.7,1611
+Oct-17,E09000028,Southwark,London,0.9,1772
+Oct-17,E09000029,Sutton,London,0.3,1121
+Oct-17,E09000030,Tower Hamlets,London,0.5,1874
+Oct-17,E09000031,Waltham Forest,London,3.5,1323
+Oct-17,E09000032,Wandsworth,London,0.4,1878
+Oct-17,E09000033,Westminster,London,-2.9,2422
+Nov-17,E09000002,Barking and Dagenham,London,5.9,1192
+Nov-17,E09000003,Barnet,London,-1.9,1445
+Nov-17,E09000004,Bexley,London,2.8,1020
+Nov-17,E09000005,Brent,London,-0.8,1486
+Nov-17,E09000006,Bromley,London,0.4,1235
+Nov-17,E09000007,Camden,London,-2,2119
+Nov-17,E09000008,Croydon,London,1.7,1140
+Nov-17,E09000009,Ealing,London,-0.3,1483
+Nov-17,E09000010,Enfield,London,2.2,1312
+Nov-17,E09000011,Greenwich,London,1.2,1381
+Nov-17,E09000012,Hackney,London,0,1938
+Nov-17,E09000013,Hammersmith and Fulham,London,-0.9,1952
+Nov-17,E09000014,Haringey,London,0.5,1583
+Nov-17,E09000015,Harrow,London,2.2,1335
+Nov-17,E09000016,Havering,London,5.9,1089
+Nov-17,E09000017,Hillingdon,London,3.7,1138
+Nov-17,E09000018,Hounslow,London,-4.9,1368
+Nov-17,E09000019,Islington,London,-0.1,1998
+Nov-17,E09000020,Kensington and Chelsea,London,2.4,3015
+Nov-17,E09000021,Kingston upon Thames,London,1.3,1404
+Nov-17,E09000022,Lambeth,London,-0.4,1788
+Nov-17,E09000023,Lewisham,London,2.1,1363
+Nov-17,E09000024,Merton,London,-0.8,1549
+Nov-17,E09000025,Newham,London,4.5,1453
+Nov-17,E09000026,Redbridge,London,3.4,1253
+Nov-17,E09000027,Richmond upon Thames,London,-3.3,1603
+Nov-17,E09000028,Southwark,London,0.5,1773
+Nov-17,E09000029,Sutton,London,0.2,1121
+Nov-17,E09000030,Tower Hamlets,London,0.5,1873
+Nov-17,E09000031,Waltham Forest,London,3.3,1324
+Nov-17,E09000032,Wandsworth,London,0.4,1878
+Nov-17,E09000033,Westminster,London,-3.2,2419
+Dec-17,E09000002,Barking and Dagenham,London,5.6,1195
+Dec-17,E09000003,Barnet,London,-2.1,1442
+Dec-17,E09000004,Bexley,London,2.7,1023
+Dec-17,E09000005,Brent,London,-0.5,1493
+Dec-17,E09000006,Bromley,London,0.5,1236
+Dec-17,E09000007,Camden,London,-3,2100
+Dec-17,E09000008,Croydon,London,1.8,1142
+Dec-17,E09000009,Ealing,London,-0.5,1480
+Dec-17,E09000010,Enfield,London,1.9,1312
+Dec-17,E09000011,Greenwich,London,2.1,1395
+Dec-17,E09000012,Hackney,London,0,1939
+Dec-17,E09000013,Hammersmith and Fulham,London,-1.1,1949
+Dec-17,E09000014,Haringey,London,-0.1,1578
+Dec-17,E09000015,Harrow,London,2.1,1337
+Dec-17,E09000016,Havering,London,5.7,1090
+Dec-17,E09000017,Hillingdon,London,3.2,1137
+Dec-17,E09000018,Hounslow,London,-5.7,1358
+Dec-17,E09000019,Islington,London,0.1,1998
+Dec-17,E09000020,Kensington and Chelsea,London,2.2,3014
+Dec-17,E09000021,Kingston upon Thames,London,1.4,1403
+Dec-17,E09000022,Lambeth,London,-0.8,1786
+Dec-17,E09000023,Lewisham,London,2,1363
+Dec-17,E09000024,Merton,London,-1.3,1546
+Dec-17,E09000025,Newham,London,4.5,1458
+Dec-17,E09000026,Redbridge,London,3.2,1253
+Dec-17,E09000027,Richmond upon Thames,London,-2.7,1606
+Dec-17,E09000028,Southwark,London,0.2,1773
+Dec-17,E09000029,Sutton,London,0.2,1120
+Dec-17,E09000030,Tower Hamlets,London,0.7,1875
+Dec-17,E09000031,Waltham Forest,London,3.2,1326
+Dec-17,E09000032,Wandsworth,London,0.2,1878
+Dec-17,E09000033,Westminster,London,-3.4,2421
+Jan-18,E09000002,Barking and Dagenham,London,5.7,1198
+Jan-18,E09000003,Barnet,London,-2.2,1440
+Jan-18,E09000004,Bexley,London,2.4,1024
+Jan-18,E09000005,Brent,London,-1,1493
+Jan-18,E09000006,Bromley,London,0.2,1234
+Jan-18,E09000007,Camden,London,-4,2078
+Jan-18,E09000008,Croydon,London,2,1145
+Jan-18,E09000009,Ealing,London,-0.8,1477
+Jan-18,E09000010,Enfield,London,1.6,1311
+Jan-18,E09000011,Greenwich,London,2.4,1406
+Jan-18,E09000012,Hackney,London,-1,1936
+Jan-18,E09000013,Hammersmith and Fulham,London,-2.3,1942
+Jan-18,E09000014,Haringey,London,-0.7,1575
+Jan-18,E09000015,Harrow,London,1.5,1332
+Jan-18,E09000016,Havering,London,6,1093
+Jan-18,E09000017,Hillingdon,London,2.5,1135
+Jan-18,E09000018,Hounslow,London,-6.3,1351
+Jan-18,E09000019,Islington,London,-0.3,1994
+Jan-18,E09000020,Kensington and Chelsea,London,1.6,2998
+Jan-18,E09000021,Kingston upon Thames,London,1.2,1402
+Jan-18,E09000022,Lambeth,London,-1,1779
+Jan-18,E09000023,Lewisham,London,1.9,1363
+Jan-18,E09000024,Merton,London,-2,1539
+Jan-18,E09000025,Newham,London,4,1458
+Jan-18,E09000026,Redbridge,London,2.8,1252
+Jan-18,E09000027,Richmond upon Thames,London,-1.9,1614
+Jan-18,E09000028,Southwark,London,-0.1,1776
+Jan-18,E09000029,Sutton,London,0.2,1119
+Jan-18,E09000030,Tower Hamlets,London,0.7,1877
+Jan-18,E09000031,Waltham Forest,London,2.8,1327
+Jan-18,E09000032,Wandsworth,London,0,1874
+Jan-18,E09000033,Westminster,London,-3.6,2412
+Feb-18,E09000002,Barking and Dagenham,London,5.6,1201
+Feb-18,E09000003,Barnet,London,-2,1440
+Feb-18,E09000004,Bexley,London,1.8,1022
+Feb-18,E09000005,Brent,London,-1.7,1491
+Feb-18,E09000006,Bromley,London,-0.2,1232
+Feb-18,E09000007,Camden,London,-3.4,2088
+Feb-18,E09000008,Croydon,London,2.3,1148
+Feb-18,E09000009,Ealing,London,-1,1476
+Feb-18,E09000010,Enfield,London,1.2,1313
+Feb-18,E09000011,Greenwich,London,2.6,1413
+Feb-18,E09000012,Hackney,London,-1.6,1933
+Feb-18,E09000013,Hammersmith and Fulham,London,-2.8,1939
+Feb-18,E09000014,Haringey,London,-1.3,1569
+Feb-18,E09000015,Harrow,London,1,1329
+Feb-18,E09000016,Havering,London,6.4,1096
+Feb-18,E09000017,Hillingdon,London,2,1136
+Feb-18,E09000018,Hounslow,London,-6.8,1338
+Feb-18,E09000019,Islington,London,-0.1,2005
+Feb-18,E09000020,Kensington and Chelsea,London,0,2957
+Feb-18,E09000021,Kingston upon Thames,London,1.1,1403
+Feb-18,E09000022,Lambeth,London,-0.8,1779
+Feb-18,E09000023,Lewisham,London,1.4,1358
+Feb-18,E09000024,Merton,London,-2,1534
+Feb-18,E09000025,Newham,London,3.6,1460
+Feb-18,E09000026,Redbridge,London,2.7,1254
+Feb-18,E09000027,Richmond upon Thames,London,0.7,1649
+Feb-18,E09000028,Southwark,London,-0.3,1777
+Feb-18,E09000029,Sutton,London,0.3,1120
+Feb-18,E09000030,Tower Hamlets,London,0.5,1874
+Feb-18,E09000031,Waltham Forest,London,2.5,1328
+Feb-18,E09000032,Wandsworth,London,-0.1,1870
+Feb-18,E09000033,Westminster,London,-3.2,2406
+Mar-18,E09000002,Barking and Dagenham,London,5,1197
+Mar-18,E09000003,Barnet,London,-1.8,1445
+Mar-18,E09000004,Bexley,London,1.2,1018
+Mar-18,E09000005,Brent,London,-2.6,1481
+Mar-18,E09000006,Bromley,London,-0.5,1232
+Mar-18,E09000007,Camden,London,-3.2,2080
+Mar-18,E09000008,Croydon,London,2.5,1151
+Mar-18,E09000009,Ealing,London,-1.1,1473
+Mar-18,E09000010,Enfield,London,0.8,1313
+Mar-18,E09000011,Greenwich,London,2.6,1415
+Mar-18,E09000012,Hackney,London,-1.7,1936
+Mar-18,E09000013,Hammersmith and Fulham,London,-4.1,1921
+Mar-18,E09000014,Haringey,London,-1.6,1568
+Mar-18,E09000015,Harrow,London,0.3,1324
+Mar-18,E09000016,Havering,London,6.8,1100
+Mar-18,E09000017,Hillingdon,London,1.7,1135
+Mar-18,E09000018,Hounslow,London,-6.8,1326
+Mar-18,E09000019,Islington,London,0.6,2015
+Mar-18,E09000020,Kensington and Chelsea,London,-2.5,2893
+Mar-18,E09000021,Kingston upon Thames,London,0.8,1403
+Mar-18,E09000022,Lambeth,London,-1.1,1775
+Mar-18,E09000023,Lewisham,London,0.8,1355
+Mar-18,E09000024,Merton,London,-2,1532
+Mar-18,E09000025,Newham,London,3.3,1460
+Mar-18,E09000026,Redbridge,London,2.4,1254
+Mar-18,E09000027,Richmond upon Thames,London,2,1674
+Mar-18,E09000028,Southwark,London,-0.8,1776
+Mar-18,E09000029,Sutton,London,0.3,1121
+Mar-18,E09000030,Tower Hamlets,London,0.2,1870
+Mar-18,E09000031,Waltham Forest,London,2.1,1326
+Mar-18,E09000032,Wandsworth,London,0,1868
+Mar-18,E09000033,Westminster,London,-2.6,2409
+Apr-18,E09000002,Barking and Dagenham,London,4,1196
+Apr-18,E09000003,Barnet,London,-1.3,1449
+Apr-18,E09000004,Bexley,London,0.6,1015
+Apr-18,E09000005,Brent,London,-2.6,1473
+Apr-18,E09000006,Bromley,London,-0.7,1232
+Apr-18,E09000007,Camden,London,-2.2,2088
+Apr-18,E09000008,Croydon,London,2.5,1151
+Apr-18,E09000009,Ealing,London,-1.3,1471
+Apr-18,E09000010,Enfield,London,0.5,1311
+Apr-18,E09000011,Greenwich,London,2.6,1413
+Apr-18,E09000012,Hackney,London,-1.3,1934
+Apr-18,E09000013,Hammersmith and Fulham,London,-4.8,1904
+Apr-18,E09000014,Haringey,London,-1.7,1568
+Apr-18,E09000015,Harrow,London,-0.2,1322
+Apr-18,E09000016,Havering,London,6.2,1104
+Apr-18,E09000017,Hillingdon,London,1.8,1136
+Apr-18,E09000018,Hounslow,London,-6.9,1315
+Apr-18,E09000019,Islington,London,0.9,2027
+Apr-18,E09000020,Kensington and Chelsea,London,-5.4,2821
+Apr-18,E09000021,Kingston upon Thames,London,0.7,1402
+Apr-18,E09000022,Lambeth,London,-1.2,1777
+Apr-18,E09000023,Lewisham,London,0.3,1354
+Apr-18,E09000024,Merton,London,-1.3,1537
+Apr-18,E09000025,Newham,London,2.8,1461
+Apr-18,E09000026,Redbridge,London,1.7,1254
+Apr-18,E09000027,Richmond upon Thames,London,3.4,1694
+Apr-18,E09000028,Southwark,London,-1.3,1772
+Apr-18,E09000029,Sutton,London,0,1119
+Apr-18,E09000030,Tower Hamlets,London,-0.1,1866
+Apr-18,E09000031,Waltham Forest,London,1.4,1324
+Apr-18,E09000032,Wandsworth,London,-0.4,1864
+Apr-18,E09000033,Westminster,London,-2.2,2416
+May-18,E09000002,Barking and Dagenham,London,2.9,1194
+May-18,E09000003,Barnet,London,-1.2,1451
+May-18,E09000004,Bexley,London,0.6,1017
+May-18,E09000005,Brent,London,-2.3,1472
+May-18,E09000006,Bromley,London,-0.8,1233
+May-18,E09000007,Camden,London,-1.4,2090
+May-18,E09000008,Croydon,London,2.3,1150
+May-18,E09000009,Ealing,London,-1.6,1466
+May-18,E09000010,Enfield,London,0.2,1309
+May-18,E09000011,Greenwich,London,2.6,1414
+May-18,E09000012,Hackney,London,-1.1,1934
+May-18,E09000013,Hammersmith and Fulham,London,-5.4,1895
+May-18,E09000014,Haringey,London,-1.7,1568
+May-18,E09000015,Harrow,London,-0.8,1318
+May-18,E09000016,Havering,London,5.3,1107
+May-18,E09000017,Hillingdon,London,1.7,1137
+May-18,E09000018,Hounslow,London,-7.2,1307
+May-18,E09000019,Islington,London,0.6,2024
+May-18,E09000020,Kensington and Chelsea,London,-8.8,2722
+May-18,E09000021,Kingston upon Thames,London,0.1,1397
+May-18,E09000022,Lambeth,London,-0.8,1776
+May-18,E09000023,Lewisham,London,0.3,1359
+May-18,E09000024,Merton,London,-0.9,1540
+May-18,E09000025,Newham,London,2.1,1459
+May-18,E09000026,Redbridge,London,0.9,1255
+May-18,E09000027,Richmond upon Thames,London,3.2,1687
+May-18,E09000028,Southwark,London,-1,1770
+May-18,E09000029,Sutton,London,-0.2,1117
+May-18,E09000030,Tower Hamlets,London,-0.9,1860
+May-18,E09000031,Waltham Forest,London,0.8,1322
+May-18,E09000032,Wandsworth,London,-0.6,1861
+May-18,E09000033,Westminster,London,-1.5,2418
+Jun-18,E09000002,Barking and Dagenham,London,2.3,1196
+Jun-18,E09000003,Barnet,London,-1.1,1449
+Jun-18,E09000004,Bexley,London,0.5,1019
+Jun-18,E09000005,Brent,London,-2,1475
+Jun-18,E09000006,Bromley,London,-0.6,1234
+Jun-18,E09000007,Camden,London,-0.8,2108
+Jun-18,E09000008,Croydon,London,2,1149
+Jun-18,E09000009,Ealing,London,-2,1463
+Jun-18,E09000010,Enfield,London,-0.2,1306
+Jun-18,E09000011,Greenwich,London,2.2,1412
+Jun-18,E09000012,Hackney,London,-1.3,1934
+Jun-18,E09000013,Hammersmith and Fulham,London,-5.2,1902
+Jun-18,E09000014,Haringey,London,-2,1564
+Jun-18,E09000015,Harrow,London,-1.1,1316
+Jun-18,E09000016,Havering,London,4.2,1109
+Jun-18,E09000017,Hillingdon,London,1.5,1139
+Jun-18,E09000018,Hounslow,London,-7.6,1296
+Jun-18,E09000019,Islington,London,0.3,2025
+Jun-18,E09000020,Kensington and Chelsea,London,-10.5,2659
+Jun-18,E09000021,Kingston upon Thames,London,-0.3,1394
+Jun-18,E09000022,Lambeth,London,-0.9,1771
+Jun-18,E09000023,Lewisham,London,0.1,1361
+Jun-18,E09000024,Merton,London,-0.5,1543
+Jun-18,E09000025,Newham,London,1.6,1460
+Jun-18,E09000026,Redbridge,London,0.7,1259
+Jun-18,E09000027,Richmond upon Thames,London,3.7,1687
+Jun-18,E09000028,Southwark,London,-0.6,1772
+Jun-18,E09000029,Sutton,London,-0.5,1114
+Jun-18,E09000030,Tower Hamlets,London,-1.6,1855
+Jun-18,E09000031,Waltham Forest,London,0.5,1324
+Jun-18,E09000032,Wandsworth,London,-1,1855
+Jun-18,E09000033,Westminster,London,-0.9,2422
+Jul-18,E09000002,Barking and Dagenham,London,2,1197
+Jul-18,E09000003,Barnet,London,-1.1,1449
+Jul-18,E09000004,Bexley,London,0.6,1022
+Jul-18,E09000005,Brent,London,-2.2,1477
+Jul-18,E09000006,Bromley,London,-0.4,1236
+Jul-18,E09000007,Camden,London,-0.7,2119
+Jul-18,E09000008,Croydon,London,1.6,1147
+Jul-18,E09000009,Ealing,London,-2.1,1459
+Jul-18,E09000010,Enfield,London,-0.5,1306
+Jul-18,E09000011,Greenwich,London,2.2,1417
+Jul-18,E09000012,Hackney,London,-0.8,1940
+Jul-18,E09000013,Hammersmith and Fulham,London,-4.5,1915
+Jul-18,E09000014,Haringey,London,-1.8,1562
+Jul-18,E09000015,Harrow,London,-1.5,1311
+Jul-18,E09000016,Havering,London,4,1111
+Jul-18,E09000017,Hillingdon,London,0.7,1138
+Jul-18,E09000018,Hounslow,London,-7.9,1286
+Jul-18,E09000019,Islington,London,0,2015
+Jul-18,E09000020,Kensington and Chelsea,London,-11.6,2651
+Jul-18,E09000021,Kingston upon Thames,London,-0.9,1392
+Jul-18,E09000022,Lambeth,London,-0.9,1767
+Jul-18,E09000023,Lewisham,London,-0.1,1361
+Jul-18,E09000024,Merton,London,-0.1,1542
+Jul-18,E09000025,Newham,London,1.3,1460
+Jul-18,E09000026,Redbridge,London,0.7,1260
+Jul-18,E09000027,Richmond upon Thames,London,4,1689
+Jul-18,E09000028,Southwark,London,0.4,1785
+Jul-18,E09000029,Sutton,London,-0.8,1109
+Jul-18,E09000030,Tower Hamlets,London,-2.1,1854
+Jul-18,E09000031,Waltham Forest,London,0.5,1325
+Jul-18,E09000032,Wandsworth,London,-1.1,1856
+Jul-18,E09000033,Westminster,London,-0.7,2426
+Aug-18,E09000002,Barking and Dagenham,London,1.6,1199
+Aug-18,E09000003,Barnet,London,-0.7,1451
+Aug-18,E09000004,Bexley,London,0.5,1023
+Aug-18,E09000005,Brent,London,-1.8,1479
+Aug-18,E09000006,Bromley,London,0,1240
+Aug-18,E09000007,Camden,London,-1.6,2118
+Aug-18,E09000008,Croydon,London,1.2,1147
+Aug-18,E09000009,Ealing,London,-2.2,1457
+Aug-18,E09000010,Enfield,London,-0.8,1306
+Aug-18,E09000011,Greenwich,London,2.2,1415
+Aug-18,E09000012,Hackney,London,0.2,1950
+Aug-18,E09000013,Hammersmith and Fulham,London,-3.5,1920
+Aug-18,E09000014,Haringey,London,-1.8,1563
+Aug-18,E09000015,Harrow,London,-1.5,1312
+Aug-18,E09000016,Havering,London,3.8,1114
+Aug-18,E09000017,Hillingdon,London,-0.3,1133
+Aug-18,E09000018,Hounslow,London,-7.9,1281
+Aug-18,E09000019,Islington,London,0.3,2015
+Aug-18,E09000020,Kensington and Chelsea,London,-11.5,2668
+Aug-18,E09000021,Kingston upon Thames,London,-1.4,1388
+Aug-18,E09000022,Lambeth,London,-1.5,1765
+Aug-18,E09000023,Lewisham,London,-0.3,1360
+Aug-18,E09000024,Merton,London,0.3,1545
+Aug-18,E09000025,Newham,London,1.4,1463
+Aug-18,E09000026,Redbridge,London,0.9,1263
+Aug-18,E09000027,Richmond upon Thames,London,4.5,1693
+Aug-18,E09000028,Southwark,London,1.2,1802
+Aug-18,E09000029,Sutton,London,-1.1,1106
+Aug-18,E09000030,Tower Hamlets,London,-1.7,1858
+Aug-18,E09000031,Waltham Forest,London,0.7,1327
+Aug-18,E09000032,Wandsworth,London,-1,1861
+Aug-18,E09000033,Westminster,London,-0.8,2427
+Sep-18,E09000002,Barking and Dagenham,London,1,1199
+Sep-18,E09000003,Barnet,London,-0.1,1455
+Sep-18,E09000004,Bexley,London,0.3,1022
+Sep-18,E09000005,Brent,London,-1.1,1479
+Sep-18,E09000006,Bromley,London,0.3,1242
+Sep-18,E09000007,Camden,London,-1.8,2120
+Sep-18,E09000008,Croydon,London,0.8,1146
+Sep-18,E09000009,Ealing,London,-1.8,1460
+Sep-18,E09000010,Enfield,London,-0.8,1307
+Sep-18,E09000011,Greenwich,London,2.5,1412
+Sep-18,E09000012,Hackney,London,1.2,1956
+Sep-18,E09000013,Hammersmith and Fulham,London,-2.7,1920
+Sep-18,E09000014,Haringey,London,-1.1,1571
+Sep-18,E09000015,Harrow,London,-1.4,1313
+Sep-18,E09000016,Havering,London,3.5,1117
+Sep-18,E09000017,Hillingdon,London,-1,1128
+Sep-18,E09000018,Hounslow,London,-7.6,1284
+Sep-18,E09000019,Islington,London,0.7,2015
+Sep-18,E09000020,Kensington and Chelsea,London,-11.8,2678
+Sep-18,E09000021,Kingston upon Thames,London,-1.5,1385
+Sep-18,E09000022,Lambeth,London,-1.4,1769
+Sep-18,E09000023,Lewisham,London,-0.3,1360
+Sep-18,E09000024,Merton,London,0.7,1552
+Sep-18,E09000025,Newham,London,1.3,1464
+Sep-18,E09000026,Redbridge,London,0.7,1262
+Sep-18,E09000027,Richmond upon Thames,London,4.9,1696
+Sep-18,E09000028,Southwark,London,2.2,1815
+Sep-18,E09000029,Sutton,London,-1.4,1103
+Sep-18,E09000030,Tower Hamlets,London,-1.1,1862
+Sep-18,E09000031,Waltham Forest,London,0.6,1327
+Sep-18,E09000032,Wandsworth,London,-0.7,1867
+Sep-18,E09000033,Westminster,London,-0.6,2417
+Oct-18,E09000002,Barking and Dagenham,London,0.7,1198
+Oct-18,E09000003,Barnet,London,0.6,1458
+Oct-18,E09000004,Bexley,London,0,1020
+Oct-18,E09000005,Brent,London,-0.5,1482
+Oct-18,E09000006,Bromley,London,0.5,1244
+Oct-18,E09000007,Camden,London,-0.4,2138
+Oct-18,E09000008,Croydon,London,0.5,1145
+Oct-18,E09000009,Ealing,London,-1.3,1465
+Oct-18,E09000010,Enfield,London,-0.6,1308
+Oct-18,E09000011,Greenwich,London,1.5,1399
+Oct-18,E09000012,Hackney,London,1.3,1959
+Oct-18,E09000013,Hammersmith and Fulham,London,-1.5,1930
+Oct-18,E09000014,Haringey,London,-0.6,1576
+Oct-18,E09000015,Harrow,London,-1.3,1317
+Oct-18,E09000016,Havering,London,3.1,1119
+Oct-18,E09000017,Hillingdon,London,-1.2,1126
+Oct-18,E09000018,Hounslow,London,-6.5,1291
+Oct-18,E09000019,Islington,London,1,2019
+Oct-18,E09000020,Kensington and Chelsea,London,-11.1,2674
+Oct-18,E09000021,Kingston upon Thames,London,-1.6,1383
+Oct-18,E09000022,Lambeth,London,-1.2,1775
+Oct-18,E09000023,Lewisham,London,-0.2,1362
+Oct-18,E09000024,Merton,London,0.8,1559
+Oct-18,E09000025,Newham,London,1.5,1471
+Oct-18,E09000026,Redbridge,London,0.7,1263
+Oct-18,E09000027,Richmond upon Thames,London,5.7,1703
+Oct-18,E09000028,Southwark,London,2,1808
+Oct-18,E09000029,Sutton,London,-1.5,1104
+Oct-18,E09000030,Tower Hamlets,London,-0.6,1863
+Oct-18,E09000031,Waltham Forest,London,0.5,1329
+Oct-18,E09000032,Wandsworth,London,-0.5,1869
+Oct-18,E09000033,Westminster,London,-0.5,2409
+Nov-18,E09000002,Barking and Dagenham,London,0.4,1197
+Nov-18,E09000003,Barnet,London,1.1,1461
+Nov-18,E09000004,Bexley,London,-0.1,1020
+Nov-18,E09000005,Brent,London,-0.2,1484
+Nov-18,E09000006,Bromley,London,0.8,1245
+Nov-18,E09000007,Camden,London,1.8,2158
+Nov-18,E09000008,Croydon,London,0.3,1144
+Nov-18,E09000009,Ealing,London,-1,1469
+Nov-18,E09000010,Enfield,London,-0.1,1311
+Nov-18,E09000011,Greenwich,London,1.3,1398
+Nov-18,E09000012,Hackney,London,1.1,1959
+Nov-18,E09000013,Hammersmith and Fulham,London,-0.6,1940
+Nov-18,E09000014,Haringey,London,-0.1,1582
+Nov-18,E09000015,Harrow,London,-1.3,1318
+Nov-18,E09000016,Havering,London,2.8,1119
+Nov-18,E09000017,Hillingdon,London,-0.9,1128
+Nov-18,E09000018,Hounslow,London,-5.2,1297
+Nov-18,E09000019,Islington,London,0.9,2016
+Nov-18,E09000020,Kensington and Chelsea,London,-11.1,2681
+Nov-18,E09000021,Kingston upon Thames,London,-1.2,1387
+Nov-18,E09000022,Lambeth,London,-0.2,1784
+Nov-18,E09000023,Lewisham,London,0.1,1365
+Nov-18,E09000024,Merton,London,0.7,1560
+Nov-18,E09000025,Newham,London,1.6,1476
+Nov-18,E09000026,Redbridge,London,0.9,1264
+Nov-18,E09000027,Richmond upon Thames,London,6.5,1707
+Nov-18,E09000028,Southwark,London,1.2,1795
+Nov-18,E09000029,Sutton,London,-1.9,1100
+Nov-18,E09000030,Tower Hamlets,London,-0.3,1867
+Nov-18,E09000031,Waltham Forest,London,0.4,1329
+Nov-18,E09000032,Wandsworth,London,-0.4,1870
+Nov-18,E09000033,Westminster,London,-0.7,2403
+Dec-18,E09000002,Barking and Dagenham,London,0.3,1199
+Dec-18,E09000003,Barnet,London,1.6,1465
+Dec-18,E09000004,Bexley,London,-0.1,1022
+Dec-18,E09000005,Brent,London,-0.3,1489
+Dec-18,E09000006,Bromley,London,0.9,1247
+Dec-18,E09000007,Camden,London,4,2184
+Dec-18,E09000008,Croydon,London,0.2,1144
+Dec-18,E09000009,Ealing,London,-0.8,1468
+Dec-18,E09000010,Enfield,London,-0.1,1311
+Dec-18,E09000011,Greenwich,London,0.3,1400
+Dec-18,E09000012,Hackney,London,1.1,1961
+Dec-18,E09000013,Hammersmith and Fulham,London,0.4,1957
+Dec-18,E09000014,Haringey,London,0.5,1586
+Dec-18,E09000015,Harrow,London,-1.7,1314
+Dec-18,E09000016,Havering,London,2.7,1119
+Dec-18,E09000017,Hillingdon,London,-0.7,1129
+Dec-18,E09000018,Hounslow,London,-4.3,1299
+Dec-18,E09000019,Islington,London,0.9,2016
+Dec-18,E09000020,Kensington and Chelsea,London,-10.2,2707
+Dec-18,E09000021,Kingston upon Thames,London,-1.1,1388
+Dec-18,E09000022,Lambeth,London,0.2,1789
+Dec-18,E09000023,Lewisham,London,0.2,1366
+Dec-18,E09000024,Merton,London,0.7,1557
+Dec-18,E09000025,Newham,London,1.5,1480
+Dec-18,E09000026,Redbridge,London,1.1,1266
+Dec-18,E09000027,Richmond upon Thames,London,5.6,1696
+Dec-18,E09000028,Southwark,London,0.8,1786
+Dec-18,E09000029,Sutton,London,-2,1098
+Dec-18,E09000030,Tower Hamlets,London,-0.1,1873
+Dec-18,E09000031,Waltham Forest,London,0.2,1330
+Dec-18,E09000032,Wandsworth,London,-0.2,1875
+Dec-18,E09000033,Westminster,London,-0.3,2413
+Jan-19,E09000002,Barking and Dagenham,London,0.1,1200
+Jan-19,E09000003,Barnet,London,1.7,1464
+Jan-19,E09000004,Bexley,London,0.1,1025
+Jan-19,E09000005,Brent,London,-0.1,1492
+Jan-19,E09000006,Bromley,London,1.1,1247
+Jan-19,E09000007,Camden,London,5.7,2197
+Jan-19,E09000008,Croydon,London,-0.1,1144
+Jan-19,E09000009,Ealing,London,-0.8,1465
+Jan-19,E09000010,Enfield,London,0,1312
+Jan-19,E09000011,Greenwich,London,0.1,1408
+Jan-19,E09000012,Hackney,London,1.5,1965
+Jan-19,E09000013,Hammersmith and Fulham,London,1,1961
+Jan-19,E09000014,Haringey,London,1,1590
+Jan-19,E09000015,Harrow,London,-1.5,1313
+Jan-19,E09000016,Havering,London,2.5,1120
+Jan-19,E09000017,Hillingdon,London,-0.5,1128
+Jan-19,E09000018,Hounslow,London,-3.8,1300
+Jan-19,E09000019,Islington,London,1.2,2018
+Jan-19,E09000020,Kensington and Chelsea,London,-9.3,2721
+Jan-19,E09000021,Kingston upon Thames,London,-0.9,1390
+Jan-19,E09000022,Lambeth,London,0.9,1795
+Jan-19,E09000023,Lewisham,London,0.2,1367
+Jan-19,E09000024,Merton,London,1,1554
+Jan-19,E09000025,Newham,London,1.4,1478
+Jan-19,E09000026,Redbridge,London,1.3,1268
+Jan-19,E09000027,Richmond upon Thames,London,4,1678
+Jan-19,E09000028,Southwark,London,0.9,1791
+Jan-19,E09000029,Sutton,London,-2,1097
+Jan-19,E09000030,Tower Hamlets,London,0,1876
+Jan-19,E09000031,Waltham Forest,London,0.4,1332
+Jan-19,E09000032,Wandsworth,London,0.2,1879
+Jan-19,E09000033,Westminster,London,0.4,2421
+Feb-19,E09000002,Barking and Dagenham,London,0.1,1202
+Feb-19,E09000003,Barnet,London,1.6,1464
+Feb-19,E09000004,Bexley,London,0.7,1029
+Feb-19,E09000005,Brent,London,0.4,1496
+Feb-19,E09000006,Bromley,London,1.3,1248
+Feb-19,E09000007,Camden,London,5.6,2205
+Feb-19,E09000008,Croydon,London,-0.2,1146
+Feb-19,E09000009,Ealing,London,-0.9,1463
+Feb-19,E09000010,Enfield,London,-0.4,1308
+Feb-19,E09000011,Greenwich,London,-0.2,1410
+Feb-19,E09000012,Hackney,London,1.9,1970
+Feb-19,E09000013,Hammersmith and Fulham,London,1.5,1968
+Feb-19,E09000014,Haringey,London,1.4,1592
+Feb-19,E09000015,Harrow,London,-1.1,1314
+Feb-19,E09000016,Havering,London,2.4,1122
+Feb-19,E09000017,Hillingdon,London,-0.7,1128
+Feb-19,E09000018,Hounslow,London,-2.5,1305
+Feb-19,E09000019,Islington,London,0.7,2019
+Feb-19,E09000020,Kensington and Chelsea,London,-7.6,2733
+Feb-19,E09000021,Kingston upon Thames,London,-0.7,1393
+Feb-19,E09000022,Lambeth,London,0.9,1796
+Feb-19,E09000023,Lewisham,London,0.7,1368
+Feb-19,E09000024,Merton,London,1.5,1558
+Feb-19,E09000025,Newham,London,1.1,1476
+Feb-19,E09000026,Redbridge,London,1.2,1270
+Feb-19,E09000027,Richmond upon Thames,London,1.2,1669
+Feb-19,E09000028,Southwark,London,1.4,1802
+Feb-19,E09000029,Sutton,London,-1.8,1100
+Feb-19,E09000030,Tower Hamlets,London,0.3,1879
+Feb-19,E09000031,Waltham Forest,London,0.5,1335
+Feb-19,E09000032,Wandsworth,London,0.7,1883
+Feb-19,E09000033,Westminster,London,1.1,2432
+Mar-19,E09000002,Barking and Dagenham,London,0.5,1204
+Mar-19,E09000003,Barnet,London,1,1460
+Mar-19,E09000004,Bexley,London,1.4,1032
+Mar-19,E09000005,Brent,London,0.9,1495
+Mar-19,E09000006,Bromley,London,1.3,1248
+Mar-19,E09000007,Camden,London,6.2,2209
+Mar-19,E09000008,Croydon,London,-0.4,1146
+Mar-19,E09000009,Ealing,London,-0.9,1461
+Mar-19,E09000010,Enfield,London,-0.5,1307
+Mar-19,E09000011,Greenwich,London,-0.4,1410
+Mar-19,E09000012,Hackney,London,1.9,1972
+Mar-19,E09000013,Hammersmith and Fulham,London,2.7,1973
+Mar-19,E09000014,Haringey,London,1.7,1595
+Mar-19,E09000015,Harrow,London,-0.4,1319
+Mar-19,E09000016,Havering,London,2.2,1125
+Mar-19,E09000017,Hillingdon,London,-0.5,1129
+Mar-19,E09000018,Hounslow,London,-1.1,1312
+Mar-19,E09000019,Islington,London,0.1,2017
+Mar-19,E09000020,Kensington and Chelsea,London,-5.4,2737
+Mar-19,E09000021,Kingston upon Thames,London,-0.6,1395
+Mar-19,E09000022,Lambeth,London,1.7,1804
+Mar-19,E09000023,Lewisham,London,1,1369
+Mar-19,E09000024,Merton,London,1.8,1559
+Mar-19,E09000025,Newham,London,1,1476
+Mar-19,E09000026,Redbridge,London,1.4,1271
+Mar-19,E09000027,Richmond upon Thames,London,0.2,1677
+Mar-19,E09000028,Southwark,London,1.7,1806
+Mar-19,E09000029,Sutton,London,-1.6,1102
+Mar-19,E09000030,Tower Hamlets,London,0.4,1877
+Mar-19,E09000031,Waltham Forest,London,0.8,1337
+Mar-19,E09000032,Wandsworth,London,0.9,1884
+Mar-19,E09000033,Westminster,London,0.8,2428
+Apr-19,E09000002,Barking and Dagenham,London,0.8,1205
+Apr-19,E09000003,Barnet,London,0.7,1459
+Apr-19,E09000004,Bexley,London,2,1036
+Apr-19,E09000005,Brent,London,1.4,1494
+Apr-19,E09000006,Bromley,London,1.4,1249
+Apr-19,E09000007,Camden,London,5.7,2206
+Apr-19,E09000008,Croydon,London,-0.4,1146
+Apr-19,E09000009,Ealing,London,-0.8,1459
+Apr-19,E09000010,Enfield,London,-0.5,1305
+Apr-19,E09000011,Greenwich,London,-0.3,1409
+Apr-19,E09000012,Hackney,London,1.9,1971
+Apr-19,E09000013,Hammersmith and Fulham,London,3.9,1978
+Apr-19,E09000014,Haringey,London,2,1600
+Apr-19,E09000015,Harrow,London,0.3,1325
+Apr-19,E09000016,Havering,London,2,1127
+Apr-19,E09000017,Hillingdon,London,-0.5,1130
+Apr-19,E09000018,Hounslow,London,0.7,1325
+Apr-19,E09000019,Islington,London,-0.9,2008
+Apr-19,E09000020,Kensington and Chelsea,London,-2.9,2739
+Apr-19,E09000021,Kingston upon Thames,London,-0.6,1393
+Apr-19,E09000022,Lambeth,London,1.4,1802
+Apr-19,E09000023,Lewisham,London,1.2,1371
+Apr-19,E09000024,Merton,London,1.8,1564
+Apr-19,E09000025,Newham,London,1.1,1476
+Apr-19,E09000026,Redbridge,London,1.5,1273
+Apr-19,E09000027,Richmond upon Thames,London,-0.4,1687
+Apr-19,E09000028,Southwark,London,2,1807
+Apr-19,E09000029,Sutton,London,-1.4,1103
+Apr-19,E09000030,Tower Hamlets,London,0.6,1876
+Apr-19,E09000031,Waltham Forest,London,1,1336
+Apr-19,E09000032,Wandsworth,London,1.3,1889
+Apr-19,E09000033,Westminster,London,0.5,2428
+May-19,E09000002,Barking and Dagenham,London,1.5,1212
+May-19,E09000003,Barnet,London,0.6,1460
+May-19,E09000004,Bexley,London,2,1037
+May-19,E09000005,Brent,London,1.4,1493
+May-19,E09000006,Bromley,London,1.4,1250
+May-19,E09000007,Camden,London,6.9,2233
+May-19,E09000008,Croydon,London,-0.4,1146
+May-19,E09000009,Ealing,London,-0.3,1462
+May-19,E09000010,Enfield,London,0,1309
+May-19,E09000011,Greenwich,London,-0.5,1407
+May-19,E09000012,Hackney,London,2.3,1978
+May-19,E09000013,Hammersmith and Fulham,London,5,1990
+May-19,E09000014,Haringey,London,2.7,1611
+May-19,E09000015,Harrow,London,1.1,1332
+May-19,E09000016,Havering,London,1.9,1128
+May-19,E09000017,Hillingdon,London,-0.1,1136
+May-19,E09000018,Hounslow,London,2.1,1334
+May-19,E09000019,Islington,London,-0.7,2010
+May-19,E09000020,Kensington and Chelsea,London,0.9,2748
+May-19,E09000021,Kingston upon Thames,London,-0.4,1392
+May-19,E09000022,Lambeth,London,1.7,1807
+May-19,E09000023,Lewisham,London,1,1373
+May-19,E09000024,Merton,London,1.8,1567
+May-19,E09000025,Newham,London,1.3,1477
+May-19,E09000026,Redbridge,London,1.8,1277
+May-19,E09000027,Richmond upon Thames,London,0.4,1693
+May-19,E09000028,Southwark,London,2.1,1808
+May-19,E09000029,Sutton,London,-0.9,1106
+May-19,E09000030,Tower Hamlets,London,0.9,1877
+May-19,E09000031,Waltham Forest,London,1.5,1342
+May-19,E09000032,Wandsworth,London,1.7,1893
+May-19,E09000033,Westminster,London,0.3,2426
+Jun-19,E09000002,Barking and Dagenham,London,1.9,1219
+Jun-19,E09000003,Barnet,London,0.8,1461
+Jun-19,E09000004,Bexley,London,2,1040
+Jun-19,E09000005,Brent,London,1.3,1494
+Jun-19,E09000006,Bromley,London,1.3,1250
+Jun-19,E09000007,Camden,London,6.9,2253
+Jun-19,E09000008,Croydon,London,0,1148
+Jun-19,E09000009,Ealing,London,0.2,1465
+Jun-19,E09000010,Enfield,London,0.3,1310
+Jun-19,E09000011,Greenwich,London,-0.4,1407
+Jun-19,E09000012,Hackney,London,2.6,1984
+Jun-19,E09000013,Hammersmith and Fulham,London,5.2,2000
+Jun-19,E09000014,Haringey,London,3.2,1614
+Jun-19,E09000015,Harrow,London,1.6,1337
+Jun-19,E09000016,Havering,London,1.9,1130
+Jun-19,E09000017,Hillingdon,London,0,1138
+Jun-19,E09000018,Hounslow,London,3.4,1341
+Jun-19,E09000019,Islington,London,-0.5,2016
+Jun-19,E09000020,Kensington and Chelsea,London,3.5,2751
+Jun-19,E09000021,Kingston upon Thames,London,-0.3,1390
+Jun-19,E09000022,Lambeth,London,1.5,1798
+Jun-19,E09000023,Lewisham,London,0.6,1369
+Jun-19,E09000024,Merton,London,1.4,1565
+Jun-19,E09000025,Newham,London,1.2,1478
+Jun-19,E09000026,Redbridge,London,1.7,1280
+Jun-19,E09000027,Richmond upon Thames,London,0.5,1696
+Jun-19,E09000028,Southwark,London,2.1,1809
+Jun-19,E09000029,Sutton,London,-0.2,1112
+Jun-19,E09000030,Tower Hamlets,London,1.6,1884
+Jun-19,E09000031,Waltham Forest,London,1.8,1347
+Jun-19,E09000032,Wandsworth,London,2.5,1901
+Jun-19,E09000033,Westminster,London,0.4,2433
+Jul-19,E09000002,Barking and Dagenham,London,2.5,1227
+Jul-19,E09000003,Barnet,London,1.1,1464
+Jul-19,E09000004,Bexley,London,1.8,1040
+Jul-19,E09000005,Brent,London,1,1491
+Jul-19,E09000006,Bromley,London,1.1,1249
+Jul-19,E09000007,Camden,London,7.4,2275
+Jul-19,E09000008,Croydon,London,0.4,1151
+Jul-19,E09000009,Ealing,London,0.8,1471
+Jul-19,E09000010,Enfield,London,0.5,1312
+Jul-19,E09000011,Greenwich,London,-0.7,1407
+Jul-19,E09000012,Hackney,London,2.5,1988
+Jul-19,E09000013,Hammersmith and Fulham,London,4.4,2000
+Jul-19,E09000014,Haringey,London,4.1,1627
+Jul-19,E09000015,Harrow,London,2.2,1339
+Jul-19,E09000016,Havering,London,1.8,1131
+Jul-19,E09000017,Hillingdon,London,0.2,1140
+Jul-19,E09000018,Hounslow,London,4.5,1344
+Jul-19,E09000019,Islington,London,0.5,2025
+Jul-19,E09000020,Kensington and Chelsea,London,4.6,2772
+Jul-19,E09000021,Kingston upon Thames,London,-0.1,1391
+Jul-19,E09000022,Lambeth,London,1.8,1799
+Jul-19,E09000023,Lewisham,London,0.2,1363
+Jul-19,E09000024,Merton,London,1.6,1566
+Jul-19,E09000025,Newham,London,1.4,1481
+Jul-19,E09000026,Redbridge,London,1.8,1283
+Jul-19,E09000027,Richmond upon Thames,London,0.7,1702
+Jul-19,E09000028,Southwark,London,1.2,1806
+Jul-19,E09000029,Sutton,London,0.8,1119
+Jul-19,E09000030,Tower Hamlets,London,2,1892
+Jul-19,E09000031,Waltham Forest,London,2,1351
+Jul-19,E09000032,Wandsworth,London,2.7,1906
+Jul-19,E09000033,Westminster,London,0.6,2441
+Aug-19,E09000002,Barking and Dagenham,London,2.5,1228
+Aug-19,E09000003,Barnet,London,0.9,1464
+Aug-19,E09000004,Bexley,London,1.9,1042
+Aug-19,E09000005,Brent,London,0.6,1487
+Aug-19,E09000006,Bromley,London,0.5,1246
+Aug-19,E09000007,Camden,London,7.2,2271
+Aug-19,E09000008,Croydon,London,0.7,1155
+Aug-19,E09000009,Ealing,London,1,1471
+Aug-19,E09000010,Enfield,London,0.2,1309
+Aug-19,E09000011,Greenwich,London,-0.6,1407
+Aug-19,E09000012,Hackney,London,1.7,1983
+Aug-19,E09000013,Hammersmith and Fulham,London,4,1997
+Aug-19,E09000014,Haringey,London,4.4,1632
+Aug-19,E09000015,Harrow,London,2.1,1339
+Aug-19,E09000016,Havering,London,1.7,1133
+Aug-19,E09000017,Hillingdon,London,0.4,1138
+Aug-19,E09000018,Hounslow,London,5.2,1348
+Aug-19,E09000019,Islington,London,0.2,2019
+Aug-19,E09000020,Kensington and Chelsea,London,4.5,2787
+Aug-19,E09000021,Kingston upon Thames,London,0.1,1390
+Aug-19,E09000022,Lambeth,London,1.8,1797
+Aug-19,E09000023,Lewisham,London,-0.6,1352
+Aug-19,E09000024,Merton,London,1.2,1564
+Aug-19,E09000025,Newham,London,1.2,1481
+Aug-19,E09000026,Redbridge,London,1.6,1283
+Aug-19,E09000027,Richmond upon Thames,London,0.4,1700
+Aug-19,E09000028,Southwark,London,0,1801
+Aug-19,E09000029,Sutton,London,1.5,1123
+Aug-19,E09000030,Tower Hamlets,London,2.1,1896
+Aug-19,E09000031,Waltham Forest,London,1.5,1347
+Aug-19,E09000032,Wandsworth,London,2.8,1913
+Aug-19,E09000033,Westminster,London,0.9,2450
+Sep-19,E09000002,Barking and Dagenham,London,2.5,1228
+Sep-19,E09000003,Barnet,London,0.8,1467
+Sep-19,E09000004,Bexley,London,2.1,1044
+Sep-19,E09000005,Brent,London,-0.1,1477
+Sep-19,E09000006,Bromley,London,0.1,1243
+Sep-19,E09000007,Camden,London,7.5,2279
+Sep-19,E09000008,Croydon,London,1.1,1158
+Sep-19,E09000009,Ealing,London,1.1,1476
+Sep-19,E09000010,Enfield,London,0.1,1309
+Sep-19,E09000011,Greenwich,London,-0.3,1407
+Sep-19,E09000012,Hackney,London,1.1,1978
+Sep-19,E09000013,Hammersmith and Fulham,London,4.8,2013
+Sep-19,E09000014,Haringey,London,4.6,1644
+Sep-19,E09000015,Harrow,London,2.1,1341
+Sep-19,E09000016,Havering,London,1.8,1137
+Sep-19,E09000017,Hillingdon,London,0.9,1137
+Sep-19,E09000018,Hounslow,London,5.3,1353
+Sep-19,E09000019,Islington,London,0.7,2028
+Sep-19,E09000020,Kensington and Chelsea,London,4.1,2787
+Sep-19,E09000021,Kingston upon Thames,London,0.3,1390
+Sep-19,E09000022,Lambeth,London,2.2,1808
+Sep-19,E09000023,Lewisham,London,-0.6,1352
+Sep-19,E09000024,Merton,London,1.2,1570
+Sep-19,E09000025,Newham,London,1.3,1483
+Sep-19,E09000026,Redbridge,London,1.9,1286
+Sep-19,E09000027,Richmond upon Thames,London,0.3,1702
+Sep-19,E09000028,Southwark,London,-0.8,1801
+Sep-19,E09000029,Sutton,London,2.1,1126
+Sep-19,E09000030,Tower Hamlets,London,1.8,1896
+Sep-19,E09000031,Waltham Forest,London,1.4,1345
+Sep-19,E09000032,Wandsworth,London,3,1923
+Sep-19,E09000033,Westminster,London,1.8,2461
+Oct-19,E09000002,Barking and Dagenham,London,2.5,1228
+Oct-19,E09000003,Barnet,London,0.4,1464
+Oct-19,E09000004,Bexley,London,2.8,1049
+Oct-19,E09000005,Brent,London,-1,1467
+Oct-19,E09000006,Bromley,London,-0.2,1242
+Oct-19,E09000007,Camden,London,7.7,2303
+Oct-19,E09000008,Croydon,London,1.5,1162
+Oct-19,E09000009,Ealing,London,0.8,1477
+Oct-19,E09000010,Enfield,London,-0.2,1306
+Oct-19,E09000011,Greenwich,London,1.2,1416
+Oct-19,E09000012,Hackney,London,0.9,1977
+Oct-19,E09000013,Hammersmith and Fulham,London,5.6,2038
+Oct-19,E09000014,Haringey,London,4.5,1647
+Oct-19,E09000015,Harrow,London,1.8,1341
+Oct-19,E09000016,Havering,London,1.9,1140
+Oct-19,E09000017,Hillingdon,London,1,1138
+Oct-19,E09000018,Hounslow,London,5.3,1360
+Oct-19,E09000019,Islington,London,1.5,2049
+Oct-19,E09000020,Kensington and Chelsea,London,4.1,2784
+Oct-19,E09000021,Kingston upon Thames,London,0.3,1387
+Oct-19,E09000022,Lambeth,London,2.5,1820
+Oct-19,E09000023,Lewisham,London,-0.4,1356
+Oct-19,E09000024,Merton,London,0.9,1573
+Oct-19,E09000025,Newham,London,0.8,1483
+Oct-19,E09000026,Redbridge,London,1.9,1287
+Oct-19,E09000027,Richmond upon Thames,London,-0.1,1701
+Oct-19,E09000028,Southwark,London,-0.4,1801
+Oct-19,E09000029,Sutton,London,2.1,1126
+Oct-19,E09000030,Tower Hamlets,London,2,1900
+Oct-19,E09000031,Waltham Forest,London,1,1343
+Oct-19,E09000032,Wandsworth,London,3.4,1933
+Oct-19,E09000033,Westminster,London,2.8,2477
+Nov-19,E09000002,Barking and Dagenham,London,2.6,1229
+Nov-19,E09000003,Barnet,London,0.2,1464
+Nov-19,E09000004,Bexley,London,3.3,1054
+Nov-19,E09000005,Brent,London,-1.7,1458
+Nov-19,E09000006,Bromley,London,-0.1,1244
+Nov-19,E09000007,Camden,London,7.9,2329
+Nov-19,E09000008,Croydon,London,1.7,1164
+Nov-19,E09000009,Ealing,London,0.8,1480
+Nov-19,E09000010,Enfield,London,-0.4,1306
+Nov-19,E09000011,Greenwich,London,2.2,1430
+Nov-19,E09000012,Hackney,London,0.8,1974
+Nov-19,E09000013,Hammersmith and Fulham,London,5.5,2047
+Nov-19,E09000014,Haringey,London,4.6,1655
+Nov-19,E09000015,Harrow,London,1.9,1343
+Nov-19,E09000016,Havering,London,2.1,1143
+Nov-19,E09000017,Hillingdon,London,1,1139
+Nov-19,E09000018,Hounslow,London,5.1,1364
+Nov-19,E09000019,Islington,London,2.6,2068
+Nov-19,E09000020,Kensington and Chelsea,London,3.5,2773
+Nov-19,E09000021,Kingston upon Thames,London,0.1,1389
+Nov-19,E09000022,Lambeth,London,2.5,1828
+Nov-19,E09000023,Lewisham,London,0,1365
+Nov-19,E09000024,Merton,London,0.9,1574
+Nov-19,E09000025,Newham,London,0.6,1485
+Nov-19,E09000026,Redbridge,London,2,1289
+Nov-19,E09000027,Richmond upon Thames,London,-0.1,1705
+Nov-19,E09000028,Southwark,London,0.3,1800
+Nov-19,E09000029,Sutton,London,2.2,1124
+Nov-19,E09000030,Tower Hamlets,London,1.8,1901
+Nov-19,E09000031,Waltham Forest,London,1.1,1343
+Nov-19,E09000032,Wandsworth,London,3.9,1942
+Nov-19,E09000033,Westminster,London,4.1,2501
+Dec-19,E09000002,Barking and Dagenham,London,2.6,1230
+Dec-19,E09000003,Barnet,London,-0.3,1460
+Dec-19,E09000004,Bexley,London,3.5,1058
+Dec-19,E09000005,Brent,London,-2.2,1456
+Dec-19,E09000006,Bromley,London,-0.1,1246
+Dec-19,E09000007,Camden,London,6.8,2332
+Dec-19,E09000008,Croydon,London,1.8,1165
+Dec-19,E09000009,Ealing,London,0.7,1478
+Dec-19,E09000010,Enfield,London,-0.5,1304
+Dec-19,E09000011,Greenwich,London,3.4,1447
+Dec-19,E09000012,Hackney,London,0.8,1977
+Dec-19,E09000013,Hammersmith and Fulham,London,4.2,2040
+Dec-19,E09000014,Haringey,London,4.6,1659
+Dec-19,E09000015,Harrow,London,2.3,1344
+Dec-19,E09000016,Havering,London,2,1141
+Dec-19,E09000017,Hillingdon,London,0.6,1136
+Dec-19,E09000018,Hounslow,London,4.9,1364
+Dec-19,E09000019,Islington,London,3.4,2084
+Dec-19,E09000020,Kensington and Chelsea,London,2.4,2771
+Dec-19,E09000021,Kingston upon Thames,London,-0.1,1388
+Dec-19,E09000022,Lambeth,London,3,1843
+Dec-19,E09000023,Lewisham,London,0.2,1370
+Dec-19,E09000024,Merton,London,1,1573
+Dec-19,E09000025,Newham,London,0.4,1485
+Dec-19,E09000026,Redbridge,London,1.9,1291
+Dec-19,E09000027,Richmond upon Thames,London,0.6,1706
+Dec-19,E09000028,Southwark,London,1.6,1815
+Dec-19,E09000029,Sutton,London,2.2,1121
+Dec-19,E09000030,Tower Hamlets,London,1.6,1904
+Dec-19,E09000031,Waltham Forest,London,1.1,1344
+Dec-19,E09000032,Wandsworth,London,3.9,1949
+Dec-19,E09000033,Westminster,London,4.7,2528
+Jan-20,E09000002,Barking and Dagenham,London,2.7,1232
+Jan-20,E09000003,Barnet,London,0,1464
+Jan-20,E09000004,Bexley,London,3.5,1061
+Jan-20,E09000005,Brent,London,-2.4,1456
+Jan-20,E09000006,Bromley,London,0.2,1249
+Jan-20,E09000007,Camden,London,5.7,2322
+Jan-20,E09000008,Croydon,London,1.9,1166
+Jan-20,E09000009,Ealing,London,1.2,1482
+Jan-20,E09000010,Enfield,London,-0.6,1304
+Jan-20,E09000011,Greenwich,London,3.3,1454
+Jan-20,E09000012,Hackney,London,0.7,1978
+Jan-20,E09000013,Hammersmith and Fulham,London,3.6,2032
+Jan-20,E09000014,Haringey,London,4.8,1667
+Jan-20,E09000015,Harrow,London,2.6,1348
+Jan-20,E09000016,Havering,London,2,1142
+Jan-20,E09000017,Hillingdon,London,0.4,1133
+Jan-20,E09000018,Hounslow,London,4,1352
+Jan-20,E09000019,Islington,London,3.7,2092
+Jan-20,E09000020,Kensington and Chelsea,London,1.6,2764
+Jan-20,E09000021,Kingston upon Thames,London,0.1,1391
+Jan-20,E09000022,Lambeth,London,3.3,1855
+Jan-20,E09000023,Lewisham,London,0.3,1371
+Jan-20,E09000024,Merton,London,1.4,1576
+Jan-20,E09000025,Newham,London,0.5,1485
+Jan-20,E09000026,Redbridge,London,2,1293
+Jan-20,E09000027,Richmond upon Thames,London,2.2,1714
+Jan-20,E09000028,Southwark,London,2.6,1837
+Jan-20,E09000029,Sutton,London,2.4,1123
+Jan-20,E09000030,Tower Hamlets,London,1.1,1898
+Jan-20,E09000031,Waltham Forest,London,1.2,1348
+Jan-20,E09000032,Wandsworth,London,4,1954
+Jan-20,E09000033,Westminster,London,5.3,2548
+Feb-20,E09000002,Barking and Dagenham,London,2.7,1235
+Feb-20,E09000003,Barnet,London,0,1465
+Feb-20,E09000004,Bexley,London,3.3,1063
+Feb-20,E09000005,Brent,London,-3.3,1447
+Feb-20,E09000006,Bromley,London,0.4,1253
+Feb-20,E09000007,Camden,London,4.8,2311
+Feb-20,E09000008,Croydon,London,1.9,1168
+Feb-20,E09000009,Ealing,London,2.6,1501
+Feb-20,E09000010,Enfield,London,-0.3,1303
+Feb-20,E09000011,Greenwich,London,3.2,1455
+Feb-20,E09000012,Hackney,London,0.3,1976
+Feb-20,E09000013,Hammersmith and Fulham,London,3.4,2035
+Feb-20,E09000014,Haringey,London,5.2,1675
+Feb-20,E09000015,Harrow,London,2.8,1352
+Feb-20,E09000016,Havering,London,1.9,1143
+Feb-20,E09000017,Hillingdon,London,1,1139
+Feb-20,E09000018,Hounslow,London,3.2,1346
+Feb-20,E09000019,Islington,London,3.9,2098
+Feb-20,E09000020,Kensington and Chelsea,London,1.2,2765
+Feb-20,E09000021,Kingston upon Thames,London,-0.1,1391
+Feb-20,E09000022,Lambeth,London,3.9,1867
+Feb-20,E09000023,Lewisham,London,0.6,1376
+Feb-20,E09000024,Merton,London,2.4,1595
+Feb-20,E09000025,Newham,London,0.9,1490
+Feb-20,E09000026,Redbridge,London,1.9,1294
+Feb-20,E09000027,Richmond upon Thames,London,3.4,1725
+Feb-20,E09000028,Southwark,London,3.2,1860
+Feb-20,E09000029,Sutton,London,2.5,1128
+Feb-20,E09000030,Tower Hamlets,London,1,1899
+Feb-20,E09000031,Waltham Forest,London,1.5,1355
+Feb-20,E09000032,Wandsworth,London,4,1957
+Feb-20,E09000033,Westminster,London,4.9,2552
+Mar-20,E09000002,Barking and Dagenham,London,2.8,1237
+Mar-20,E09000003,Barnet,London,0.7,1470
+Mar-20,E09000004,Bexley,London,3,1063
+Mar-20,E09000005,Brent,London,-3.3,1445
+Mar-20,E09000006,Bromley,London,0.7,1257
+Mar-20,E09000007,Camden,London,4.8,2315
+Mar-20,E09000008,Croydon,London,2.1,1171
+Mar-20,E09000009,Ealing,London,3.9,1518
+Mar-20,E09000010,Enfield,London,-0.2,1304
+Mar-20,E09000011,Greenwich,London,2.9,1451
+Mar-20,E09000012,Hackney,London,-0.1,1971
+Mar-20,E09000013,Hammersmith and Fulham,London,3.4,2039
+Mar-20,E09000014,Haringey,London,5.4,1682
+Mar-20,E09000015,Harrow,London,2.6,1354
+Mar-20,E09000016,Havering,London,1.7,1144
+Mar-20,E09000017,Hillingdon,London,1.8,1150
+Mar-20,E09000018,Hounslow,London,2.1,1339
+Mar-20,E09000019,Islington,London,3.5,2088
+Mar-20,E09000020,Kensington and Chelsea,London,1.2,2771
+Mar-20,E09000021,Kingston upon Thames,London,-0.1,1394
+Mar-20,E09000022,Lambeth,London,4,1876
+Mar-20,E09000023,Lewisham,London,0.9,1381
+Mar-20,E09000024,Merton,London,3.6,1616
+Mar-20,E09000025,Newham,London,1.3,1495
+Mar-20,E09000026,Redbridge,London,1.8,1295
+Mar-20,E09000027,Richmond upon Thames,London,3.7,1740
+Mar-20,E09000028,Southwark,London,3.2,1864
+Mar-20,E09000029,Sutton,London,3.2,1137
+Mar-20,E09000030,Tower Hamlets,London,1.2,1900
+Mar-20,E09000031,Waltham Forest,London,1.8,1360
+Mar-20,E09000032,Wandsworth,London,3.9,1958
+Mar-20,E09000033,Westminster,London,5.1,2552
+Apr-20,E09000002,Barking and Dagenham,London,2.7,1238
+Apr-20,E09000003,Barnet,London,0.8,1471
+Apr-20,E09000004,Bexley,London,2.6,1062
+Apr-20,E09000005,Brent,London,-3.2,1447
+Apr-20,E09000006,Bromley,London,0.7,1259
+Apr-20,E09000007,Camden,London,2.1,2253
+Apr-20,E09000008,Croydon,London,2.2,1171
+Apr-20,E09000009,Ealing,London,5.5,1538
+Apr-20,E09000010,Enfield,London,-0.1,1304
+Apr-20,E09000011,Greenwich,London,2.8,1449
+Apr-20,E09000012,Hackney,London,-0.1,1970
+Apr-20,E09000013,Hammersmith and Fulham,London,3.3,2044
+Apr-20,E09000014,Haringey,London,5.5,1687
+Apr-20,E09000015,Harrow,London,1.9,1350
+Apr-20,E09000016,Havering,London,1.5,1144
+Apr-20,E09000017,Hillingdon,London,3.4,1169
+Apr-20,E09000018,Hounslow,London,1,1339
+Apr-20,E09000019,Islington,London,3.6,2080
+Apr-20,E09000020,Kensington and Chelsea,London,1.6,2783
+Apr-20,E09000021,Kingston upon Thames,London,0,1393
+Apr-20,E09000022,Lambeth,London,4.7,1887
+Apr-20,E09000023,Lewisham,London,1,1385
+Apr-20,E09000024,Merton,London,4.4,1632
+Apr-20,E09000025,Newham,London,2,1505
+Apr-20,E09000026,Redbridge,London,1.7,1294
+Apr-20,E09000027,Richmond upon Thames,London,3.5,1746
+Apr-20,E09000028,Southwark,London,3,1861
+Apr-20,E09000029,Sutton,London,3.9,1146
+Apr-20,E09000030,Tower Hamlets,London,1.5,1904
+Apr-20,E09000031,Waltham Forest,London,2.1,1364
+Apr-20,E09000032,Wandsworth,London,3.9,1963
+Apr-20,E09000033,Westminster,London,4.8,2546
+May-20,E09000002,Barking and Dagenham,London,2.2,1238
+May-20,E09000003,Barnet,London,1.1,1477
+May-20,E09000004,Bexley,London,2.3,1062
+May-20,E09000005,Brent,London,-2.4,1458
+May-20,E09000006,Bromley,London,0.7,1259
+May-20,E09000007,Camden,London,-2.3,2181
+May-20,E09000008,Croydon,London,2.2,1171
+May-20,E09000009,Ealing,London,5.5,1542
+May-20,E09000010,Enfield,London,-0.5,1303
+May-20,E09000011,Greenwich,London,2.9,1448
+May-20,E09000012,Hackney,London,-0.5,1969
+May-20,E09000013,Hammersmith and Fulham,London,2.7,2044
+May-20,E09000014,Haringey,London,4.6,1686
+May-20,E09000015,Harrow,London,0.6,1341
+May-20,E09000016,Havering,London,1.3,1143
+May-20,E09000017,Hillingdon,London,3.6,1177
+May-20,E09000018,Hounslow,London,0,1335
+May-20,E09000019,Islington,London,3.7,2085
+May-20,E09000020,Kensington and Chelsea,London,1.5,2789
+May-20,E09000021,Kingston upon Thames,London,0.1,1393
+May-20,E09000022,Lambeth,London,5.2,1900
+May-20,E09000023,Lewisham,London,0.7,1383
+May-20,E09000024,Merton,London,4.4,1636
+May-20,E09000025,Newham,London,2.2,1510
+May-20,E09000026,Redbridge,London,1.4,1295
+May-20,E09000027,Richmond upon Thames,London,3.1,1746
+May-20,E09000028,Southwark,London,2.7,1857
+May-20,E09000029,Sutton,London,4.2,1153
+May-20,E09000030,Tower Hamlets,London,1.5,1905
+May-20,E09000031,Waltham Forest,London,1.7,1365
+May-20,E09000032,Wandsworth,London,3.9,1966
+May-20,E09000033,Westminster,London,5,2548
+Jun-20,E09000002,Barking and Dagenham,London,1.6,1238
+Jun-20,E09000003,Barnet,London,1.4,1482
+Jun-20,E09000004,Bexley,London,2.1,1061
+Jun-20,E09000005,Brent,London,-2.2,1461
+Jun-20,E09000006,Bromley,London,0.7,1259
+Jun-20,E09000007,Camden,London,-6.6,2105
+Jun-20,E09000008,Croydon,London,2.1,1173
+Jun-20,E09000009,Ealing,London,5.7,1549
+Jun-20,E09000010,Enfield,London,-0.8,1300
+Jun-20,E09000011,Greenwich,London,3,1449
+Jun-20,E09000012,Hackney,London,-0.7,1970
+Jun-20,E09000013,Hammersmith and Fulham,London,2.2,2044
+Jun-20,E09000014,Haringey,London,4.8,1691
+Jun-20,E09000015,Harrow,London,0,1337
+Jun-20,E09000016,Havering,London,1,1141
+Jun-20,E09000017,Hillingdon,London,4.1,1185
+Jun-20,E09000018,Hounslow,London,-0.4,1336
+Jun-20,E09000019,Islington,London,4,2096
+Jun-20,E09000020,Kensington and Chelsea,London,1.4,2791
+Jun-20,E09000021,Kingston upon Thames,London,0.2,1393
+Jun-20,E09000022,Lambeth,London,6.5,1916
+Jun-20,E09000023,Lewisham,London,0.9,1382
+Jun-20,E09000024,Merton,London,4.7,1638
+Jun-20,E09000025,Newham,London,2.6,1517
+Jun-20,E09000026,Redbridge,London,1.2,1296
+Jun-20,E09000027,Richmond upon Thames,London,2.9,1746
+Jun-20,E09000028,Southwark,London,2.7,1857
+Jun-20,E09000029,Sutton,London,3.8,1155
+Jun-20,E09000030,Tower Hamlets,London,1.1,1904
+Jun-20,E09000031,Waltham Forest,London,1.4,1365
+Jun-20,E09000032,Wandsworth,London,3.7,1971
+Jun-20,E09000033,Westminster,London,3.8,2526
+Jul-20,E09000002,Barking and Dagenham,London,1,1239
+Jul-20,E09000003,Barnet,London,1.5,1486
+Jul-20,E09000004,Bexley,London,2,1062
+Jul-20,E09000005,Brent,London,-2,1461
+Jul-20,E09000006,Bromley,London,0.9,1261
+Jul-20,E09000007,Camden,London,-7.9,2096
+Jul-20,E09000008,Croydon,London,2.4,1179
+Jul-20,E09000009,Ealing,London,5.3,1549
+Jul-20,E09000010,Enfield,London,-1.1,1297
+Jul-20,E09000011,Greenwich,London,3.2,1452
+Jul-20,E09000012,Hackney,London,-0.8,1971
+Jul-20,E09000013,Hammersmith and Fulham,London,2.1,2042
+Jul-20,E09000014,Haringey,London,4.1,1694
+Jul-20,E09000015,Harrow,London,0.3,1343
+Jul-20,E09000016,Havering,London,0.9,1140
+Jul-20,E09000017,Hillingdon,London,3.7,1182
+Jul-20,E09000018,Hounslow,London,-0.3,1339
+Jul-20,E09000019,Islington,London,4,2106
+Jul-20,E09000020,Kensington and Chelsea,London,0.5,2787
+Jul-20,E09000021,Kingston upon Thames,London,0.3,1395
+Jul-20,E09000022,Lambeth,London,7.4,1932
+Jul-20,E09000023,Lewisham,London,1.4,1382
+Jul-20,E09000024,Merton,London,4.7,1639
+Jul-20,E09000025,Newham,London,2.6,1518
+Jul-20,E09000026,Redbridge,London,0.9,1295
+Jul-20,E09000027,Richmond upon Thames,London,2.6,1746
+Jul-20,E09000028,Southwark,London,3.2,1863
+Jul-20,E09000029,Sutton,London,3.2,1155
+Jul-20,E09000030,Tower Hamlets,London,0.7,1905
+Jul-20,E09000031,Waltham Forest,London,1.2,1367
+Jul-20,E09000032,Wandsworth,London,3.6,1974
+Jul-20,E09000033,Westminster,London,3.3,2520
+Aug-20,E09000002,Barking and Dagenham,London,1,1240
+Aug-20,E09000003,Barnet,London,1.7,1488
+Aug-20,E09000004,Bexley,London,2,1063
+Aug-20,E09000005,Brent,London,-1.9,1459
+Aug-20,E09000006,Bromley,London,1.4,1263
+Aug-20,E09000007,Camden,London,-8.1,2087
+Aug-20,E09000008,Croydon,London,2.5,1184
+Aug-20,E09000009,Ealing,London,5,1545
+Aug-20,E09000010,Enfield,London,-0.8,1299
+Aug-20,E09000011,Greenwich,London,3.2,1452
+Aug-20,E09000012,Hackney,London,-0.5,1973
+Aug-20,E09000013,Hammersmith and Fulham,London,2.4,2045
+Aug-20,E09000014,Haringey,London,4.2,1701
+Aug-20,E09000015,Harrow,London,1.1,1353
+Aug-20,E09000016,Havering,London,0.8,1141
+Aug-20,E09000017,Hillingdon,London,3.9,1182
+Aug-20,E09000018,Hounslow,London,-0.3,1344
+Aug-20,E09000019,Islington,London,4.6,2112
+Aug-20,E09000020,Kensington and Chelsea,London,-0.4,2776
+Aug-20,E09000021,Kingston upon Thames,London,0.4,1396
+Aug-20,E09000022,Lambeth,London,8.5,1949
+Aug-20,E09000023,Lewisham,London,2.4,1385
+Aug-20,E09000024,Merton,London,4.9,1640
+Aug-20,E09000025,Newham,London,2.7,1520
+Aug-20,E09000026,Redbridge,London,0.9,1294
+Aug-20,E09000027,Richmond upon Thames,London,2.8,1747
+Aug-20,E09000028,Southwark,London,3.8,1869
+Aug-20,E09000029,Sutton,London,2.7,1153
+Aug-20,E09000030,Tower Hamlets,London,0.4,1904
+Aug-20,E09000031,Waltham Forest,London,1.6,1369
+Aug-20,E09000032,Wandsworth,London,3.4,1978
+Aug-20,E09000033,Westminster,London,2.4,2509
+Sep-20,E09000002,Barking and Dagenham,London,1.1,1242
+Sep-20,E09000003,Barnet,London,1.4,1488
+Sep-20,E09000004,Bexley,London,2,1065
+Sep-20,E09000005,Brent,London,-1.2,1460
+Sep-20,E09000006,Bromley,London,1.8,1266
+Sep-20,E09000007,Camden,London,-8.7,2081
+Sep-20,E09000008,Croydon,London,2.5,1187
+Sep-20,E09000009,Ealing,London,4.6,1543
+Sep-20,E09000010,Enfield,London,-0.5,1302
+Sep-20,E09000011,Greenwich,London,3.2,1452
+Sep-20,E09000012,Hackney,London,-0.3,1971
+Sep-20,E09000013,Hammersmith and Fulham,London,2.3,2058
+Sep-20,E09000014,Haringey,London,3.2,1697
+Sep-20,E09000015,Harrow,London,1.3,1358
+Sep-20,E09000016,Havering,London,0.5,1143
+Sep-20,E09000017,Hillingdon,London,4.1,1183
+Sep-20,E09000018,Hounslow,London,-0.4,1347
+Sep-20,E09000019,Islington,London,4.3,2116
+Sep-20,E09000020,Kensington and Chelsea,London,-0.9,2761
+Sep-20,E09000021,Kingston upon Thames,London,0.6,1398
+Sep-20,E09000022,Lambeth,London,7.9,1952
+Sep-20,E09000023,Lewisham,London,2.7,1389
+Sep-20,E09000024,Merton,London,4.4,1639
+Sep-20,E09000025,Newham,London,2.6,1522
+Sep-20,E09000026,Redbridge,London,0.7,1295
+Sep-20,E09000027,Richmond upon Thames,London,2.6,1747
+Sep-20,E09000028,Southwark,London,4,1873
+Sep-20,E09000029,Sutton,London,2.3,1152
+Sep-20,E09000030,Tower Hamlets,London,0.4,1904
+Sep-20,E09000031,Waltham Forest,London,1.9,1371
+Sep-20,E09000032,Wandsworth,London,3,1981
+Sep-20,E09000033,Westminster,London,2.2,2515
+Oct-20,E09000002,Barking and Dagenham,London,1.3,1243
+Oct-20,E09000003,Barnet,London,1.6,1488
+Oct-20,E09000004,Bexley,London,1.9,1069
+Oct-20,E09000005,Brent,London,-0.3,1462
+Oct-20,E09000006,Bromley,London,2.4,1272
+Oct-20,E09000007,Camden,London,-9.9,2074
+Oct-20,E09000008,Croydon,London,2.1,1187
+Oct-20,E09000009,Ealing,London,4.6,1544
+Oct-20,E09000010,Enfield,London,0.2,1309
+Oct-20,E09000011,Greenwich,London,2.5,1451
+Oct-20,E09000012,Hackney,London,-0.4,1969
+Oct-20,E09000013,Hammersmith and Fulham,London,1.7,2073
+Oct-20,E09000014,Haringey,London,2.7,1692
+Oct-20,E09000015,Harrow,London,1.4,1359
+Oct-20,E09000016,Havering,London,0.3,1143
+Oct-20,E09000017,Hillingdon,London,4.3,1186
+Oct-20,E09000018,Hounslow,London,-0.7,1350
+Oct-20,E09000019,Islington,London,2.9,2109
+Oct-20,E09000020,Kensington and Chelsea,London,-1.5,2744
+Oct-20,E09000021,Kingston upon Thames,London,0.9,1399
+Oct-20,E09000022,Lambeth,London,7.4,1955
+Oct-20,E09000023,Lewisham,London,3,1396
+Oct-20,E09000024,Merton,London,4.1,1638
+Oct-20,E09000025,Newham,London,2.6,1522
+Oct-20,E09000026,Redbridge,London,0.8,1298
+Oct-20,E09000027,Richmond upon Thames,London,2.8,1749
+Oct-20,E09000028,Southwark,London,3.9,1871
+Oct-20,E09000029,Sutton,London,2.3,1152
+Oct-20,E09000030,Tower Hamlets,London,0,1900
+Oct-20,E09000031,Waltham Forest,London,2.1,1371
+Oct-20,E09000032,Wandsworth,London,2.6,1983
+Oct-20,E09000033,Westminster,London,1.4,2512
+Nov-20,E09000002,Barking and Dagenham,London,1.3,1245
+Nov-20,E09000003,Barnet,London,1.6,1487
+Nov-20,E09000004,Bexley,London,1.8,1073
+Nov-20,E09000005,Brent,London,0.6,1467
+Nov-20,E09000006,Bromley,London,3,1282
+Nov-20,E09000007,Camden,London,-11.1,2070
+Nov-20,E09000008,Croydon,London,2.1,1188
+Nov-20,E09000009,Ealing,London,4.8,1551
+Nov-20,E09000010,Enfield,London,0.8,1316
+Nov-20,E09000011,Greenwich,London,1.6,1452
+Nov-20,E09000012,Hackney,London,-0.6,1963
+Nov-20,E09000013,Hammersmith and Fulham,London,1.7,2081
+Nov-20,E09000014,Haringey,London,1.9,1686
+Nov-20,E09000015,Harrow,London,1.7,1365
+Nov-20,E09000016,Havering,London,0.3,1146
+Nov-20,E09000017,Hillingdon,London,4.6,1191
+Nov-20,E09000018,Hounslow,London,-1.1,1348
+Nov-20,E09000019,Islington,London,1.2,2093
+Nov-20,E09000020,Kensington and Chelsea,London,-1.2,2740
+Nov-20,E09000021,Kingston upon Thames,London,0.8,1400
+Nov-20,E09000022,Lambeth,London,6.7,1952
+Nov-20,E09000023,Lewisham,London,2.7,1401
+Nov-20,E09000024,Merton,London,3.9,1636
+Nov-20,E09000025,Newham,London,2.5,1522
+Nov-20,E09000026,Redbridge,London,0.8,1300
+Nov-20,E09000027,Richmond upon Thames,London,2.7,1751
+Nov-20,E09000028,Southwark,London,3.8,1869
+Nov-20,E09000029,Sutton,London,2.5,1152
+Nov-20,E09000030,Tower Hamlets,London,-0.4,1892
+Nov-20,E09000031,Waltham Forest,London,2.1,1371
+Nov-20,E09000032,Wandsworth,London,1.8,1978
+Nov-20,E09000033,Westminster,London,0.2,2507
+Dec-20,E09000002,Barking and Dagenham,London,1.3,1246
+Dec-20,E09000003,Barnet,London,1.8,1487
+Dec-20,E09000004,Bexley,London,1.7,1076
+Dec-20,E09000005,Brent,London,1.2,1473
+Dec-20,E09000006,Bromley,London,3.5,1290
+Dec-20,E09000007,Camden,London,-11.3,2068
+Dec-20,E09000008,Croydon,London,2.1,1189
+Dec-20,E09000009,Ealing,London,5.2,1555
+Dec-20,E09000010,Enfield,London,1.3,1321
+Dec-20,E09000011,Greenwich,London,0.1,1449
+Dec-20,E09000012,Hackney,London,-1.1,1955
+Dec-20,E09000013,Hammersmith and Fulham,London,1.9,2078
+Dec-20,E09000014,Haringey,London,1.4,1682
+Dec-20,E09000015,Harrow,London,1.9,1369
+Dec-20,E09000016,Havering,London,0.8,1150
+Dec-20,E09000017,Hillingdon,London,5,1193
+Dec-20,E09000018,Hounslow,London,-1.6,1342
+Dec-20,E09000019,Islington,London,-0.5,2074
+Dec-20,E09000020,Kensington and Chelsea,London,-1.4,2731
+Dec-20,E09000021,Kingston upon Thames,London,0.9,1400
+Dec-20,E09000022,Lambeth,London,5.5,1945
+Dec-20,E09000023,Lewisham,London,2.6,1405
+Dec-20,E09000024,Merton,London,4,1636
+Dec-20,E09000025,Newham,London,2.4,1521
+Dec-20,E09000026,Redbridge,London,0.8,1301
+Dec-20,E09000027,Richmond upon Thames,London,2.8,1753
+Dec-20,E09000028,Southwark,London,3,1870
+Dec-20,E09000029,Sutton,London,3,1155
+Dec-20,E09000030,Tower Hamlets,London,-1.2,1882
+Dec-20,E09000031,Waltham Forest,London,2.3,1375
+Dec-20,E09000032,Wandsworth,London,1.2,1972
+Dec-20,E09000033,Westminster,London,-1.4,2491
+Jan-21,E09000002,Barking and Dagenham,London,1.4,1249
+Jan-21,E09000003,Barnet,London,1.3,1484
+Jan-21,E09000004,Bexley,London,1.7,1079
+Jan-21,E09000005,Brent,London,1.5,1477
+Jan-21,E09000006,Bromley,London,3.5,1293
+Jan-21,E09000007,Camden,London,-10.8,2071
+Jan-21,E09000008,Croydon,London,2.3,1192
+Jan-21,E09000009,Ealing,London,5.3,1560
+Jan-21,E09000010,Enfield,London,1.5,1323
+Jan-21,E09000011,Greenwich,London,-1,1440
+Jan-21,E09000012,Hackney,London,-1.5,1949
+Jan-21,E09000013,Hammersmith and Fulham,London,2.6,2085
+Jan-21,E09000014,Haringey,London,0.5,1675
+Jan-21,E09000015,Harrow,London,1.8,1372
+Jan-21,E09000016,Havering,London,1.1,1155
+Jan-21,E09000017,Hillingdon,London,5.4,1195
+Jan-21,E09000018,Hounslow,London,-1.2,1336
+Jan-21,E09000019,Islington,London,-1.8,2055
+Jan-21,E09000020,Kensington and Chelsea,London,-1.4,2726
+Jan-21,E09000021,Kingston upon Thames,London,0.8,1402
+Jan-21,E09000022,Lambeth,London,4.3,1935
+Jan-21,E09000023,Lewisham,London,2.4,1404
+Jan-21,E09000024,Merton,London,3.8,1635
+Jan-21,E09000025,Newham,London,2.6,1524
+Jan-21,E09000026,Redbridge,London,0.7,1303
+Jan-21,E09000027,Richmond upon Thames,London,2.3,1753
+Jan-21,E09000028,Southwark,London,1.8,1869
+Jan-21,E09000029,Sutton,London,3.3,1159
+Jan-21,E09000030,Tower Hamlets,London,-1,1878
+Jan-21,E09000031,Waltham Forest,London,2.8,1385
+Jan-21,E09000032,Wandsworth,London,0.5,1964
+Jan-21,E09000033,Westminster,London,-3.3,2464
+Feb-21,E09000002,Barking and Dagenham,London,1.4,1252
+Feb-21,E09000003,Barnet,London,1.1,1481
+Feb-21,E09000004,Bexley,London,1.7,1081
+Feb-21,E09000005,Brent,London,2.2,1479
+Feb-21,E09000006,Bromley,London,3.1,1292
+Feb-21,E09000007,Camden,London,-10.2,2076
+Feb-21,E09000008,Croydon,London,2.4,1196
+Feb-21,E09000009,Ealing,London,4.5,1568
+Feb-21,E09000010,Enfield,London,1.6,1324
+Feb-21,E09000011,Greenwich,London,-1.4,1434
+Feb-21,E09000012,Hackney,London,-1.5,1945
+Feb-21,E09000013,Hammersmith and Fulham,London,2.6,2089
+Feb-21,E09000014,Haringey,London,-0.4,1668
+Feb-21,E09000015,Harrow,London,1.3,1369
+Feb-21,E09000016,Havering,London,1.3,1158
+Feb-21,E09000017,Hillingdon,London,5,1196
+Feb-21,E09000018,Hounslow,London,-1,1333
+Feb-21,E09000019,Islington,London,-3.1,2033
+Feb-21,E09000020,Kensington and Chelsea,London,-1.7,2717
+Feb-21,E09000021,Kingston upon Thames,London,1.5,1412
+Feb-21,E09000022,Lambeth,London,3,1923
+Feb-21,E09000023,Lewisham,London,2.1,1405
+Feb-21,E09000024,Merton,London,2.4,1633
+Feb-21,E09000025,Newham,London,2.5,1528
+Feb-21,E09000026,Redbridge,London,0.8,1305
+Feb-21,E09000027,Richmond upon Thames,London,1.5,1752
+Feb-21,E09000028,Southwark,London,0.4,1867
+Feb-21,E09000029,Sutton,London,3.2,1164
+Feb-21,E09000030,Tower Hamlets,London,-1.4,1872
+Feb-21,E09000031,Waltham Forest,London,2.8,1393
+Feb-21,E09000032,Wandsworth,London,0.5,1967
+Feb-21,E09000033,Westminster,London,-4.1,2446
+Mar-21,E09000002,Barking and Dagenham,London,1.4,1255
+Mar-21,E09000003,Barnet,London,0.1,1472
+Mar-21,E09000004,Bexley,London,2.3,1088
+Mar-21,E09000005,Brent,London,2.3,1479
+Mar-21,E09000006,Bromley,London,2.7,1291
+Mar-21,E09000007,Camden,London,-10.7,2066
+Mar-21,E09000008,Croydon,London,2.5,1200
+Mar-21,E09000009,Ealing,London,3.8,1576
+Mar-21,E09000010,Enfield,London,1.7,1326
+Mar-21,E09000011,Greenwich,London,-1.1,1435
+Mar-21,E09000012,Hackney,London,-1.4,1944
+Mar-21,E09000013,Hammersmith and Fulham,London,2.8,2096
+Mar-21,E09000014,Haringey,London,-1.6,1655
+Mar-21,E09000015,Harrow,London,0.9,1367
+Mar-21,E09000016,Havering,London,1.6,1161
+Mar-21,E09000017,Hillingdon,London,4.4,1200
+Mar-21,E09000018,Hounslow,London,-0.3,1336
+Mar-21,E09000019,Islington,London,-3.3,2019
+Mar-21,E09000020,Kensington and Chelsea,London,-2,2717
+Mar-21,E09000021,Kingston upon Thames,London,2,1421
+Mar-21,E09000022,Lambeth,London,1.9,1912
+Mar-21,E09000023,Lewisham,London,2,1409
+Mar-21,E09000024,Merton,London,0.8,1629
+Mar-21,E09000025,Newham,London,2.4,1531
+Mar-21,E09000026,Redbridge,London,0.8,1305
+Mar-21,E09000027,Richmond upon Thames,London,0.6,1750
+Mar-21,E09000028,Southwark,London,-0.3,1859
+Mar-21,E09000029,Sutton,London,2.6,1167
+Mar-21,E09000030,Tower Hamlets,London,-2,1862
+Mar-21,E09000031,Waltham Forest,London,2.5,1394
+Mar-21,E09000032,Wandsworth,London,0.4,1966
+Mar-21,E09000033,Westminster,London,-4.3,2441
+Apr-21,E09000002,Barking and Dagenham,London,1.4,1255
+Apr-21,E09000003,Barnet,London,-0.3,1466
+Apr-21,E09000004,Bexley,London,3,1095
+Apr-21,E09000005,Brent,London,2,1477
+Apr-21,E09000006,Bromley,London,2.5,1290
+Apr-21,E09000007,Camden,London,-8.7,2058
+Apr-21,E09000008,Croydon,London,2.6,1202
+Apr-21,E09000009,Ealing,London,2.4,1575
+Apr-21,E09000010,Enfield,London,1.8,1328
+Apr-21,E09000011,Greenwich,London,-0.6,1440
+Apr-21,E09000012,Hackney,London,-1.4,1943
+Apr-21,E09000013,Hammersmith and Fulham,London,2.1,2087
+Apr-21,E09000014,Haringey,London,-1.9,1655
+Apr-21,E09000015,Harrow,London,1.2,1367
+Apr-21,E09000016,Havering,London,1.9,1165
+Apr-21,E09000017,Hillingdon,London,3.2,1206
+Apr-21,E09000018,Hounslow,London,-0.1,1337
+Apr-21,E09000019,Islington,London,-3.3,2011
+Apr-21,E09000020,Kensington and Chelsea,London,-3.2,2694
+Apr-21,E09000021,Kingston upon Thames,London,2.7,1431
+Apr-21,E09000022,Lambeth,London,0.7,1900
+Apr-21,E09000023,Lewisham,London,1.5,1406
+Apr-21,E09000024,Merton,London,-0.9,1618
+Apr-21,E09000025,Newham,London,1.6,1529
+Apr-21,E09000026,Redbridge,London,1,1307
+Apr-21,E09000027,Richmond upon Thames,London,0.4,1753
+Apr-21,E09000028,Southwark,London,-0.3,1855
+Apr-21,E09000029,Sutton,London,1.8,1166
+Apr-21,E09000030,Tower Hamlets,London,-3.5,1838
+Apr-21,E09000031,Waltham Forest,London,1.5,1385
+Apr-21,E09000032,Wandsworth,London,-0.1,1960
+Apr-21,E09000033,Westminster,London,-4.6,2428
+May-21,E09000002,Barking and Dagenham,London,1.2,1252
+May-21,E09000003,Barnet,London,-1,1461
+May-21,E09000004,Bexley,London,4,1104
+May-21,E09000005,Brent,London,0.9,1471
+May-21,E09000006,Bromley,London,2.7,1293
+May-21,E09000007,Camden,London,-6.5,2039
+May-21,E09000008,Croydon,London,2.8,1204
+May-21,E09000009,Ealing,London,2.1,1576
+May-21,E09000010,Enfield,London,2.2,1331
+May-21,E09000011,Greenwich,London,-0.5,1441
+May-21,E09000012,Hackney,London,-1.5,1939
+May-21,E09000013,Hammersmith and Fulham,London,1.9,2083
+May-21,E09000014,Haringey,London,-1.7,1657
+May-21,E09000015,Harrow,London,2,1368
+May-21,E09000016,Havering,London,2.1,1167
+May-21,E09000017,Hillingdon,London,3.1,1214
+May-21,E09000018,Hounslow,London,0.2,1338
+May-21,E09000019,Islington,London,-3.8,2005
+May-21,E09000020,Kensington and Chelsea,London,-4.5,2664
+May-21,E09000021,Kingston upon Thames,London,2.8,1432
+May-21,E09000022,Lambeth,London,-0.9,1884
+May-21,E09000023,Lewisham,London,1.5,1403
+May-21,E09000024,Merton,London,-1.5,1611
+May-21,E09000025,Newham,London,1.1,1527
+May-21,E09000026,Redbridge,London,1.1,1309
+May-21,E09000027,Richmond upon Thames,London,0.1,1748
+May-21,E09000028,Southwark,London,-0.6,1846
+May-21,E09000029,Sutton,London,1.1,1165
+May-21,E09000030,Tower Hamlets,London,-5.1,1807
+May-21,E09000031,Waltham Forest,London,0.9,1377
+May-21,E09000032,Wandsworth,London,-1,1946
+May-21,E09000033,Westminster,London,-5.8,2401
+Jun-21,E09000002,Barking and Dagenham,London,1,1250
+Jun-21,E09000003,Barnet,London,-1.3,1463
+Jun-21,E09000004,Bexley,London,5.1,1115
+Jun-21,E09000005,Brent,London,0.1,1462
+Jun-21,E09000006,Bromley,London,2.9,1296
+Jun-21,E09000007,Camden,London,-1.4,2075
+Jun-21,E09000008,Croydon,London,2.8,1205
+Jun-21,E09000009,Ealing,London,1.4,1571
+Jun-21,E09000010,Enfield,London,2.8,1336
+Jun-21,E09000011,Greenwich,London,-0.5,1442
+Jun-21,E09000012,Hackney,London,-2,1931
+Jun-21,E09000013,Hammersmith and Fulham,London,1.6,2077
+Jun-21,E09000014,Haringey,London,-1.5,1666
+Jun-21,E09000015,Harrow,London,2.3,1367
+Jun-21,E09000016,Havering,London,2.4,1168
+Jun-21,E09000017,Hillingdon,London,2.1,1210
+Jun-21,E09000018,Hounslow,London,0,1336
+Jun-21,E09000019,Islington,London,-5.4,1982
+Jun-21,E09000020,Kensington and Chelsea,London,-5.8,2629
+Jun-21,E09000021,Kingston upon Thames,London,3,1434
+Jun-21,E09000022,Lambeth,London,-2.5,1868
+Jun-21,E09000023,Lewisham,London,1.7,1405
+Jun-21,E09000024,Merton,London,-2.1,1604
+Jun-21,E09000025,Newham,London,0.5,1524
+Jun-21,E09000026,Redbridge,London,1.3,1313
+Jun-21,E09000027,Richmond upon Thames,London,0,1745
+Jun-21,E09000028,Southwark,London,-1.2,1836
+Jun-21,E09000029,Sutton,London,0.8,1164
+Jun-21,E09000030,Tower Hamlets,London,-6.6,1779
+Jun-21,E09000031,Waltham Forest,London,1,1379
+Jun-21,E09000032,Wandsworth,London,-1.8,1936
+Jun-21,E09000033,Westminster,London,-6,2375
+Jul-21,E09000002,Barking and Dagenham,London,0.8,1249
+Jul-21,E09000003,Barnet,London,-1.4,1465
+Jul-21,E09000004,Bexley,London,5.8,1124
+Jul-21,E09000005,Brent,London,-0.3,1456
+Jul-21,E09000006,Bromley,London,3.2,1302
+Jul-21,E09000007,Camden,London,-0.9,2077
+Jul-21,E09000008,Croydon,London,2.4,1206
+Jul-21,E09000009,Ealing,London,1.5,1573
+Jul-21,E09000010,Enfield,London,3.2,1339
+Jul-21,E09000011,Greenwich,London,-0.5,1444
+Jul-21,E09000012,Hackney,London,-2.8,1917
+Jul-21,E09000013,Hammersmith and Fulham,London,1.7,2076
+Jul-21,E09000014,Haringey,London,-1.9,1662
+Jul-21,E09000015,Harrow,London,1.7,1366
+Jul-21,E09000016,Havering,London,2.5,1169
+Jul-21,E09000017,Hillingdon,London,1.8,1203
+Jul-21,E09000018,Hounslow,London,-0.4,1334
+Jul-21,E09000019,Islington,London,-7.1,1958
+Jul-21,E09000020,Kensington and Chelsea,London,-6.2,2613
+Jul-21,E09000021,Kingston upon Thames,London,2.8,1434
+Jul-21,E09000022,Lambeth,London,-4.3,1850
+Jul-21,E09000023,Lewisham,London,2.3,1414
+Jul-21,E09000024,Merton,London,-1.9,1607
+Jul-21,E09000025,Newham,London,0.3,1523
+Jul-21,E09000026,Redbridge,London,1.4,1313
+Jul-21,E09000027,Richmond upon Thames,London,-1,1728
+Jul-21,E09000028,Southwark,London,-2.2,1822
+Jul-21,E09000029,Sutton,London,0.9,1166
+Jul-21,E09000030,Tower Hamlets,London,-7.5,1762
+Jul-21,E09000031,Waltham Forest,London,1.3,1385
+Jul-21,E09000032,Wandsworth,London,-2.2,1931
+Jul-21,E09000033,Westminster,London,-6.3,2361
+Aug-21,E09000002,Barking and Dagenham,London,0.9,1251
+Aug-21,E09000003,Barnet,London,-1.7,1462
+Aug-21,E09000004,Bexley,London,6.3,1130
+Aug-21,E09000005,Brent,London,-0.2,1456
+Aug-21,E09000006,Bromley,London,3.4,1306
+Aug-21,E09000007,Camden,London,0.3,2093
+Aug-21,E09000008,Croydon,London,2.5,1213
+Aug-21,E09000009,Ealing,London,1.4,1567
+Aug-21,E09000010,Enfield,London,3.4,1343
+Aug-21,E09000011,Greenwich,London,-0.5,1444
+Aug-21,E09000012,Hackney,London,-3.5,1903
+Aug-21,E09000013,Hammersmith and Fulham,London,1.7,2080
+Aug-21,E09000014,Haringey,London,-3,1650
+Aug-21,E09000015,Harrow,London,0.9,1365
+Aug-21,E09000016,Havering,London,2.6,1171
+Aug-21,E09000017,Hillingdon,London,1.1,1194
+Aug-21,E09000018,Hounslow,London,-0.6,1336
+Aug-21,E09000019,Islington,London,-8.1,1941
+Aug-21,E09000020,Kensington and Chelsea,London,-6.2,2605
+Aug-21,E09000021,Kingston upon Thames,London,2.8,1435
+Aug-21,E09000022,Lambeth,London,-5.8,1836
+Aug-21,E09000023,Lewisham,London,2.6,1422
+Aug-21,E09000024,Merton,London,-1.9,1610
+Aug-21,E09000025,Newham,London,0.1,1522
+Aug-21,E09000026,Redbridge,London,1.7,1316
+Aug-21,E09000027,Richmond upon Thames,London,-1.7,1717
+Aug-21,E09000028,Southwark,London,-2.9,1816
+Aug-21,E09000029,Sutton,London,1.2,1167
+Aug-21,E09000030,Tower Hamlets,London,-7.9,1753
+Aug-21,E09000031,Waltham Forest,London,1.6,1391
+Aug-21,E09000032,Wandsworth,London,-2.4,1931
+Aug-21,E09000033,Westminster,London,-5.8,2364
+Sep-21,E09000002,Barking and Dagenham,London,1,1254
+Sep-21,E09000003,Barnet,London,-1.4,1466
+Sep-21,E09000004,Bexley,London,6.4,1133
+Sep-21,E09000005,Brent,London,0,1459
+Sep-21,E09000006,Bromley,London,3.6,1312
+Sep-21,E09000007,Camden,London,-1,2061
+Sep-21,E09000008,Croydon,London,2.6,1218
+Sep-21,E09000009,Ealing,London,1.7,1569
+Sep-21,E09000010,Enfield,London,3.4,1346
+Sep-21,E09000011,Greenwich,London,-0.4,1447
+Sep-21,E09000012,Hackney,London,-3.9,1894
+Sep-21,E09000013,Hammersmith and Fulham,London,1.2,2084
+Sep-21,E09000014,Haringey,London,-3.3,1641
+Sep-21,E09000015,Harrow,London,0.4,1363
+Sep-21,E09000016,Havering,London,2.7,1174
+Sep-21,E09000017,Hillingdon,London,1.2,1197
+Sep-21,E09000018,Hounslow,London,-0.5,1340
+Sep-21,E09000019,Islington,London,-8.5,1936
+Sep-21,E09000020,Kensington and Chelsea,London,-5.8,2600
+Sep-21,E09000021,Kingston upon Thames,London,2.8,1437
+Sep-21,E09000022,Lambeth,London,-6.3,1828
+Sep-21,E09000023,Lewisham,London,2.5,1423
+Sep-21,E09000024,Merton,London,-1.4,1615
+Sep-21,E09000025,Newham,London,0,1521
+Sep-21,E09000026,Redbridge,London,1.8,1319
+Sep-21,E09000027,Richmond upon Thames,London,-2.1,1710
+Sep-21,E09000028,Southwark,London,-3.2,1813
+Sep-21,E09000029,Sutton,London,1.6,1170
+Sep-21,E09000030,Tower Hamlets,London,-8.3,1747
+Sep-21,E09000031,Waltham Forest,London,1.4,1391
+Sep-21,E09000032,Wandsworth,London,-2.3,1935
+Sep-21,E09000033,Westminster,London,-6.1,2361
+Oct-21,E09000002,Barking and Dagenham,London,1.1,1257
+Oct-21,E09000003,Barnet,London,-1.2,1471
+Oct-21,E09000004,Bexley,London,6.6,1139
+Oct-21,E09000005,Brent,London,0,1462
+Oct-21,E09000006,Bromley,London,3.6,1318
+Oct-21,E09000007,Camden,London,-0.9,2055
+Oct-21,E09000008,Croydon,London,3.1,1224
+Oct-21,E09000009,Ealing,London,2,1576
+Oct-21,E09000010,Enfield,London,2.8,1346
+Oct-21,E09000011,Greenwich,London,-0.1,1449
+Oct-21,E09000012,Hackney,London,-4,1890
+Oct-21,E09000013,Hammersmith and Fulham,London,0.7,2087
+Oct-21,E09000014,Haringey,London,-2.9,1642
+Oct-21,E09000015,Harrow,London,0.3,1363
+Oct-21,E09000016,Havering,London,2.9,1176
+Oct-21,E09000017,Hillingdon,London,1.2,1201
+Oct-21,E09000018,Hounslow,London,-0.3,1346
+Oct-21,E09000019,Islington,London,-8,1940
+Oct-21,E09000020,Kensington and Chelsea,London,-5.1,2604
+Oct-21,E09000021,Kingston upon Thames,London,3,1441
+Oct-21,E09000022,Lambeth,London,-6.5,1828
+Oct-21,E09000023,Lewisham,London,2.1,1426
+Oct-21,E09000024,Merton,London,-1.2,1619
+Oct-21,E09000025,Newham,London,-0.1,1522
+Oct-21,E09000026,Redbridge,London,1.8,1321
+Oct-21,E09000027,Richmond upon Thames,London,-1.6,1721
+Oct-21,E09000028,Southwark,London,-2.8,1819
+Oct-21,E09000029,Sutton,London,1.8,1172
+Oct-21,E09000030,Tower Hamlets,London,-8.2,1744
+Oct-21,E09000031,Waltham Forest,London,1.8,1395
+Oct-21,E09000032,Wandsworth,London,-2.2,1940
+Oct-21,E09000033,Westminster,London,-6,2361
+Nov-21,E09000002,Barking and Dagenham,London,1.1,1258
+Nov-21,E09000003,Barnet,London,-0.7,1477
+Nov-21,E09000004,Bexley,London,6.9,1147
+Nov-21,E09000005,Brent,London,-0.3,1463
+Nov-21,E09000006,Bromley,London,3.3,1324
+Nov-21,E09000007,Camden,London,-1,2049
+Nov-21,E09000008,Croydon,London,3.1,1225
+Nov-21,E09000009,Ealing,London,2,1582
+Nov-21,E09000010,Enfield,London,2.5,1348
+Nov-21,E09000011,Greenwich,London,0.1,1453
+Nov-21,E09000012,Hackney,London,-3.7,1889
+Nov-21,E09000013,Hammersmith and Fulham,London,0.3,2088
+Nov-21,E09000014,Haringey,London,-2.2,1648
+Nov-21,E09000015,Harrow,London,0,1365
+Nov-21,E09000016,Havering,London,2.8,1178
+Nov-21,E09000017,Hillingdon,London,1.3,1206
+Nov-21,E09000018,Hounslow,London,0.1,1349
+Nov-21,E09000019,Islington,London,-7.1,1944
+Nov-21,E09000020,Kensington and Chelsea,London,-4.6,2612
+Nov-21,E09000021,Kingston upon Thames,London,3.2,1444
+Nov-21,E09000022,Lambeth,London,-6.1,1833
+Nov-21,E09000023,Lewisham,London,2,1429
+Nov-21,E09000024,Merton,London,-0.8,1623
+Nov-21,E09000025,Newham,London,0,1522
+Nov-21,E09000026,Redbridge,London,1.8,1323
+Nov-21,E09000027,Richmond upon Thames,London,-1.1,1732
+Nov-21,E09000028,Southwark,London,-2.2,1827
+Nov-21,E09000029,Sutton,London,2,1175
+Nov-21,E09000030,Tower Hamlets,London,-7.9,1743
+Nov-21,E09000031,Waltham Forest,London,2.1,1399
+Nov-21,E09000032,Wandsworth,London,-1.5,1948
+Nov-21,E09000033,Westminster,London,-5.8,2361
+Dec-21,E09000002,Barking and Dagenham,London,1,1259
+Dec-21,E09000003,Barnet,London,-0.6,1479
+Dec-21,E09000004,Bexley,London,7,1151
+Dec-21,E09000005,Brent,London,-0.6,1464
+Dec-21,E09000006,Bromley,London,3.1,1329
+Dec-21,E09000007,Camden,London,-0.3,2062
+Dec-21,E09000008,Croydon,London,3.2,1227
+Dec-21,E09000009,Ealing,London,1.9,1585
+Dec-21,E09000010,Enfield,London,2.2,1350
+Dec-21,E09000011,Greenwich,London,0.6,1458
+Dec-21,E09000012,Hackney,London,-3.2,1892
+Dec-21,E09000013,Hammersmith and Fulham,London,0.5,2088
+Dec-21,E09000014,Haringey,London,-1.7,1653
+Dec-21,E09000015,Harrow,London,-0.2,1367
+Dec-21,E09000016,Havering,London,2.7,1181
+Dec-21,E09000017,Hillingdon,London,1.3,1209
+Dec-21,E09000018,Hounslow,London,0.8,1352
+Dec-21,E09000019,Islington,London,-5.7,1956
+Dec-21,E09000020,Kensington and Chelsea,London,-3.8,2628
+Dec-21,E09000021,Kingston upon Thames,London,3.4,1449
+Dec-21,E09000022,Lambeth,London,-5.3,1842
+Dec-21,E09000023,Lewisham,London,1.9,1432
+Dec-21,E09000024,Merton,London,-0.6,1627
+Dec-21,E09000025,Newham,London,0.1,1523
+Dec-21,E09000026,Redbridge,London,1.8,1324
+Dec-21,E09000027,Richmond upon Thames,London,-0.6,1743
+Dec-21,E09000028,Southwark,London,-2,1832
+Dec-21,E09000029,Sutton,London,2,1177
+Dec-21,E09000030,Tower Hamlets,London,-7.1,1747
+Dec-21,E09000031,Waltham Forest,London,2.1,1403
+Dec-21,E09000032,Wandsworth,London,-0.7,1957
+Dec-21,E09000033,Westminster,London,-4.9,2369
+Jan-22,E09000002,Barking and Dagenham,London,0.9,1260
+Jan-22,E09000003,Barnet,London,-0.1,1483
+Jan-22,E09000004,Bexley,London,7.1,1155
+Jan-22,E09000005,Brent,London,-0.8,1466
+Jan-22,E09000006,Bromley,London,3.1,1333
+Jan-22,E09000007,Camden,London,0.9,2091
+Jan-22,E09000008,Croydon,London,3.1,1229
+Jan-22,E09000009,Ealing,London,1.3,1580
+Jan-22,E09000010,Enfield,London,2.2,1352
+Jan-22,E09000011,Greenwich,London,1.5,1462
+Jan-22,E09000012,Hackney,London,-2.6,1897
+Jan-22,E09000013,Hammersmith and Fulham,London,0.2,2089
+Jan-22,E09000014,Haringey,London,-1.3,1652
+Jan-22,E09000015,Harrow,London,-0.5,1366
+Jan-22,E09000016,Havering,London,2.5,1183
+Jan-22,E09000017,Hillingdon,London,1.1,1208
+Jan-22,E09000018,Hounslow,London,1.8,1361
+Jan-22,E09000019,Islington,London,-4.5,1963
+Jan-22,E09000020,Kensington and Chelsea,London,-3,2643
+Jan-22,E09000021,Kingston upon Thames,London,3.6,1452
+Jan-22,E09000022,Lambeth,London,-4.5,1848
+Jan-22,E09000023,Lewisham,London,2.1,1433
+Jan-22,E09000024,Merton,London,-0.1,1633
+Jan-22,E09000025,Newham,London,0.1,1525
+Jan-22,E09000026,Redbridge,London,1.8,1326
+Jan-22,E09000027,Richmond upon Thames,London,-0.2,1749
+Jan-22,E09000028,Southwark,London,-1.9,1834
+Jan-22,E09000029,Sutton,London,1.9,1181
+Jan-22,E09000030,Tower Hamlets,London,-6.9,1749
+Jan-22,E09000031,Waltham Forest,London,1.6,1407
+Jan-22,E09000032,Wandsworth,London,0.1,1967
+Jan-22,E09000033,Westminster,London,-3.4,2380
+Feb-22,E09000002,Barking and Dagenham,London,0.8,1262
+Feb-22,E09000003,Barnet,London,0.5,1488
+Feb-22,E09000004,Bexley,London,7.3,1159
+Feb-22,E09000005,Brent,London,-0.7,1469
+Feb-22,E09000006,Bromley,London,3.5,1337
+Feb-22,E09000007,Camden,London,1.8,2114
+Feb-22,E09000008,Croydon,London,3,1231
+Feb-22,E09000009,Ealing,London,0.6,1578
+Feb-22,E09000010,Enfield,London,2.4,1356
+Feb-22,E09000011,Greenwich,London,2.2,1466
+Feb-22,E09000012,Hackney,London,-2,1907
+Feb-22,E09000013,Hammersmith and Fulham,London,0.2,2092
+Feb-22,E09000014,Haringey,London,-0.8,1654
+Feb-22,E09000015,Harrow,London,-0.2,1366
+Feb-22,E09000016,Havering,London,2.4,1186
+Feb-22,E09000017,Hillingdon,London,0.9,1207
+Feb-22,E09000018,Hounslow,London,3.1,1375
+Feb-22,E09000019,Islington,London,-2.8,1975
+Feb-22,E09000020,Kensington and Chelsea,London,-1.9,2664
+Feb-22,E09000021,Kingston upon Thames,London,3.3,1458
+Feb-22,E09000022,Lambeth,London,-3.7,1853
+Feb-22,E09000023,Lewisham,London,2.1,1435
+Feb-22,E09000024,Merton,London,0.3,1638
+Feb-22,E09000025,Newham,London,-0.2,1524
+Feb-22,E09000026,Redbridge,London,1.9,1329
+Feb-22,E09000027,Richmond upon Thames,London,0.2,1755
+Feb-22,E09000028,Southwark,London,-1.6,1837
+Feb-22,E09000029,Sutton,London,1.7,1184
+Feb-22,E09000030,Tower Hamlets,London,-6.5,1751
+Feb-22,E09000031,Waltham Forest,London,1,1407
+Feb-22,E09000032,Wandsworth,London,0.7,1980
+Feb-22,E09000033,Westminster,London,-2.1,2394
+Mar-22,E09000002,Barking and Dagenham,London,0.9,1266
+Mar-22,E09000003,Barnet,London,1.6,1495
+Mar-22,E09000004,Bexley,London,6.5,1159
+Mar-22,E09000005,Brent,London,-0.4,1473
+Mar-22,E09000006,Bromley,London,4,1342
+Mar-22,E09000007,Camden,London,3.2,2133
+Mar-22,E09000008,Croydon,London,2.9,1234
+Mar-22,E09000009,Ealing,London,0,1576
+Mar-22,E09000010,Enfield,London,2.4,1358
+Mar-22,E09000011,Greenwich,London,2.8,1475
+Mar-22,E09000012,Hackney,London,-1.6,1913
+Mar-22,E09000013,Hammersmith and Fulham,London,0,2096
+Mar-22,E09000014,Haringey,London,-0.1,1654
+Mar-22,E09000015,Harrow,London,0,1368
+Mar-22,E09000016,Havering,London,2.2,1187
+Mar-22,E09000017,Hillingdon,London,0.4,1205
+Mar-22,E09000018,Hounslow,London,4.4,1395
+Mar-22,E09000019,Islington,London,-1.9,1982
+Mar-22,E09000020,Kensington and Chelsea,London,-1.4,2680
+Mar-22,E09000021,Kingston upon Thames,London,2.8,1461
+Mar-22,E09000022,Lambeth,London,-3,1855
+Mar-22,E09000023,Lewisham,London,2,1437
+Mar-22,E09000024,Merton,London,0.8,1642
+Mar-22,E09000025,Newham,London,-0.6,1522
+Mar-22,E09000026,Redbridge,London,2.1,1332
+Mar-22,E09000027,Richmond upon Thames,London,0.6,1760
+Mar-22,E09000028,Southwark,London,-0.9,1843
+Mar-22,E09000029,Sutton,London,1.8,1188
+Mar-22,E09000030,Tower Hamlets,London,-6.1,1748
+Mar-22,E09000031,Waltham Forest,London,0.8,1406
+Mar-22,E09000032,Wandsworth,London,1.3,1991
+Mar-22,E09000033,Westminster,London,-1.4,2407
+Apr-22,E09000002,Barking and Dagenham,London,1.2,1271
+Apr-22,E09000003,Barnet,London,2.2,1499
+Apr-22,E09000004,Bexley,London,5.9,1159
+Apr-22,E09000005,Brent,London,0.1,1478
+Apr-22,E09000006,Bromley,London,4.5,1348
+Apr-22,E09000007,Camden,London,4.4,2148
+Apr-22,E09000008,Croydon,London,2.8,1236
+Apr-22,E09000009,Ealing,London,-0.1,1574
+Apr-22,E09000010,Enfield,London,2.5,1362
+Apr-22,E09000011,Greenwich,London,2.6,1478
+Apr-22,E09000012,Hackney,London,-1.1,1922
+Apr-22,E09000013,Hammersmith and Fulham,London,0.9,2105
+Apr-22,E09000014,Haringey,London,-0.2,1652
+Apr-22,E09000015,Harrow,London,0.6,1374
+Apr-22,E09000016,Havering,London,2,1189
+Apr-22,E09000017,Hillingdon,London,-0.2,1204
+Apr-22,E09000018,Hounslow,London,5.8,1414
+Apr-22,E09000019,Islington,London,-0.9,1994
+Apr-22,E09000020,Kensington and Chelsea,London,0,2693
+Apr-22,E09000021,Kingston upon Thames,London,2.3,1465
+Apr-22,E09000022,Lambeth,London,-2.2,1859
+Apr-22,E09000023,Lewisham,London,2.3,1438
+Apr-22,E09000024,Merton,London,1.8,1647
+Apr-22,E09000025,Newham,London,-0.6,1519
+Apr-22,E09000026,Redbridge,London,2.1,1335
+Apr-22,E09000027,Richmond upon Thames,London,0.7,1765
+Apr-22,E09000028,Southwark,London,-0.1,1853
+Apr-22,E09000029,Sutton,London,2.1,1190
+Apr-22,E09000030,Tower Hamlets,London,-5,1747
+Apr-22,E09000031,Waltham Forest,London,1.4,1404
+Apr-22,E09000032,Wandsworth,London,1.9,1999
+Apr-22,E09000033,Westminster,London,-0.1,2427
+May-22,E09000002,Barking and Dagenham,London,1.7,1274
+May-22,E09000003,Barnet,London,2.9,1504
+May-22,E09000004,Bexley,London,5,1160
+May-22,E09000005,Brent,London,0.8,1482
+May-22,E09000006,Bromley,London,4.8,1355
+May-22,E09000007,Camden,London,6.3,2167
+May-22,E09000008,Croydon,London,2.8,1237
+May-22,E09000009,Ealing,London,-0.2,1573
+May-22,E09000010,Enfield,London,2.6,1365
+May-22,E09000011,Greenwich,London,2.8,1481
+May-22,E09000012,Hackney,London,-0.6,1928
+May-22,E09000013,Hammersmith and Fulham,London,1.5,2114
+May-22,E09000014,Haringey,London,-0.2,1654
+May-22,E09000015,Harrow,London,1,1381
+May-22,E09000016,Havering,London,1.9,1190
+May-22,E09000017,Hillingdon,London,-1,1202
+May-22,E09000018,Hounslow,London,6.9,1429
+May-22,E09000019,Islington,London,-0.3,2000
+May-22,E09000020,Kensington and Chelsea,London,1.6,2707
+May-22,E09000021,Kingston upon Thames,London,2.5,1468
+May-22,E09000022,Lambeth,London,-1.1,1864
+May-22,E09000023,Lewisham,London,2.6,1440
+May-22,E09000024,Merton,London,2.9,1658
+May-22,E09000025,Newham,London,-0.4,1521
+May-22,E09000026,Redbridge,London,2.2,1338
+May-22,E09000027,Richmond upon Thames,London,1.3,1771
+May-22,E09000028,Southwark,London,1.1,1866
+May-22,E09000029,Sutton,London,2.4,1193
+May-22,E09000030,Tower Hamlets,London,-3.2,1749
+May-22,E09000031,Waltham Forest,London,2.1,1406
+May-22,E09000032,Wandsworth,London,3,2004
+May-22,E09000033,Westminster,London,1,2424
+Jun-22,E09000002,Barking and Dagenham,London,2.1,1276
+Jun-22,E09000003,Barnet,London,3.1,1508
+Jun-22,E09000004,Bexley,London,4.8,1168
+Jun-22,E09000005,Brent,London,1.6,1487
+Jun-22,E09000006,Bromley,London,5,1361
+Jun-22,E09000007,Camden,London,4.1,2159
+Jun-22,E09000008,Croydon,London,2.8,1239
+Jun-22,E09000009,Ealing,London,0,1571
+Jun-22,E09000010,Enfield,London,2.5,1369
+Jun-22,E09000011,Greenwich,London,2.7,1481
+Jun-22,E09000012,Hackney,London,0.2,1934
+Jun-22,E09000013,Hammersmith and Fulham,London,2.2,2123
+Jun-22,E09000014,Haringey,London,-0.4,1659
+Jun-22,E09000015,Harrow,London,1.4,1387
+Jun-22,E09000016,Havering,London,1.8,1190
+Jun-22,E09000017,Hillingdon,London,-1.2,1195
+Jun-22,E09000018,Hounslow,London,7,1430
+Jun-22,E09000019,Islington,London,1,2001
+Jun-22,E09000020,Kensington and Chelsea,London,3.9,2731
+Jun-22,E09000021,Kingston upon Thames,London,2.5,1471
+Jun-22,E09000022,Lambeth,London,0.1,1870
+Jun-22,E09000023,Lewisham,London,2.6,1441
+Jun-22,E09000024,Merton,London,4.4,1674
+Jun-22,E09000025,Newham,London,0,1524
+Jun-22,E09000026,Redbridge,London,2,1340
+Jun-22,E09000027,Richmond upon Thames,London,1.8,1777
+Jun-22,E09000028,Southwark,London,2.3,1878
+Jun-22,E09000029,Sutton,London,3.4,1204
+Jun-22,E09000030,Tower Hamlets,London,-1.2,1758
+Jun-22,E09000031,Waltham Forest,London,2.2,1409
+Jun-22,E09000032,Wandsworth,London,3.9,2011
+Jun-22,E09000033,Westminster,London,2.2,2427
+Jul-22,E09000002,Barking and Dagenham,London,2.5,1280
+Jul-22,E09000003,Barnet,London,3.4,1514
+Jul-22,E09000004,Bexley,London,4.7,1177
+Jul-22,E09000005,Brent,London,2.2,1488
+Jul-22,E09000006,Bromley,London,4.9,1366
+Jul-22,E09000007,Camden,London,3.1,2141
+Jul-22,E09000008,Croydon,London,2.9,1241
+Jul-22,E09000009,Ealing,London,-0.1,1572
+Jul-22,E09000010,Enfield,London,2.6,1374
+Jul-22,E09000011,Greenwich,London,2.8,1484
+Jul-22,E09000012,Hackney,London,1.3,1941
+Jul-22,E09000013,Hammersmith and Fulham,London,2.7,2131
+Jul-22,E09000014,Haringey,London,0.1,1664
+Jul-22,E09000015,Harrow,London,1.8,1391
+Jul-22,E09000016,Havering,London,2.2,1195
+Jul-22,E09000017,Hillingdon,London,-1.2,1188
+Jul-22,E09000018,Hounslow,London,7.2,1431
+Jul-22,E09000019,Islington,London,2.3,2002
+Jul-22,E09000020,Kensington and Chelsea,London,5.9,2768
+Jul-22,E09000021,Kingston upon Thames,London,2.8,1474
+Jul-22,E09000022,Lambeth,London,1.3,1875
+Jul-22,E09000023,Lewisham,London,2.1,1445
+Jul-22,E09000024,Merton,London,5.4,1694
+Jul-22,E09000025,Newham,London,0.2,1526
+Jul-22,E09000026,Redbridge,London,2.2,1342
+Jul-22,E09000027,Richmond upon Thames,London,3,1781
+Jul-22,E09000028,Southwark,London,3.9,1893
+Jul-22,E09000029,Sutton,London,4.2,1215
+Jul-22,E09000030,Tower Hamlets,London,0.5,1771
+Jul-22,E09000031,Waltham Forest,London,2.1,1415
+Jul-22,E09000032,Wandsworth,London,5,2028
+Jul-22,E09000033,Westminster,London,2.6,2423
+Aug-22,E09000002,Barking and Dagenham,London,2.6,1284
+Aug-22,E09000003,Barnet,London,4,1521
+Aug-22,E09000004,Bexley,London,4.8,1184
+Aug-22,E09000005,Brent,London,2.5,1492
+Aug-22,E09000006,Bromley,London,4.9,1370
+Aug-22,E09000007,Camden,London,1.5,2124
+Aug-22,E09000008,Croydon,London,2.6,1244
+Aug-22,E09000009,Ealing,London,0.6,1576
+Aug-22,E09000010,Enfield,London,2.7,1379
+Aug-22,E09000011,Greenwich,London,2.8,1485
+Aug-22,E09000012,Hackney,London,2.4,1950
+Aug-22,E09000013,Hammersmith and Fulham,London,3,2143
+Aug-22,E09000014,Haringey,London,1.3,1671
+Aug-22,E09000015,Harrow,London,2.3,1396
+Aug-22,E09000016,Havering,London,2.5,1201
+Aug-22,E09000017,Hillingdon,London,0.3,1197
+Aug-22,E09000018,Hounslow,London,7.2,1431
+Aug-22,E09000019,Islington,London,3.6,2010
+Aug-22,E09000020,Kensington and Chelsea,London,7.4,2798
+Aug-22,E09000021,Kingston upon Thames,London,3,1478
+Aug-22,E09000022,Lambeth,London,2.6,1884
+Aug-22,E09000023,Lewisham,London,1.7,1445
+Aug-22,E09000024,Merton,London,6.3,1711
+Aug-22,E09000025,Newham,London,0.3,1526
+Aug-22,E09000026,Redbridge,London,2.1,1344
+Aug-22,E09000027,Richmond upon Thames,London,4,1786
+Aug-22,E09000028,Southwark,London,4.9,1905
+Aug-22,E09000029,Sutton,London,5.1,1227
+Aug-22,E09000030,Tower Hamlets,London,2.2,1791
+Aug-22,E09000031,Waltham Forest,London,1.6,1413
+Aug-22,E09000032,Wandsworth,London,6,2047
+Aug-22,E09000033,Westminster,London,3,2435
+Sep-22,E09000002,Barking and Dagenham,London,2.8,1289
+Sep-22,E09000003,Barnet,London,4.2,1528
+Sep-22,E09000004,Bexley,London,5,1191
+Sep-22,E09000005,Brent,London,2.5,1496
+Sep-22,E09000006,Bromley,London,4.7,1374
+Sep-22,E09000007,Camden,London,3.5,2132
+Sep-22,E09000008,Croydon,London,2.3,1246
+Sep-22,E09000009,Ealing,London,1,1584
+Sep-22,E09000010,Enfield,London,2.8,1384
+Sep-22,E09000011,Greenwich,London,2.9,1488
+Sep-22,E09000012,Hackney,London,3.7,1965
+Sep-22,E09000013,Hammersmith and Fulham,London,3.5,2156
+Sep-22,E09000014,Haringey,London,2.6,1683
+Sep-22,E09000015,Harrow,London,2.8,1401
+Sep-22,E09000016,Havering,London,2.9,1208
+Sep-22,E09000017,Hillingdon,London,1.5,1215
+Sep-22,E09000018,Hounslow,London,7.5,1441
+Sep-22,E09000019,Islington,London,4.6,2025
+Sep-22,E09000020,Kensington and Chelsea,London,8.9,2832
+Sep-22,E09000021,Kingston upon Thames,London,3.2,1483
+Sep-22,E09000022,Lambeth,London,3.9,1899
+Sep-22,E09000023,Lewisham,London,1.6,1446
+Sep-22,E09000024,Merton,London,6.6,1723
+Sep-22,E09000025,Newham,London,0.2,1524
+Sep-22,E09000026,Redbridge,London,2.1,1346
+Sep-22,E09000027,Richmond upon Thames,London,4.7,1791
+Sep-22,E09000028,Southwark,London,5.9,1921
+Sep-22,E09000029,Sutton,London,5.5,1234
+Sep-22,E09000030,Tower Hamlets,London,3.9,1815
+Sep-22,E09000031,Waltham Forest,London,1.8,1415
+Sep-22,E09000032,Wandsworth,London,6.8,2066
+Sep-22,E09000033,Westminster,London,3.7,2449
+Oct-22,E09000002,Barking and Dagenham,London,2.9,1293
+Oct-22,E09000003,Barnet,London,4.3,1534
+Oct-22,E09000004,Bexley,London,5,1196
+Oct-22,E09000005,Brent,London,2.6,1499
+Oct-22,E09000006,Bromley,London,4.4,1376
+Oct-22,E09000007,Camden,London,4.2,2141
+Oct-22,E09000008,Croydon,London,1.8,1245
+Oct-22,E09000009,Ealing,London,1.2,1594
+Oct-22,E09000010,Enfield,London,3,1388
+Oct-22,E09000011,Greenwich,London,3.1,1494
+Oct-22,E09000012,Hackney,London,4.6,1978
+Oct-22,E09000013,Hammersmith and Fulham,London,3.7,2164
+Oct-22,E09000014,Haringey,London,3.4,1697
+Oct-22,E09000015,Harrow,London,3.1,1405
+Oct-22,E09000016,Havering,London,3,1211
+Oct-22,E09000017,Hillingdon,London,2.8,1235
+Oct-22,E09000018,Hounslow,London,7.6,1447
+Oct-22,E09000019,Islington,London,5.3,2043
+Oct-22,E09000020,Kensington and Chelsea,London,9.6,2853
+Oct-22,E09000021,Kingston upon Thames,London,3.1,1485
+Oct-22,E09000022,Lambeth,London,4.9,1917
+Oct-22,E09000023,Lewisham,London,1.5,1447
+Oct-22,E09000024,Merton,London,6.7,1728
+Oct-22,E09000025,Newham,London,0.3,1525
+Oct-22,E09000026,Redbridge,London,2,1348
+Oct-22,E09000027,Richmond upon Thames,London,4.3,1795
+Oct-22,E09000028,Southwark,London,6.3,1934
+Oct-22,E09000029,Sutton,London,5.2,1234
+Oct-22,E09000030,Tower Hamlets,London,5.4,1837
+Oct-22,E09000031,Waltham Forest,London,1.6,1417
+Oct-22,E09000032,Wandsworth,London,7,2077
+Oct-22,E09000033,Westminster,London,4.4,2466
+Nov-22,E09000002,Barking and Dagenham,London,3.1,1297
+Nov-22,E09000003,Barnet,London,4.5,1543
+Nov-22,E09000004,Bexley,London,4.7,1201
+Nov-22,E09000005,Brent,London,2.6,1502
+Nov-22,E09000006,Bromley,London,4.2,1379
+Nov-22,E09000007,Camden,London,5.5,2162
+Nov-22,E09000008,Croydon,London,1.5,1243
+Nov-22,E09000009,Ealing,London,1.2,1600
+Nov-22,E09000010,Enfield,London,3.3,1392
+Nov-22,E09000011,Greenwich,London,3.2,1500
+Nov-22,E09000012,Hackney,London,5.5,1993
+Nov-22,E09000013,Hammersmith and Fulham,London,3.9,2170
+Nov-22,E09000014,Haringey,London,4.4,1720
+Nov-22,E09000015,Harrow,London,3.3,1409
+Nov-22,E09000016,Havering,London,3,1213
+Nov-22,E09000017,Hillingdon,London,2.8,1240
+Nov-22,E09000018,Hounslow,London,7.6,1451
+Nov-22,E09000019,Islington,London,6,2061
+Nov-22,E09000020,Kensington and Chelsea,London,10.4,2883
+Nov-22,E09000021,Kingston upon Thames,London,3,1488
+Nov-22,E09000022,Lambeth,London,5.5,1934
+Nov-22,E09000023,Lewisham,London,1.7,1454
+Nov-22,E09000024,Merton,London,7,1737
+Nov-22,E09000025,Newham,London,0.6,1530
+Nov-22,E09000026,Redbridge,London,2.1,1351
+Nov-22,E09000027,Richmond upon Thames,London,3.8,1798
+Nov-22,E09000028,Southwark,London,6.8,1951
+Nov-22,E09000029,Sutton,London,4.8,1231
+Nov-22,E09000030,Tower Hamlets,London,6.5,1857
+Nov-22,E09000031,Waltham Forest,London,1.9,1425
+Nov-22,E09000032,Wandsworth,London,7.1,2087
+Nov-22,E09000033,Westminster,London,5.5,2491
+Dec-22,E09000002,Barking and Dagenham,London,3.2,1299
+Dec-22,E09000003,Barnet,London,5,1553
+Dec-22,E09000004,Bexley,London,5,1209
+Dec-22,E09000005,Brent,London,2.7,1504
+Dec-22,E09000006,Bromley,London,4.1,1384
+Dec-22,E09000007,Camden,London,6.6,2198
+Dec-22,E09000008,Croydon,London,1.4,1245
+Dec-22,E09000009,Ealing,London,1.1,1603
+Dec-22,E09000010,Enfield,London,3.7,1399
+Dec-22,E09000011,Greenwich,London,3.5,1509
+Dec-22,E09000012,Hackney,London,6.2,2009
+Dec-22,E09000013,Hammersmith and Fulham,London,4.5,2182
+Dec-22,E09000014,Haringey,London,4.9,1734
+Dec-22,E09000015,Harrow,London,3.4,1413
+Dec-22,E09000016,Havering,London,3,1217
+Dec-22,E09000017,Hillingdon,London,2.7,1242
+Dec-22,E09000018,Hounslow,London,7.7,1456
+Dec-22,E09000019,Islington,London,6.2,2078
+Dec-22,E09000020,Kensington and Chelsea,London,10.6,2907
+Dec-22,E09000021,Kingston upon Thames,London,2.9,1491
+Dec-22,E09000022,Lambeth,London,5.5,1943
+Dec-22,E09000023,Lewisham,London,2.3,1465
+Dec-22,E09000024,Merton,London,7.4,1748
+Dec-22,E09000025,Newham,London,0.9,1537
+Dec-22,E09000026,Redbridge,London,2.4,1356
+Dec-22,E09000027,Richmond upon Thames,London,3.5,1804
+Dec-22,E09000028,Southwark,London,7.2,1963
+Dec-22,E09000029,Sutton,London,4.1,1225
+Dec-22,E09000030,Tower Hamlets,London,7.1,1872
+Dec-22,E09000031,Waltham Forest,London,2,1431
+Dec-22,E09000032,Wandsworth,London,7.1,2096
+Dec-22,E09000033,Westminster,London,6.2,2515
+Jan-23,E09000002,Barking and Dagenham,London,3.3,1301
+Jan-23,E09000003,Barnet,London,5.4,1563
+Jan-23,E09000004,Bexley,London,5.3,1216
+Jan-23,E09000005,Brent,London,3.1,1512
+Jan-23,E09000006,Bromley,London,4.3,1391
+Jan-23,E09000007,Camden,London,7,2236
+Jan-23,E09000008,Croydon,London,1.5,1248
+Jan-23,E09000009,Ealing,London,1.7,1608
+Jan-23,E09000010,Enfield,London,4,1406
+Jan-23,E09000011,Greenwich,London,3.8,1517
+Jan-23,E09000012,Hackney,London,6.9,2027
+Jan-23,E09000013,Hammersmith and Fulham,London,5.2,2198
+Jan-23,E09000014,Haringey,London,5.9,1750
+Jan-23,E09000015,Harrow,London,3.8,1418
+Jan-23,E09000016,Havering,London,3.3,1222
+Jan-23,E09000017,Hillingdon,London,3,1244
+Jan-23,E09000018,Hounslow,London,7.7,1465
+Jan-23,E09000019,Islington,London,7.1,2103
+Jan-23,E09000020,Kensington and Chelsea,London,11.1,2936
+Jan-23,E09000021,Kingston upon Thames,London,3.2,1499
+Jan-23,E09000022,Lambeth,London,5.7,1953
+Jan-23,E09000023,Lewisham,London,2.9,1475
+Jan-23,E09000024,Merton,London,7.6,1757
+Jan-23,E09000025,Newham,London,1,1541
+Jan-23,E09000026,Redbridge,London,2.6,1362
+Jan-23,E09000027,Richmond upon Thames,London,3.6,1812
+Jan-23,E09000028,Southwark,London,8,1981
+Jan-23,E09000029,Sutton,London,4.1,1230
+Jan-23,E09000030,Tower Hamlets,London,8.4,1896
+Jan-23,E09000031,Waltham Forest,London,2.3,1439
+Jan-23,E09000032,Wandsworth,London,6.9,2104
+Jan-23,E09000033,Westminster,London,6.9,2543
+Feb-23,E09000002,Barking and Dagenham,London,3.3,1304
+Feb-23,E09000003,Barnet,London,5.4,1569
+Feb-23,E09000004,Bexley,London,5.3,1221
+Feb-23,E09000005,Brent,London,3.3,1518
+Feb-23,E09000006,Bromley,London,4.5,1397
+Feb-23,E09000007,Camden,London,7.1,2264
+Feb-23,E09000008,Croydon,London,1.9,1255
+Feb-23,E09000009,Ealing,London,2.2,1612
+Feb-23,E09000010,Enfield,London,4,1410
+Feb-23,E09000011,Greenwich,London,3.9,1523
+Feb-23,E09000012,Hackney,London,7.1,2043
+Feb-23,E09000013,Hammersmith and Fulham,London,6,2218
+Feb-23,E09000014,Haringey,London,6.1,1755
+Feb-23,E09000015,Harrow,London,4,1421
+Feb-23,E09000016,Havering,London,3.6,1228
+Feb-23,E09000017,Hillingdon,London,3.4,1247
+Feb-23,E09000018,Hounslow,London,7.7,1481
+Feb-23,E09000019,Islington,London,7,2114
+Feb-23,E09000020,Kensington and Chelsea,London,11.5,2970
+Feb-23,E09000021,Kingston upon Thames,London,3.5,1509
+Feb-23,E09000022,Lambeth,London,5.6,1957
+Feb-23,E09000023,Lewisham,London,3.4,1484
+Feb-23,E09000024,Merton,London,7.5,1760
+Feb-23,E09000025,Newham,London,1.3,1544
+Feb-23,E09000026,Redbridge,London,2.9,1367
+Feb-23,E09000027,Richmond upon Thames,London,3.6,1818
+Feb-23,E09000028,Southwark,London,8.6,1995
+Feb-23,E09000029,Sutton,London,4.5,1238
+Feb-23,E09000030,Tower Hamlets,London,9.4,1916
+Feb-23,E09000031,Waltham Forest,London,2.8,1446
+Feb-23,E09000032,Wandsworth,London,6.1,2102
+Feb-23,E09000033,Westminster,London,8,2586
+Mar-23,E09000002,Barking and Dagenham,London,3.3,1309
+Mar-23,E09000003,Barnet,London,5.4,1576
+Mar-23,E09000004,Bexley,London,5.8,1226
+Mar-23,E09000005,Brent,London,3.6,1526
+Mar-23,E09000006,Bromley,London,4.6,1403
+Mar-23,E09000007,Camden,London,6,2261
+Mar-23,E09000008,Croydon,London,2.1,1260
+Mar-23,E09000009,Ealing,London,2.7,1619
+Mar-23,E09000010,Enfield,London,4.1,1413
+Mar-23,E09000011,Greenwich,London,3.6,1528
+Mar-23,E09000012,Hackney,London,7.2,2050
+Mar-23,E09000013,Hammersmith and Fulham,London,6.2,2225
+Mar-23,E09000014,Haringey,London,6.7,1765
+Mar-23,E09000015,Harrow,London,4.2,1425
+Mar-23,E09000016,Havering,London,4,1235
+Mar-23,E09000017,Hillingdon,London,3.9,1252
+Mar-23,E09000018,Hounslow,London,6.8,1490
+Mar-23,E09000019,Islington,London,7.4,2129
+Mar-23,E09000020,Kensington and Chelsea,London,13,3027
+Mar-23,E09000021,Kingston upon Thames,London,4.3,1523
+Mar-23,E09000022,Lambeth,London,5.9,1964
+Mar-23,E09000023,Lewisham,London,3.7,1490
+Mar-23,E09000024,Merton,London,7.2,1761
+Mar-23,E09000025,Newham,London,1.5,1545
+Mar-23,E09000026,Redbridge,London,3.3,1375
+Mar-23,E09000027,Richmond upon Thames,London,3.4,1820
+Mar-23,E09000028,Southwark,London,9.2,2012
+Mar-23,E09000029,Sutton,London,5.1,1248
+Mar-23,E09000030,Tower Hamlets,London,10.6,1934
+Mar-23,E09000031,Waltham Forest,London,3.5,1456
+Mar-23,E09000032,Wandsworth,London,5.4,2098
+Mar-23,E09000033,Westminster,London,8.9,2621
+Apr-23,E09000002,Barking and Dagenham,London,3.5,1315
+Apr-23,E09000003,Barnet,London,6.1,1591
+Apr-23,E09000004,Bexley,London,6.1,1230
+Apr-23,E09000005,Brent,London,3.5,1530
+Apr-23,E09000006,Bromley,London,4.5,1409
+Apr-23,E09000007,Camden,London,6.3,2282
+Apr-23,E09000008,Croydon,London,2.4,1265
+Apr-23,E09000009,Ealing,London,3.2,1625
+Apr-23,E09000010,Enfield,London,4.2,1419
+Apr-23,E09000011,Greenwich,London,3.9,1534
+Apr-23,E09000012,Hackney,London,7.1,2058
+Apr-23,E09000013,Hammersmith and Fulham,London,6.4,2241
+Apr-23,E09000014,Haringey,London,7.1,1770
+Apr-23,E09000015,Harrow,London,4.1,1432
+Apr-23,E09000016,Havering,London,4.5,1243
+Apr-23,E09000017,Hillingdon,London,4.3,1256
+Apr-23,E09000018,Hounslow,London,5.9,1497
+Apr-23,E09000019,Islington,London,7.3,2138
+Apr-23,E09000020,Kensington and Chelsea,London,14.3,3078
+Apr-23,E09000021,Kingston upon Thames,London,4.6,1532
+Apr-23,E09000022,Lambeth,London,5.9,1968
+Apr-23,E09000023,Lewisham,London,4.1,1497
+Apr-23,E09000024,Merton,London,7.4,1769
+Apr-23,E09000025,Newham,London,2.1,1552
+Apr-23,E09000026,Redbridge,London,3.8,1385
+Apr-23,E09000027,Richmond upon Thames,London,3.3,1824
+Apr-23,E09000028,Southwark,London,10,2038
+Apr-23,E09000029,Sutton,London,5.7,1258
+Apr-23,E09000030,Tower Hamlets,London,12.3,1962
+Apr-23,E09000031,Waltham Forest,London,4.3,1464
+Apr-23,E09000032,Wandsworth,London,5.4,2107
+Apr-23,E09000033,Westminster,London,9.4,2655
+May-23,E09000002,Barking and Dagenham,London,3.6,1320
+May-23,E09000003,Barnet,London,7,1609
+May-23,E09000004,Bexley,London,6.8,1239
+May-23,E09000005,Brent,London,4.2,1544
+May-23,E09000006,Bromley,London,4.5,1416
+May-23,E09000007,Camden,London,7.4,2327
+May-23,E09000008,Croydon,London,2.8,1272
+May-23,E09000009,Ealing,London,3.7,1631
+May-23,E09000010,Enfield,London,4.7,1429
+May-23,E09000011,Greenwich,London,4.2,1544
+May-23,E09000012,Hackney,London,7.7,2076
+May-23,E09000013,Hammersmith and Fulham,London,6.9,2261
+May-23,E09000014,Haringey,London,7.8,1783
+May-23,E09000015,Harrow,London,4.2,1439
+May-23,E09000016,Havering,London,5.2,1251
+May-23,E09000017,Hillingdon,London,4.9,1261
+May-23,E09000018,Hounslow,London,4.9,1499
+May-23,E09000019,Islington,London,8.3,2165
+May-23,E09000020,Kensington and Chelsea,London,15.1,3116
+May-23,E09000021,Kingston upon Thames,London,4.9,1540
+May-23,E09000022,Lambeth,London,6.1,1977
+May-23,E09000023,Lewisham,London,4.7,1507
+May-23,E09000024,Merton,London,7.7,1786
+May-23,E09000025,Newham,London,2.4,1557
+May-23,E09000026,Redbridge,London,4.4,1396
+May-23,E09000027,Richmond upon Thames,London,3.2,1827
+May-23,E09000028,Southwark,London,10.5,2063
+May-23,E09000029,Sutton,London,6.1,1267
+May-23,E09000030,Tower Hamlets,London,14.3,1998
+May-23,E09000031,Waltham Forest,London,4.6,1471
+May-23,E09000032,Wandsworth,London,6.1,2127
+May-23,E09000033,Westminster,London,11.8,2711
+Jun-23,E09000002,Barking and Dagenham,London,4.1,1329
+Jun-23,E09000003,Barnet,London,8.2,1631
+Jun-23,E09000004,Bexley,London,6.7,1246
+Jun-23,E09000005,Brent,London,5,1560
+Jun-23,E09000006,Bromley,London,4.7,1424
+Jun-23,E09000007,Camden,London,10.8,2391
+Jun-23,E09000008,Croydon,London,3.4,1281
+Jun-23,E09000009,Ealing,London,4.6,1642
+Jun-23,E09000010,Enfield,London,5.2,1439
+Jun-23,E09000011,Greenwich,London,5.2,1558
+Jun-23,E09000012,Hackney,London,8.6,2101
+Jun-23,E09000013,Hammersmith and Fulham,London,7.6,2286
+Jun-23,E09000014,Haringey,London,8.5,1799
+Jun-23,E09000015,Harrow,London,4.2,1445
+Jun-23,E09000016,Havering,London,5.9,1260
+Jun-23,E09000017,Hillingdon,London,6,1266
+Jun-23,E09000018,Hounslow,London,5.6,1510
+Jun-23,E09000019,Islington,London,9.6,2193
+Jun-23,E09000020,Kensington and Chelsea,London,14.7,3133
+Jun-23,E09000021,Kingston upon Thames,London,5.2,1547
+Jun-23,E09000022,Lambeth,London,7,2002
+Jun-23,E09000023,Lewisham,London,5.3,1517
+Jun-23,E09000024,Merton,London,7.6,1802
+Jun-23,E09000025,Newham,London,3.6,1579
+Jun-23,E09000026,Redbridge,London,4.9,1405
+Jun-23,E09000027,Richmond upon Thames,London,3.6,1841
+Jun-23,E09000028,Southwark,London,10.9,2082
+Jun-23,E09000029,Sutton,London,5.6,1272
+Jun-23,E09000030,Tower Hamlets,London,15.3,2026
+Jun-23,E09000031,Waltham Forest,London,4.8,1477
+Jun-23,E09000032,Wandsworth,London,7,2151
+Jun-23,E09000033,Westminster,London,14.6,2782
+Jul-23,E09000002,Barking and Dagenham,London,4.3,1335
+Jul-23,E09000003,Barnet,London,9,1650
+Jul-23,E09000004,Bexley,London,6.5,1253
+Jul-23,E09000005,Brent,London,6.1,1579
+Jul-23,E09000006,Bromley,London,4.9,1432
+Jul-23,E09000007,Camden,London,13.3,2427
+Jul-23,E09000008,Croydon,London,4.1,1292
+Jul-23,E09000009,Ealing,London,5.7,1661
+Jul-23,E09000010,Enfield,London,5.5,1449
+Jul-23,E09000011,Greenwich,London,6,1572
+Jul-23,E09000012,Hackney,London,9.4,2124
+Jul-23,E09000013,Hammersmith and Fulham,London,8.8,2318
+Jul-23,E09000014,Haringey,London,9.3,1819
+Jul-23,E09000015,Harrow,London,4.3,1451
+Jul-23,E09000016,Havering,London,6,1266
+Jul-23,E09000017,Hillingdon,London,7.2,1274
+Jul-23,E09000018,Hounslow,London,6.7,1526
+Jul-23,E09000019,Islington,London,11,2222
+Jul-23,E09000020,Kensington and Chelsea,London,13.7,3147
+Jul-23,E09000021,Kingston upon Thames,London,5.5,1556
+Jul-23,E09000022,Lambeth,London,8.4,2033
+Jul-23,E09000023,Lewisham,London,5.8,1528
+Jul-23,E09000024,Merton,London,7,1814
+Jul-23,E09000025,Newham,London,4.8,1599
+Jul-23,E09000026,Redbridge,London,5.2,1412
+Jul-23,E09000027,Richmond upon Thames,London,4.1,1854
+Jul-23,E09000028,Southwark,London,10.3,2087
+Jul-23,E09000029,Sutton,London,5.1,1277
+Jul-23,E09000030,Tower Hamlets,London,15,2037
+Jul-23,E09000031,Waltham Forest,London,4.9,1484
+Jul-23,E09000032,Wandsworth,London,6.9,2168
+Jul-23,E09000033,Westminster,London,18,2858
+Aug-23,E09000002,Barking and Dagenham,London,4.5,1341
+Aug-23,E09000003,Barnet,London,9.5,1666
+Aug-23,E09000004,Bexley,London,6.4,1259
+Aug-23,E09000005,Brent,London,6.5,1590
+Aug-23,E09000006,Bromley,London,5.1,1440
+Aug-23,E09000007,Camden,London,15.1,2444
+Aug-23,E09000008,Croydon,London,4.5,1301
+Aug-23,E09000009,Ealing,London,6.9,1685
+Aug-23,E09000010,Enfield,London,5.8,1459
+Aug-23,E09000011,Greenwich,London,6.5,1582
+Aug-23,E09000012,Hackney,London,9.4,2134
+Aug-23,E09000013,Hammersmith and Fulham,London,9.6,2348
+Aug-23,E09000014,Haringey,London,9.8,1834
+Aug-23,E09000015,Harrow,London,4.7,1461
+Aug-23,E09000016,Havering,London,6.2,1275
+Aug-23,E09000017,Hillingdon,London,8,1293
+Aug-23,E09000018,Hounslow,London,9,1560
+Aug-23,E09000019,Islington,London,11.9,2250
+Aug-23,E09000020,Kensington and Chelsea,London,12.8,3157
+Aug-23,E09000021,Kingston upon Thames,London,5.8,1563
+Aug-23,E09000022,Lambeth,London,9.4,2062
+Aug-23,E09000023,Lewisham,London,6.6,1541
+Aug-23,E09000024,Merton,London,6,1814
+Aug-23,E09000025,Newham,London,6.3,1622
+Aug-23,E09000026,Redbridge,London,5.6,1419
+Aug-23,E09000027,Richmond upon Thames,London,4.7,1870
+Aug-23,E09000028,Southwark,London,10,2095
+Aug-23,E09000029,Sutton,London,4.5,1283
+Aug-23,E09000030,Tower Hamlets,London,14.5,2050
+Aug-23,E09000031,Waltham Forest,London,5.7,1493
+Aug-23,E09000032,Wandsworth,London,6.6,2181
+Aug-23,E09000033,Westminster,London,18.8,2893
+Sep-23,E09000002,Barking and Dagenham,London,4.5,1347
+Sep-23,E09000003,Barnet,London,9.9,1679
+Sep-23,E09000004,Bexley,London,6.1,1263
+Sep-23,E09000005,Brent,London,7.6,1610
+Sep-23,E09000006,Bromley,London,5.5,1449
+Sep-23,E09000007,Camden,London,15.2,2456
+Sep-23,E09000008,Croydon,London,5.2,1311
+Sep-23,E09000009,Ealing,London,7.5,1704
+Sep-23,E09000010,Enfield,London,6.4,1472
+Sep-23,E09000011,Greenwich,London,7.6,1602
+Sep-23,E09000012,Hackney,London,9,2142
+Sep-23,E09000013,Hammersmith and Fulham,London,10.4,2380
+Sep-23,E09000014,Haringey,London,10,1851
+Sep-23,E09000015,Harrow,London,5.5,1478
+Sep-23,E09000016,Havering,London,6.1,1282
+Sep-23,E09000017,Hillingdon,London,8,1313
+Sep-23,E09000018,Hounslow,London,10.4,1591
+Sep-23,E09000019,Islington,London,13,2287
+Sep-23,E09000020,Kensington and Chelsea,London,11.5,3157
+Sep-23,E09000021,Kingston upon Thames,London,5.8,1569
+Sep-23,E09000022,Lambeth,London,9.3,2076
+Sep-23,E09000023,Lewisham,London,7.5,1555
+Sep-23,E09000024,Merton,London,5.2,1812
+Sep-23,E09000025,Newham,London,7.1,1632
+Sep-23,E09000026,Redbridge,London,6,1426
+Sep-23,E09000027,Richmond upon Thames,London,4.7,1875
+Sep-23,E09000028,Southwark,London,9.6,2104
+Sep-23,E09000029,Sutton,London,4.4,1289
+Sep-23,E09000030,Tower Hamlets,London,14.2,2073
+Sep-23,E09000031,Waltham Forest,London,6.3,1504
+Sep-23,E09000032,Wandsworth,London,6.2,2195
+Sep-23,E09000033,Westminster,London,18.4,2900
+Oct-23,E09000002,Barking and Dagenham,London,4.7,1355
+Oct-23,E09000003,Barnet,London,10.2,1691
+Oct-23,E09000004,Bexley,London,6.3,1271
+Oct-23,E09000005,Brent,London,8.5,1627
+Oct-23,E09000006,Bromley,London,6.1,1460
+Oct-23,E09000007,Camden,London,15.5,2473
+Oct-23,E09000008,Croydon,London,6.1,1321
+Oct-23,E09000009,Ealing,London,7.9,1720
+Oct-23,E09000010,Enfield,London,7.1,1486
+Oct-23,E09000011,Greenwich,London,9.7,1639
+Oct-23,E09000012,Hackney,London,8.8,2152
+Oct-23,E09000013,Hammersmith and Fulham,London,11.1,2403
+Oct-23,E09000014,Haringey,London,9.8,1863
+Oct-23,E09000015,Harrow,London,6.4,1495
+Oct-23,E09000016,Havering,London,6.8,1293
+Oct-23,E09000017,Hillingdon,London,7.9,1332
+Oct-23,E09000018,Hounslow,London,12,1622
+Oct-23,E09000019,Islington,London,13.6,2320
+Oct-23,E09000020,Kensington and Chelsea,London,11.1,3169
+Oct-23,E09000021,Kingston upon Thames,London,6.3,1579
+Oct-23,E09000022,Lambeth,London,8.8,2085
+Oct-23,E09000023,Lewisham,London,8.4,1569
+Oct-23,E09000024,Merton,London,4.6,1807
+Oct-23,E09000025,Newham,London,7.7,1642
+Oct-23,E09000026,Redbridge,London,6.6,1436
+Oct-23,E09000027,Richmond upon Thames,London,4.1,1869
+Oct-23,E09000028,Southwark,London,9.5,2117
+Oct-23,E09000029,Sutton,London,5,1295
+Oct-23,E09000030,Tower Hamlets,London,14.2,2098
+Oct-23,E09000031,Waltham Forest,London,7.1,1516
+Oct-23,E09000032,Wandsworth,London,6.4,2210
+Oct-23,E09000033,Westminster,London,17.2,2889
+Nov-23,E09000002,Barking and Dagenham,London,5.2,1365
+Nov-23,E09000003,Barnet,London,10.3,1703
+Nov-23,E09000004,Bexley,London,6.3,1277
+Nov-23,E09000005,Brent,London,9.9,1651
+Nov-23,E09000006,Bromley,London,6.8,1473
+Nov-23,E09000007,Camden,London,14.8,2482
+Nov-23,E09000008,Croydon,London,7.4,1335
+Nov-23,E09000009,Ealing,London,8.3,1734
+Nov-23,E09000010,Enfield,London,7.6,1498
+Nov-23,E09000011,Greenwich,London,12.6,1689
+Nov-23,E09000012,Hackney,London,8.7,2167
+Nov-23,E09000013,Hammersmith and Fulham,London,11.4,2417
+Nov-23,E09000014,Haringey,London,9,1874
+Nov-23,E09000015,Harrow,London,7.2,1511
+Nov-23,E09000016,Havering,London,7.2,1300
+Nov-23,E09000017,Hillingdon,London,8.5,1345
+Nov-23,E09000018,Hounslow,London,12.6,1634
+Nov-23,E09000019,Islington,London,13.7,2345
+Nov-23,E09000020,Kensington and Chelsea,London,10.5,3185
+Nov-23,E09000021,Kingston upon Thames,London,7.2,1595
+Nov-23,E09000022,Lambeth,London,8.3,2095
+Nov-23,E09000023,Lewisham,London,8.9,1584
+Nov-23,E09000024,Merton,London,3.9,1805
+Nov-23,E09000025,Newham,London,8.2,1656
+Nov-23,E09000026,Redbridge,London,7.2,1447
+Nov-23,E09000027,Richmond upon Thames,London,3.4,1859
+Nov-23,E09000028,Southwark,London,9.1,2128
+Nov-23,E09000029,Sutton,London,5.7,1301
+Nov-23,E09000030,Tower Hamlets,London,13.8,2113
+Nov-23,E09000031,Waltham Forest,London,7.2,1528
+Nov-23,E09000032,Wandsworth,London,6.7,2227
+Nov-23,E09000033,Westminster,London,15.3,2873
+Dec-23,E09000002,Barking and Dagenham,London,5.7,1373
+Dec-23,E09000003,Barnet,London,10,1709
+Dec-23,E09000004,Bexley,London,6.3,1284
+Dec-23,E09000005,Brent,London,10.8,1667
+Dec-23,E09000006,Bromley,London,7.3,1485
+Dec-23,E09000007,Camden,London,13,2484
+Dec-23,E09000008,Croydon,London,8.1,1346
+Dec-23,E09000009,Ealing,London,9.1,1749
+Dec-23,E09000010,Enfield,London,7.5,1504
+Dec-23,E09000011,Greenwich,London,14.4,1727
+Dec-23,E09000012,Hackney,London,8.5,2179
+Dec-23,E09000013,Hammersmith and Fulham,London,11.4,2430
+Dec-23,E09000014,Haringey,London,8.4,1881
+Dec-23,E09000015,Harrow,London,8,1527
+Dec-23,E09000016,Havering,London,7.5,1308
+Dec-23,E09000017,Hillingdon,London,9.3,1357
+Dec-23,E09000018,Hounslow,London,13,1645
+Dec-23,E09000019,Islington,London,13.5,2359
+Dec-23,E09000020,Kensington and Chelsea,London,10.4,3211
+Dec-23,E09000021,Kingston upon Thames,London,8.3,1615
+Dec-23,E09000022,Lambeth,London,8.3,2103
+Dec-23,E09000023,Lewisham,London,9,1596
+Dec-23,E09000024,Merton,London,3.5,1809
+Dec-23,E09000025,Newham,London,8.6,1669
+Dec-23,E09000026,Redbridge,London,7.6,1459
+Dec-23,E09000027,Richmond upon Thames,London,2.7,1853
+Dec-23,E09000028,Southwark,London,9.2,2144
+Dec-23,E09000029,Sutton,London,7.9,1322
+Dec-23,E09000030,Tower Hamlets,London,13.9,2132
+Dec-23,E09000031,Waltham Forest,London,7.5,1539
+Dec-23,E09000032,Wandsworth,London,6.9,2241
+Dec-23,E09000033,Westminster,London,14.3,2874
+Jan-24,E09000002,Barking and Dagenham,London,6.2,1382
+Jan-24,E09000003,Barnet,London,9.5,1711
+Jan-24,E09000004,Bexley,London,6.2,1291
+Jan-24,E09000005,Brent,London,12.7,1704
+Jan-24,E09000006,Bromley,London,7.5,1496
+Jan-24,E09000007,Camden,London,11.2,2488
+Jan-24,E09000008,Croydon,London,8.7,1357
+Jan-24,E09000009,Ealing,London,9.6,1761
+Jan-24,E09000010,Enfield,London,7,1505
+Jan-24,E09000011,Greenwich,London,15.3,1749
+Jan-24,E09000012,Hackney,London,8.3,2196
+Jan-24,E09000013,Hammersmith and Fulham,London,11,2440
+Jan-24,E09000014,Haringey,London,7.7,1885
+Jan-24,E09000015,Harrow,London,8.8,1542
+Jan-24,E09000016,Havering,London,7.6,1315
+Jan-24,E09000017,Hillingdon,London,10,1369
+Jan-24,E09000018,Hounslow,London,12.7,1651
+Jan-24,E09000019,Islington,London,13.1,2378
+Jan-24,E09000020,Kensington and Chelsea,London,10.1,3232
+Jan-24,E09000021,Kingston upon Thames,London,8.8,1631
+Jan-24,E09000022,Lambeth,London,8.2,2113
+Jan-24,E09000023,Lewisham,London,9,1608
+Jan-24,E09000024,Merton,London,3.2,1813
+Jan-24,E09000025,Newham,London,8.7,1675
+Jan-24,E09000026,Redbridge,London,7.8,1468
+Jan-24,E09000027,Richmond upon Thames,London,2.4,1856
+Jan-24,E09000028,Southwark,London,9.1,2161
+Jan-24,E09000029,Sutton,London,9.2,1344
+Jan-24,E09000030,Tower Hamlets,London,13.2,2146
+Jan-24,E09000031,Waltham Forest,London,7.6,1548
+Jan-24,E09000032,Wandsworth,London,7.1,2253
+Jan-24,E09000033,Westminster,London,13.9,2895
+Feb-24,E09000002,Barking and Dagenham,London,6.7,1391
+Feb-24,E09000003,Barnet,London,9.3,1714
+Feb-24,E09000004,Bexley,London,6.1,1295
+Feb-24,E09000005,Brent,London,19.7,1818
+Feb-24,E09000006,Bromley,London,7.6,1503
+Feb-24,E09000007,Camden,London,9.7,2483
+Feb-24,E09000008,Croydon,London,9.2,1370
+Feb-24,E09000009,Ealing,London,10.3,1778
+Feb-24,E09000010,Enfield,London,6.7,1505
+Feb-24,E09000011,Greenwich,London,15.7,1762
+Feb-24,E09000012,Hackney,London,8.4,2215
+Feb-24,E09000013,Hammersmith and Fulham,London,10.6,2454
+Feb-24,E09000014,Haringey,London,8.1,1898
+Feb-24,E09000015,Harrow,London,9.4,1554
+Feb-24,E09000016,Havering,London,8,1326
+Feb-24,E09000017,Hillingdon,London,10.5,1378
+Feb-24,E09000018,Hounslow,London,12.1,1660
+Feb-24,E09000019,Islington,London,13.8,2407
+Feb-24,E09000020,Kensington and Chelsea,London,9.4,3249
+Feb-24,E09000021,Kingston upon Thames,London,8.6,1639
+Feb-24,E09000022,Lambeth,London,8.8,2128
+Feb-24,E09000023,Lewisham,London,8.9,1616
+Feb-24,E09000024,Merton,London,4.8,1844
+Feb-24,E09000025,Newham,London,8.6,1677
+Feb-24,E09000026,Redbridge,London,8,1476
+Feb-24,E09000027,Richmond upon Thames,London,3.8,1887
+Feb-24,E09000028,Southwark,London,9.3,2182
+Feb-24,E09000029,Sutton,London,10.6,1368
+Feb-24,E09000030,Tower Hamlets,London,13,2166
+Feb-24,E09000031,Waltham Forest,London,7.5,1555
+Feb-24,E09000032,Wandsworth,London,8,2270
+Feb-24,E09000033,Westminster,London,12.8,2918
+Mar-24,E09000002,Barking and Dagenham,London,7.2,1403
+Mar-24,E09000003,Barnet,London,9.1,1720
+Mar-24,E09000004,Bexley,London,6.1,1301
+Mar-24,E09000005,Brent,London,26.3,1927
+Mar-24,E09000006,Bromley,London,7.6,1510
+Mar-24,E09000007,Camden,London,10,2488
+Mar-24,E09000008,Croydon,London,9.9,1385
+Mar-24,E09000009,Ealing,London,11,1796
+Mar-24,E09000010,Enfield,London,6.8,1509
+Mar-24,E09000011,Greenwich,London,16.1,1774
+Mar-24,E09000012,Hackney,London,9.9,2254
+Mar-24,E09000013,Hammersmith and Fulham,London,10.7,2465
+Mar-24,E09000014,Haringey,London,8.5,1914
+Mar-24,E09000015,Harrow,London,9.9,1566
+Mar-24,E09000016,Havering,London,8.4,1339
+Mar-24,E09000017,Hillingdon,London,10.7,1386
+Mar-24,E09000018,Hounslow,London,12.1,1671
+Mar-24,E09000019,Islington,London,14.6,2439
+Mar-24,E09000020,Kensington and Chelsea,London,9,3300
+Mar-24,E09000021,Kingston upon Thames,London,7.7,1641
+Mar-24,E09000022,Lambeth,London,9.2,2146
+Mar-24,E09000023,Lewisham,London,9.1,1625
+Mar-24,E09000024,Merton,London,6.7,1879
+Mar-24,E09000025,Newham,London,8.8,1681
+Mar-24,E09000026,Redbridge,London,7.9,1484
+Mar-24,E09000027,Richmond upon Thames,London,5.5,1920
+Mar-24,E09000028,Southwark,London,9.3,2199
+Mar-24,E09000029,Sutton,London,10.2,1376
+Mar-24,E09000030,Tower Hamlets,London,13,2186
+Mar-24,E09000031,Waltham Forest,London,7.3,1562
+Mar-24,E09000032,Wandsworth,London,9.3,2292
+Mar-24,E09000033,Westminster,London,12.3,2944
+Apr-24,E09000002,Barking and Dagenham,London,7.5,1414
+Apr-24,E09000003,Barnet,London,8.6,1728
+Apr-24,E09000004,Bexley,London,6.4,1308
+Apr-24,E09000005,Brent,London,31.5,2012
+Apr-24,E09000006,Bromley,London,7.7,1518
+Apr-24,E09000007,Camden,London,9.7,2503
+Apr-24,E09000008,Croydon,London,10.7,1401
+Apr-24,E09000009,Ealing,London,11.4,1811
+Apr-24,E09000010,Enfield,London,7.1,1520
+Apr-24,E09000011,Greenwich,London,16.3,1785
+Apr-24,E09000012,Hackney,London,11.3,2291
+Apr-24,E09000013,Hammersmith and Fulham,London,10.2,2470
+Apr-24,E09000014,Haringey,London,9.6,1940
+Apr-24,E09000015,Harrow,London,10.1,1577
+Apr-24,E09000016,Havering,London,9.3,1359
+Apr-24,E09000017,Hillingdon,London,11.2,1397
+Apr-24,E09000018,Hounslow,London,12.2,1680
+Apr-24,E09000019,Islington,London,15.6,2472
+Apr-24,E09000020,Kensington and Chelsea,London,8.9,3351
+Apr-24,E09000021,Kingston upon Thames,London,7.1,1641
+Apr-24,E09000022,Lambeth,London,9.8,2161
+Apr-24,E09000023,Lewisham,London,9.4,1639
+Apr-24,E09000024,Merton,London,8.3,1916
+Apr-24,E09000025,Newham,London,8.9,1691
+Apr-24,E09000026,Redbridge,London,7.9,1495
+Apr-24,E09000027,Richmond upon Thames,London,7,1952
+Apr-24,E09000028,Southwark,London,8.4,2209
+Apr-24,E09000029,Sutton,London,11,1396
+Apr-24,E09000030,Tower Hamlets,London,12.6,2209
+Apr-24,E09000031,Waltham Forest,London,7.6,1575
+Apr-24,E09000032,Wandsworth,London,9.8,2314
+Apr-24,E09000033,Westminster,London,11.6,2963
+May-24,E09000002,Barking and Dagenham,London,7.9,1425
+May-24,E09000003,Barnet,London,7.9,1736
+May-24,E09000004,Bexley,London,6.5,1319
+May-24,E09000005,Brent,London,31.6,2032
+May-24,E09000006,Bromley,London,7.8,1527
+May-24,E09000007,Camden,London,8.8,2533
+May-24,E09000008,Croydon,London,11.1,1412
+May-24,E09000009,Ealing,London,11.6,1820
+May-24,E09000010,Enfield,London,7.4,1535
+May-24,E09000011,Greenwich,London,16.3,1796
+May-24,E09000012,Hackney,London,12.3,2332
+May-24,E09000013,Hammersmith and Fulham,London,10.6,2501
+May-24,E09000014,Haringey,London,9.9,1960
+May-24,E09000015,Harrow,London,10.3,1587
+May-24,E09000016,Havering,London,9.9,1375
+May-24,E09000017,Hillingdon,London,11.5,1406
+May-24,E09000018,Hounslow,London,12.7,1690
+May-24,E09000019,Islington,London,15.3,2496
+May-24,E09000020,Kensington and Chelsea,London,9.2,3402
+May-24,E09000021,Kingston upon Thames,London,6.7,1643
+May-24,E09000022,Lambeth,London,9.7,2169
+May-24,E09000023,Lewisham,London,9.5,1650
+May-24,E09000024,Merton,London,7.6,1921
+May-24,E09000025,Newham,London,9.2,1700
+May-24,E09000026,Redbridge,London,8.1,1510
+May-24,E09000027,Richmond upon Thames,London,7.4,1962
+May-24,E09000028,Southwark,London,7.5,2217
+May-24,E09000029,Sutton,London,11.7,1415
+May-24,E09000030,Tower Hamlets,London,11.6,2229
+May-24,E09000031,Waltham Forest,London,8,1589
+May-24,E09000032,Wandsworth,London,9.5,2328
+May-24,E09000033,Westminster,London,10.4,2993
+Jun-24,E09000002,Barking and Dagenham,London,7.9,1434
+Jun-24,E09000003,Barnet,London,7,1745
+Jun-24,E09000004,Bexley,London,6.6,1329
+Jun-24,E09000005,Brent,London,32.2,2063
+Jun-24,E09000006,Bromley,London,7.9,1537
+Jun-24,E09000007,Camden,London,6,2535
+Jun-24,E09000008,Croydon,London,10.8,1420
+Jun-24,E09000009,Ealing,London,11.4,1830
+Jun-24,E09000010,Enfield,London,7.9,1553
+Jun-24,E09000011,Greenwich,London,15.7,1803
+Jun-24,E09000012,Hackney,London,11.6,2346
+Jun-24,E09000013,Hammersmith and Fulham,London,10.9,2535
+Jun-24,E09000014,Haringey,London,10,1979
+Jun-24,E09000015,Harrow,London,10.6,1597
+Jun-24,E09000016,Havering,London,10.4,1391
+Jun-24,E09000017,Hillingdon,London,12.1,1420
+Jun-24,E09000018,Hounslow,London,12.4,1698
+Jun-24,E09000019,Islington,London,14.8,2518
+Jun-24,E09000020,Kensington and Chelsea,London,8.9,3413
+Jun-24,E09000021,Kingston upon Thames,London,6.5,1647
+Jun-24,E09000022,Lambeth,London,8.7,2176
+Jun-24,E09000023,Lewisham,London,9.7,1664
+Jun-24,E09000024,Merton,London,6.5,1919
+Jun-24,E09000025,Newham,London,8.2,1708
+Jun-24,E09000026,Redbridge,London,8.5,1525
+Jun-24,E09000027,Richmond upon Thames,London,7,1969
+Jun-24,E09000028,Southwark,London,6.8,2224
+Jun-24,E09000029,Sutton,London,12.8,1435
+Jun-24,E09000030,Tower Hamlets,London,10.7,2244
+Jun-24,E09000031,Waltham Forest,London,8.6,1605
+Jun-24,E09000032,Wandsworth,London,8.5,2333
+Jun-24,E09000033,Westminster,London,9.1,3036
+Jul-24,E09000002,Barking and Dagenham,London,8.4,1447
+Jul-24,E09000003,Barnet,London,6.3,1754
+Jul-24,E09000004,Bexley,London,6.5,1334
+Jul-24,E09000005,Brent,London,32.7,2096
+Jul-24,E09000006,Bromley,London,7.9,1546
+Jul-24,E09000007,Camden,London,4,2524
+Jul-24,E09000008,Croydon,London,10.6,1429
+Jul-24,E09000009,Ealing,London,11.2,1847
+Jul-24,E09000010,Enfield,London,8.5,1572
+Jul-24,E09000011,Greenwich,London,15.2,1811
+Jul-24,E09000012,Hackney,London,11.1,2360
+Jul-24,E09000013,Hammersmith and Fulham,London,10.8,2569
+Jul-24,E09000014,Haringey,London,9.8,1999
+Jul-24,E09000015,Harrow,London,10.9,1609
+Jul-24,E09000016,Havering,London,10.7,1401
+Jul-24,E09000017,Hillingdon,London,12.4,1432
+Jul-24,E09000018,Hounslow,London,12.3,1714
+Jul-24,E09000019,Islington,London,14.3,2539
+Jul-24,E09000020,Kensington and Chelsea,London,8.8,3425
+Jul-24,E09000021,Kingston upon Thames,London,6.6,1658
+Jul-24,E09000022,Lambeth,London,8.2,2200
+Jul-24,E09000023,Lewisham,London,9.6,1675
+Jul-24,E09000024,Merton,London,6.2,1926
+Jul-24,E09000025,Newham,London,7.2,1715
+Jul-24,E09000026,Redbridge,London,9.1,1540
+Jul-24,E09000027,Richmond upon Thames,London,7.6,1995
+Jul-24,E09000028,Southwark,London,7,2234
+Jul-24,E09000029,Sutton,London,13.3,1448
+Jul-24,E09000030,Tower Hamlets,London,10.2,2245
+Jul-24,E09000031,Waltham Forest,London,8.9,1616
+Jul-24,E09000032,Wandsworth,London,8.2,2346
+Jul-24,E09000033,Westminster,London,7.4,3071
+Aug-24,E09000002,Barking and Dagenham,London,8.9,1460
+Aug-24,E09000003,Barnet,London,6,1766
+Aug-24,E09000004,Bexley,London,6.6,1343
+Aug-24,E09000005,Brent,London,32.6,2108
+Aug-24,E09000006,Bromley,London,8,1555
+Aug-24,E09000007,Camden,London,2.3,2501
+Aug-24,E09000008,Croydon,London,10.8,1441
+Aug-24,E09000009,Ealing,London,11.4,1877
+Aug-24,E09000010,Enfield,London,9.5,1598
+Aug-24,E09000011,Greenwich,London,15,1819
+Aug-24,E09000012,Hackney,London,11,2368
+Aug-24,E09000013,Hammersmith and Fulham,London,9.7,2577
+Aug-24,E09000014,Haringey,London,10.2,2022
+Aug-24,E09000015,Harrow,London,11.1,1624
+Aug-24,E09000016,Havering,London,10.8,1412
+Aug-24,E09000017,Hillingdon,London,11.7,1445
+Aug-24,E09000018,Hounslow,London,11.7,1742
+Aug-24,E09000019,Islington,London,13.9,2563
+Aug-24,E09000020,Kensington and Chelsea,London,8.7,3433
+Aug-24,E09000021,Kingston upon Thames,London,6.8,1669
+Aug-24,E09000022,Lambeth,London,7.6,2219
+Aug-24,E09000023,Lewisham,London,9.4,1686
+Aug-24,E09000024,Merton,London,6.9,1940
+Aug-24,E09000025,Newham,London,5.9,1719
+Aug-24,E09000026,Redbridge,London,9.5,1554
+Aug-24,E09000027,Richmond upon Thames,London,8,2019
+Aug-24,E09000028,Southwark,London,7.7,2256
+Aug-24,E09000029,Sutton,London,13.7,1459
+Aug-24,E09000030,Tower Hamlets,London,10.1,2257
+Aug-24,E09000031,Waltham Forest,London,9.1,1629
+Aug-24,E09000032,Wandsworth,London,8.3,2362
+Aug-24,E09000033,Westminster,London,6.9,3093
+Sep-24,E09000002,Barking and Dagenham,London,9.6,1475
+Sep-24,E09000003,Barnet,London,5.7,1775
+Sep-24,E09000004,Bexley,London,7.7,1359
+Sep-24,E09000005,Brent,London,31,2110
+Sep-24,E09000006,Bromley,London,8,1564
+Sep-24,E09000007,Camden,London,2.4,2516
+Sep-24,E09000008,Croydon,London,11,1454
+Sep-24,E09000009,Ealing,London,12.3,1914
+Sep-24,E09000010,Enfield,London,9.8,1617
+Sep-24,E09000011,Greenwich,London,13.8,1822
+Sep-24,E09000012,Hackney,London,11.3,2385
+Sep-24,E09000013,Hammersmith and Fulham,London,9,2595
+Sep-24,E09000014,Haringey,London,10.1,2039
+Sep-24,E09000015,Harrow,London,10.9,1639
+Sep-24,E09000016,Havering,London,10.9,1422
+Sep-24,E09000017,Hillingdon,London,10.8,1455
+Sep-24,E09000018,Hounslow,London,11.7,1778
+Sep-24,E09000019,Islington,London,12.9,2583
+Sep-24,E09000020,Kensington and Chelsea,London,9.3,3451
+Sep-24,E09000021,Kingston upon Thames,London,7.3,1684
+Sep-24,E09000022,Lambeth,London,7.9,2239
+Sep-24,E09000023,Lewisham,London,9.1,1696
+Sep-24,E09000024,Merton,London,7.9,1956
+Sep-24,E09000025,Newham,London,5.5,1722
+Sep-24,E09000026,Redbridge,London,10.1,1570
+Sep-24,E09000027,Richmond upon Thames,London,9.4,2051
+Sep-24,E09000028,Southwark,London,8.3,2279
+Sep-24,E09000029,Sutton,London,14.1,1471
+Sep-24,E09000030,Tower Hamlets,London,9.6,2271
+Sep-24,E09000031,Waltham Forest,London,9.2,1642
+Sep-24,E09000032,Wandsworth,London,8.5,2382
+Sep-24,E09000033,Westminster,London,6.9,3100
+Oct-24,E09000002,Barking and Dagenham,London,10,1490
+Oct-24,E09000003,Barnet,London,5.7,1787
+Oct-24,E09000004,Bexley,London,8.4,1378
+Oct-24,E09000005,Brent,London,29.8,2112
+Oct-24,E09000006,Bromley,London,7.8,1574
+Oct-24,E09000007,Camden,London,3.9,2569
+Oct-24,E09000008,Croydon,London,10.8,1465
+Oct-24,E09000009,Ealing,London,13.2,1947
+Oct-24,E09000010,Enfield,London,9.9,1632
+Oct-24,E09000011,Greenwich,London,11.5,1828
+Oct-24,E09000012,Hackney,London,12,2411
+Oct-24,E09000013,Hammersmith and Fulham,London,9,2618
+Oct-24,E09000014,Haringey,London,10.7,2062
+Oct-24,E09000015,Harrow,London,10.8,1656
+Oct-24,E09000016,Havering,London,10.7,1432
+Oct-24,E09000017,Hillingdon,London,10.2,1469
+Oct-24,E09000018,Hounslow,London,12.4,1823
+Oct-24,E09000019,Islington,London,12.3,2606
+Oct-24,E09000020,Kensington and Chelsea,London,9.5,3471
+Oct-24,E09000021,Kingston upon Thames,London,7.4,1695
+Oct-24,E09000022,Lambeth,London,7.7,2246
+Oct-24,E09000023,Lewisham,London,8.9,1709
+Oct-24,E09000024,Merton,London,8.7,1965
+Oct-24,E09000025,Newham,London,5.1,1727
+Oct-24,E09000026,Redbridge,London,10.7,1590
+Oct-24,E09000027,Richmond upon Thames,London,10.9,2072
+Oct-24,E09000028,Southwark,London,8.8,2303
+Oct-24,E09000029,Sutton,London,14.2,1479
+Oct-24,E09000030,Tower Hamlets,London,9.3,2294
+Oct-24,E09000031,Waltham Forest,London,9.5,1660
+Oct-24,E09000032,Wandsworth,London,8.4,2397
+Oct-24,E09000033,Westminster,London,7.9,3118
+Nov-24,E09000002,Barking and Dagenham,London,10,1501
+Nov-24,E09000003,Barnet,London,5.3,1793
+Nov-24,E09000004,Bexley,London,9.3,1396
+Nov-24,E09000005,Brent,London,27.8,2110
+Nov-24,E09000006,Bromley,London,7.5,1584
+Nov-24,E09000007,Camden,London,8.1,2682
+Nov-24,E09000008,Croydon,London,10.3,1472
+Nov-24,E09000009,Ealing,London,14,1977
+Nov-24,E09000010,Enfield,London,9.7,1643
+Nov-24,E09000011,Greenwich,London,8.9,1840
+Nov-24,E09000012,Hackney,London,12.7,2442
+Nov-24,E09000013,Hammersmith and Fulham,London,9.9,2657
+Nov-24,E09000014,Haringey,London,11,2082
+Nov-24,E09000015,Harrow,London,10.6,1672
+Nov-24,E09000016,Havering,London,10.8,1441
+Nov-24,E09000017,Hillingdon,London,10.4,1485
+Nov-24,E09000018,Hounslow,London,13.6,1856
+Nov-24,E09000019,Islington,London,12.3,2633
+Nov-24,E09000020,Kensington and Chelsea,London,10.8,3528
+Nov-24,E09000021,Kingston upon Thames,London,7.2,1710
+Nov-24,E09000022,Lambeth,London,8.6,2276
+Nov-24,E09000023,Lewisham,London,8.9,1725
+Nov-24,E09000024,Merton,London,10.1,1986
+Nov-24,E09000025,Newham,London,4.9,1738
+Nov-24,E09000026,Redbridge,London,11.4,1612
+Nov-24,E09000027,Richmond upon Thames,London,13.1,2102
+Nov-24,E09000028,Southwark,London,8.9,2317
+Nov-24,E09000029,Sutton,London,14.4,1487
+Nov-24,E09000030,Tower Hamlets,London,9.3,2309
+Nov-24,E09000031,Waltham Forest,London,9.8,1678
+Nov-24,E09000032,Wandsworth,London,8.8,2424
+Nov-24,E09000033,Westminster,London,10.5,3173
+Dec-24,E09000002,Barking and Dagenham,London,10.2,1513
+Dec-24,E09000003,Barnet,London,5.3,1799
+Dec-24,E09000004,Bexley,London,9.3,1404
+Dec-24,E09000005,Brent,London,26.4,2107
+Dec-24,E09000006,Bromley,London,7.2,1591
+Dec-24,E09000007,Camden,London,11.7,2774
+Dec-24,E09000008,Croydon,London,9.9,1480
+Dec-24,E09000009,Ealing,London,14.4,2001
+Dec-24,E09000010,Enfield,London,10.2,1657
+Dec-24,E09000011,Greenwich,London,7.4,1855
+Dec-24,E09000012,Hackney,London,13.5,2473
+Dec-24,E09000013,Hammersmith and Fulham,London,10.5,2685
+Dec-24,E09000014,Haringey,London,11.8,2103
+Dec-24,E09000015,Harrow,London,10.3,1684
+Dec-24,E09000016,Havering,London,10.7,1448
+Dec-24,E09000017,Hillingdon,London,10.5,1500
+Dec-24,E09000018,Hounslow,London,14.1,1877
+Dec-24,E09000019,Islington,London,12.9,2662
+Dec-24,E09000020,Kensington and Chelsea,London,12,3595
+Dec-24,E09000021,Kingston upon Thames,London,6.5,1719
+Dec-24,E09000022,Lambeth,London,9.6,2306
+Dec-24,E09000023,Lewisham,London,8.8,1737
+Dec-24,E09000024,Merton,London,11,2007
+Dec-24,E09000025,Newham,London,4.8,1749
+Dec-24,E09000026,Redbridge,London,11.7,1631
+Dec-24,E09000027,Richmond upon Thames,London,14.7,2125
+Dec-24,E09000028,Southwark,London,8.7,2331
+Dec-24,E09000029,Sutton,London,13,1493
+Dec-24,E09000030,Tower Hamlets,London,9.1,2326
+Dec-24,E09000031,Waltham Forest,London,10,1692
+Dec-24,E09000032,Wandsworth,London,9.3,2450
+Dec-24,E09000033,Westminster,London,12.6,3235
+Jan-25,E09000002,Barking and Dagenham,London,10.2,1523
+Jan-25,E09000003,Barnet,London,5.7,1808
+Jan-25,E09000004,Bexley,London,9.2,1411
+Jan-25,E09000005,Brent,London,23.6,2107
+Jan-25,E09000006,Bromley,London,6.9,1598
+Jan-25,E09000007,Camden,London,13.9,2834
+Jan-25,E09000008,Croydon,London,9.4,1485
+Jan-25,E09000009,Ealing,London,14.8,2023
+Jan-25,E09000010,Enfield,London,11.1,1673
+Jan-25,E09000011,Greenwich,London,6.5,1863
+Jan-25,E09000012,Hackney,London,13.8,2499
+Jan-25,E09000013,Hammersmith and Fulham,London,11.2,2713
+Jan-25,E09000014,Haringey,London,12.5,2120
+Jan-25,E09000015,Harrow,London,9.8,1694
+Jan-25,E09000016,Havering,London,10.7,1455
+Jan-25,E09000017,Hillingdon,London,10.3,1509
+Jan-25,E09000018,Hounslow,London,13.8,1878
+Jan-25,E09000019,Islington,London,12.8,2682
+Jan-25,E09000020,Kensington and Chelsea,London,12.2,3626
+Jan-25,E09000021,Kingston upon Thames,London,5.9,1728
+Jan-25,E09000022,Lambeth,London,10.7,2338
+Jan-25,E09000023,Lewisham,London,8.8,1750
+Jan-25,E09000024,Merton,London,12,2030
+Jan-25,E09000025,Newham,London,4.8,1755
+Jan-25,E09000026,Redbridge,London,11.7,1640
+Jan-25,E09000027,Richmond upon Thames,London,15.5,2143
+Jan-25,E09000028,Southwark,London,8.4,2342
+Jan-25,E09000029,Sutton,London,11.6,1499
+Jan-25,E09000030,Tower Hamlets,London,9.1,2340
+Jan-25,E09000031,Waltham Forest,London,10,1703
+Jan-25,E09000032,Wandsworth,London,9.7,2472
+Jan-25,E09000033,Westminster,London,13.4,3284
+Feb-25,E09000002,Barking and Dagenham,London,11.1,1545
+Feb-25,E09000003,Barnet,London,6.1,1820
+Feb-25,E09000004,Bexley,London,9.3,1416
+Feb-25,E09000005,Brent,London,15.8,2105
+Feb-25,E09000006,Bromley,London,6.7,1604
+Feb-25,E09000007,Camden,London,14.2,2836
+Feb-25,E09000008,Croydon,London,9,1494
+Feb-25,E09000009,Ealing,London,14.2,2031
+Feb-25,E09000010,Enfield,London,12,1686
+Feb-25,E09000011,Greenwich,London,5.8,1863
+Feb-25,E09000012,Hackney,London,13.6,2516
+Feb-25,E09000013,Hammersmith and Fulham,London,11,2724
+Feb-25,E09000014,Haringey,London,12.5,2135
+Feb-25,E09000015,Harrow,London,9.4,1700
+Feb-25,E09000016,Havering,London,10.6,1467
+Feb-25,E09000017,Hillingdon,London,10,1516
+Feb-25,E09000018,Hounslow,London,12.8,1873
+Feb-25,E09000019,Islington,London,11.9,2694
+Feb-25,E09000020,Kensington and Chelsea,London,12.1,3643
+Feb-25,E09000021,Kingston upon Thames,London,5.7,1732
+Feb-25,E09000022,Lambeth,London,10.5,2353
+Feb-25,E09000023,Lewisham,London,8.7,1757
+Feb-25,E09000024,Merton,London,10.6,2040
+Feb-25,E09000025,Newham,London,5,1760
+Feb-25,E09000026,Redbridge,London,11.7,1649
+Feb-25,E09000027,Richmond upon Thames,London,14.1,2153
+Feb-25,E09000028,Southwark,London,7.7,2349
+Feb-25,E09000029,Sutton,London,9.9,1504
+Feb-25,E09000030,Tower Hamlets,London,8.5,2349
+Feb-25,E09000031,Waltham Forest,London,10.1,1712
+Feb-25,E09000032,Wandsworth,London,9.2,2480
+Feb-25,E09000033,Westminster,London,12.7,3289
+Mar-25,E09000002,Barking and Dagenham,London,11.7,1568
+Mar-25,E09000003,Barnet,London,6.9,1838
+Mar-25,E09000004,Bexley,London,9.4,1422
+Mar-25,E09000005,Brent,London,9.2,2105
+Mar-25,E09000006,Bromley,London,6.7,1611
+Mar-25,E09000007,Camden,London,14.1,2840
+Mar-25,E09000008,Croydon,London,8.4,1502
+Mar-25,E09000009,Ealing,London,13.2,2033
+Mar-25,E09000010,Enfield,London,12.5,1698
+Mar-25,E09000011,Greenwich,London,5.2,1865
+Mar-25,E09000012,Hackney,London,12.4,2534
+Mar-25,E09000013,Hammersmith and Fulham,London,11.1,2738
+Mar-25,E09000014,Haringey,London,12.5,2153
+Mar-25,E09000015,Harrow,London,8.7,1702
+Mar-25,E09000016,Havering,London,10.3,1478
+Mar-25,E09000017,Hillingdon,London,9.8,1521
+Mar-25,E09000018,Hounslow,London,12,1870
+Mar-25,E09000019,Islington,London,10.6,2699
+Mar-25,E09000020,Kensington and Chelsea,London,10.3,3639
+Mar-25,E09000021,Kingston upon Thames,London,5.8,1736
+Mar-25,E09000022,Lambeth,London,10.2,2366
+Mar-25,E09000023,Lewisham,London,8.5,1764
+Mar-25,E09000024,Merton,London,9,2049
+Mar-25,E09000025,Newham,London,5.6,1776
+Mar-25,E09000026,Redbridge,London,11.8,1659
+Mar-25,E09000027,Richmond upon Thames,London,12.7,2163
+Mar-25,E09000028,Southwark,London,7.2,2358
+Mar-25,E09000029,Sutton,London,9.5,1507
+Mar-25,E09000030,Tower Hamlets,London,7.7,2355
+Mar-25,E09000031,Waltham Forest,London,10.2,1721
+Mar-25,E09000032,Wandsworth,London,8.5,2488
+Mar-25,E09000033,Westminster,London,11.3,3277
+Apr-25,E09000002,Barking and Dagenham,London,12.6,1591
+Apr-25,E09000003,Barnet,London,7.2,1852
+Apr-25,E09000004,Bexley,London,9.2,1428
+Apr-25,E09000005,Brent,London,2.7,2067
+Apr-25,E09000006,Bromley,London,6.5,1617
+Apr-25,E09000007,Camden,London,13.3,2836
+Apr-25,E09000008,Croydon,London,7.6,1508
+Apr-25,E09000009,Ealing,London,12.4,2035
+Apr-25,E09000010,Enfield,London,12.2,1706
+Apr-25,E09000011,Greenwich,London,4.7,1868
+Apr-25,E09000012,Hackney,London,10.8,2539
+Apr-25,E09000013,Hammersmith and Fulham,London,11.3,2749
+Apr-25,E09000014,Haringey,London,11.5,2163
+Apr-25,E09000015,Harrow,London,8.2,1706
+Apr-25,E09000016,Havering,London,10,1494
+Apr-25,E09000017,Hillingdon,London,9.2,1526
+Apr-25,E09000018,Hounslow,London,11.4,1872
+Apr-25,E09000019,Islington,London,9.4,2704
+Apr-25,E09000020,Kensington and Chelsea,London,9.3,3663
+Apr-25,E09000021,Kingston upon Thames,London,6.6,1750
+Apr-25,E09000022,Lambeth,London,9.9,2374
+Apr-25,E09000023,Lewisham,London,7.8,1767
+Apr-25,E09000024,Merton,London,7.1,2052
+Apr-25,E09000025,Newham,London,5.9,1791
+Apr-25,E09000026,Redbridge,London,11.6,1669
+Apr-25,E09000027,Richmond upon Thames,London,11.9,2184
+Apr-25,E09000028,Southwark,London,7.1,2365
+Apr-25,E09000029,Sutton,London,8.1,1509
+Apr-25,E09000030,Tower Hamlets,London,6.8,2359
+Apr-25,E09000031,Waltham Forest,London,10,1733
+Apr-25,E09000032,Wandsworth,London,7.9,2497
+Apr-25,E09000033,Westminster,London,10.3,3267
+May-25,E09000002,Barking and Dagenham,London,13.2,1613
+May-25,E09000003,Barnet,London,7.5,1867
+May-25,E09000004,Bexley,London,10.5,1457
+May-25,E09000005,Brent,London,-0.1,2031
+May-25,E09000006,Bromley,London,6.4,1625
+May-25,E09000007,Camden,London,11.4,2822
+May-25,E09000008,Croydon,London,7.4,1516
+May-25,E09000009,Ealing,London,11.9,2037
+May-25,E09000010,Enfield,London,11.8,1715
+May-25,E09000011,Greenwich,London,4.1,1870
+May-25,E09000012,Hackney,London,9.3,2550
+May-25,E09000013,Hammersmith and Fulham,London,10.2,2756
+May-25,E09000014,Haringey,London,10.8,2172
+May-25,E09000015,Harrow,London,7.7,1710
+May-25,E09000016,Havering,London,9.7,1508
+May-25,E09000017,Hillingdon,London,8.9,1531
+May-25,E09000018,Hounslow,London,11.2,1879
+May-25,E09000019,Islington,London,8.1,2700
+May-25,E09000020,Kensington and Chelsea,London,7.1,3643
+May-25,E09000021,Kingston upon Thames,London,8.4,1780
+May-25,E09000022,Lambeth,London,10,2387
+May-25,E09000023,Lewisham,London,7.3,1771
+May-25,E09000024,Merton,London,7,2056
+May-25,E09000025,Newham,London,7.4,1827
+May-25,E09000026,Redbridge,London,11,1677
+May-25,E09000027,Richmond upon Thames,London,12.2,2202
+May-25,E09000028,Southwark,London,6.3,2357
+May-25,E09000029,Sutton,London,7,1513
+May-25,E09000030,Tower Hamlets,London,6,2362
+May-25,E09000031,Waltham Forest,London,9.6,1743
+May-25,E09000032,Wandsworth,London,7.7,2508
+May-25,E09000033,Westminster,London,8.9,3258
+Jun-25,E09000002,Barking and Dagenham,London,13.9,1633
+Jun-25,E09000003,Barnet,London,7.3,1872
+Jun-25,E09000004,Bexley,London,11.7,1485
+Jun-25,E09000005,Brent,London,-3.1,1999
+Jun-25,E09000006,Bromley,London,6.3,1634
+Jun-25,E09000007,Camden,London,10.6,2804
+Jun-25,E09000008,Croydon,London,7.4,1525
+Jun-25,E09000009,Ealing,London,11.5,2041
+Jun-25,E09000010,Enfield,London,11,1724
+Jun-25,E09000011,Greenwich,London,3.9,1873
+Jun-25,E09000012,Hackney,London,9,2557
+Jun-25,E09000013,Hammersmith and Fulham,London,8.8,2759
+Jun-25,E09000014,Haringey,London,9.9,2175
+Jun-25,E09000015,Harrow,London,7.5,1717
+Jun-25,E09000016,Havering,London,9.4,1522
+Jun-25,E09000017,Hillingdon,London,8.2,1536
+Jun-25,E09000018,Hounslow,London,11.1,1886
+Jun-25,E09000019,Islington,London,7.1,2697
+Jun-25,E09000020,Kensington and Chelsea,London,5.9,3616
+Jun-25,E09000021,Kingston upon Thames,London,10.1,1813
+Jun-25,E09000022,Lambeth,London,10.3,2401
+Jun-25,E09000023,Lewisham,London,6.8,1778
+Jun-25,E09000024,Merton,London,7.2,2058
+Jun-25,E09000025,Newham,London,8.3,1851
+Jun-25,E09000026,Redbridge,London,10.3,1682
+Jun-25,E09000027,Richmond upon Thames,London,12.8,2222
+Jun-25,E09000028,Southwark,London,5.8,2353
+Jun-25,E09000029,Sutton,London,5.9,1521
+Jun-25,E09000030,Tower Hamlets,London,5.4,2364
+Jun-25,E09000031,Waltham Forest,London,9.1,1751
+Jun-25,E09000032,Wandsworth,London,7.9,2519
+Jun-25,E09000033,Westminster,London,7.1,3251

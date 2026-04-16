@@ -77,10 +77,10 @@ This projects answers the kinds of questions people ask when searching for a pla
 ## Key Insights📈
 
 ### Affordability:
-- The average combined rent showed the top 3 expensive boroughs as: Westminster, Kensigton and Chelsea and Camden. Where as the top 3 most affordable boroughs were: Bexley, Havering and Sutton were the most affordable boroughs
+- The average combined rent showed the top 3 most expensive boroughs as: Westminster, Kensigton and Chelsea and Camden. Where as the top 3 most affordable boroughs were: Bexley, Havering and Sutton were the most affordable boroughs
 - When comparing rent by property size:
   - The most affordable boroughs were: Havering, Bexley, Sutton
-  - However, the more expensive boroughs when comparing rent by property size:
+  - However, the most expensive boroughs when comparing rent by property size:
     - Westminster
     - Kensington and Chelsea
     - Islington

@@ -6,6 +6,22 @@
 
 </div>
 
+## Table of Contents 
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Dashboard](#dashboard)
+- [Dashboard Preview](#dashboard-preview)
+- [Tools & Technologies](#tools--technologies)
+- [Data Sources](#data-sources)
+- [Methodology](#methodology)
+- [Key Insights](#key-insights)
+  - [Affordability](#affordability)
+  - [Crime Rate](#crime-rate)
+  - [Crime Patterns](#crime-patterns)
+  - [Best Balance (Safe vs. Affordable)](#best-balance-safe-vs-affordable)
+  - [Rental Prices over Time](#rental-prices-over-time)
+- [Limitations](#limitations)
+- [Future Improvements](#future-improvements) 
 
 ## ✨Project Overview✨
 
